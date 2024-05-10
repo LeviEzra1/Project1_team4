@@ -1,4 +1,4 @@
-Incident_ID,Date,Quarter,school,City,State,School_Level,Location,During_School,Time_Period,First_Shot,Bullied,Domestic_Violence,Gang_Related,Preplanned
+Incident ID,Date,Quarter,School,City,State,School_Level,Location,During School,Time Period,First Shot,Bullied,Domestic Violence,Gang Related,Preplanned
 19700105DCHIW,1970-01-05,Winter,Hine Junior High School,Washington,DC,High,Inside School Building,Yes,,,No,No,No,No
 19700105DCSOW,1970-01-05,Winter,Sousa Junior High,Washington,DC,Junior High,Hallway,Yes,,,No,No,No,No
 19700105DCUNW,1970-01-05,Winter,Unnamed High School,Washington,DC,High,Playground,Yes,,,No,No,No,No
