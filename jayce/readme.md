@@ -13,3 +13,7 @@ SUCCESS! I have the code for us to pull latitude and longitude coordinates from 
 NOTE: when plotting latitude and longitude w/ hvplot, you MUST place longitude FIRST and then latitude. otherwise it will not plot correctly
 
 prototype map uploaded. fiddling around with the different sizes for our points. This is still off of only 1 DataFrame that hasn't been merged with others yet.
+
+adjusting the "scale" universally adjusts the scaling of the points on the map
+points "size" is currently set to number of victims (not necessarily deaths) from each of the school shootings
+Although the death of a child ultimately weighs more, I think "victim count" is a more important statistic to keep track of; in an ideal world, no children would get shot while in school or even when they're not in school
