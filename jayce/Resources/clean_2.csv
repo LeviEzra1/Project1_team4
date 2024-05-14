@@ -1,0 +1,388 @@
+School,Year,Date,Time,City,State,Killed,Injured,Longitude,Latitude
+Columbine High School,1999,4/20/1999,11:19 AM,Littleton,Colorado,13,21,-105.075,39.60391
+Scotlandville Middle School,1999,4/22/1999,12:30 PM,Baton Rouge,Louisiana,0,1,-91.169966,30.529958
+Heritage High School,1999,5/20/1999,8:03 AM,Conyers,Georgia,0,6,-84.04796,33.626922
+John Bartram High School,1999,10/4/1999,10:00 AM,Philadelphia,Pennsylvania,0,1,-75.234108,39.921509
+Dorchester High School,1999,11/3/1999,7:40 AM,Boston,Massachusetts,0,1,-71.075901,42.285268
+Deming Middle School,1999,11/19/1999,12:45 PM,Deming,New Mexico,1,0,-107.762986,32.261547
+Fort Gibson Middle School,1999,12/6/1999,7:45 AM,Fort Gibson,Oklahoma,0,5,-95.241921,35.795556
+Ridgewood High School,2000,1/19/2000,3:00 PM,New Port Richey,Florida,1,0,-82.687231,28.273253
+Alicia Reyes Elementary School,2000,1/26/2000,8:34 AM,Merced,California,0,0,-120.494808,37.286387
+Duke Ellington Elementary School,2000,2/14/2000,,Chicago,Illinois,0,1,-87.766042,41.885272
+Horn Lake High School,2000,2/22/2000,,Horn Lake,Mississippi,0,0,-90.035423,34.948919
+Tecumseh High School,2000,2/24/2000,9:00 AM,Tecumseh,Oklahoma,0,0,-96.943184,35.255494
+Buell Elementary School,2000,2/29/2000,10:00 AM,Mount Morris Township,Michigan,1,0,-83.706037,43.079604
+Hugo High School,2000,4/6/2000,12:00 PM,Hugo,Oklahoma,0,1,-95.511435,34.010732
+Carmichael Elementary School,2000,5/10/2000,1:30 PM,Sierra Vista,Arizona,1,0,-110.29924,31.56269
+Lake Worth Middle School,2000,5/26/2000,3:00 PM,Lake Worth,Florida,1,0,-80.085968,26.451351
+Dimmitt Middle School,2000,7/17/2000,10:30 AM,Renton,Washington,0,0,-122.233115,47.493015
+Mount Healthy North Junior High,2000,9/18/2000,,Mount Healthy,Ohio,0,0,-84.555558,39.251506
+Carter G. Woodson Middle School,2000,9/26/2000,12:00 PM,New Orleans,Louisiana,0,1,-90.090046,29.939676
+Hueneme High School,2001,1/10/2001,12:50 PM,Oxnard,California,0,0,-119.1822,34.160149
+Lake Clifton Eastern High School,2001,1/17/2001,8:45 AM,Baltimore,Maryland,1,0,-76.590038,39.316116
+Pearl C. Anderson Middle School,2001,2/6/2001,,Dallas,Texas,0,1,-96.744389,32.759323
+Santana High School,2001,3/5/2001,9:20 AM,Santee,California,2,13,-116.971045,32.85756
+Bishop Neumann Junior-Senior High,2001,3/7/2001,12:00 PM,Williamsport,Pennsylvania,0,1,-76.996564,41.249266
+Granite Hills High School,2001,3/22/2001,1:00 PM,El Cajon,California,0,5,-116.916889,32.800101
+Lew Wallace High School,2001,3/30/2001,8:15 AM,Gary,Indiana,1,0,-87.34132,41.536645
+Monroe City Alternative Center,2001,4/20/2001,7:20 AM,Monroe,Louisiana,0,0,-92.070624,32.524187
+Ennis High School,2001,5/15/2001,12:00 PM,Ennis,Texas,0,0,-96.629758,32.305062
+Belmont High School,2001,7/30/2001,7:20 AM,Los Angeles,California,0,1,-118.263286,34.061499
+Latonia Elementary School,2001,9/12/2001,3:00 PM,Covington,Kentucky,1,0,-84.49833,39.044149
+Redondo Union High School,2001,10/26/2001,10:00 AM,Redondo Beach,California,0,1,-118.384456,33.844274
+Caro Learning Center,2001,11/12/2001,2:40 PM,Caro,Michigan,0,0,-83.438553,43.458011
+"Martin Luther King, Jr. High School",2002,1/15/2002,2:00 PM,New York City,New York,0,2,-73.985021,40.774262
+Gardena High School,2002,2/6/2002,2:50 PM,Los Angeles,California,0,2,-118.296704,33.866342
+Benjamin Tasker Middle School,2002,10/7/2002,8:09 AM,Bowie,Maryland,0,1,-76.746341,38.957407
+Lincoln High School,2002,10/29/2002,8:30 AM,Jersey City,New Jersey,0,1,-74.070502,40.716783
+St. James Catholic School,2002,11/7/2002,12:30 PM,Liberty,Missouri,1,1,-94.45515,39.240746
+Mount Pleasant High School,2003,1/22/2003,,Providence,Rhode Island,0,0,-71.45125,41.837981
+Ranum High School,2003,2/5/2003,8:40 AM,Westminster,Colorado,0,0,-105.015495,39.841774
+Cardozo High School,2003,4/1/2003,12:15 PM,Washington,District of Columbia,0,1,-77.029756,38.922338
+John McDonogh High School,2003,4/14/2003,10:30 AM,New Orleans,Louisiana,1,3,-90.075733,29.974421
+Delhi Middle School,2003,4/15/2003,8:15 AM,Delhi,California,0,1,-120.792392,37.426801
+Red Lion Area Junior High School,2003,4/24/2003,7:30 AM,Red Lion,Pennsylvania,1,0,-76.609728,39.893809
+Vicksburg High School,2003,9/10/2003,2:30 PM,Vicksburg,Mississippi,1,0,-90.885251,32.323263
+Lewis and Clark High School,2003,9/22/2003,11:10 AM,Spokane,Washington,0,0,-117.419841,47.652394
+Rocori High School,2003,9/24/2003,11:38 AM,Cold Spring,Minnesota,2,0,-94.426618,45.466258
+Burns Middle School,2003,9/25/2003,8:00 AM,Lawndale,North Carolina,0,0,-81.539104,35.425762
+Rio Cazadero High School,2003,10/1/2003,9:00 AM,Sacramento,California,0,2,-121.435306,38.469639
+East Mecklenburg High School,2003,11/13/2003,11:45 AM,Charlotte,North Carolina,0,1,-80.756579,35.175976
+Ballou High School,2004,2/2/2004,10:30 AM,Washington,District of Columbia,1,1,-77.001667,38.839005
+Columbia High School,2004,2/9/2004,10:30 AM,East Greenbush,New York,0,1,-73.690848,42.62068
+T.M. Peirce Elementary School,2004,2/11/2004,8:30 AM,Philadelphia,Pennsylvania,1,1,-75.168248,39.998621
+Castlemont High School,2004,6/9/2004,12:22 PM,Oakland,California,0,2,-122.16302,37.75982
+Proviso East High School,2004,8/30/2004,2:30 PM,Maywood,Illinois,1,0,-87.83382,41.88062
+Wirt High School,2004,9/15/2004,,Gary,Indiana,0,0,-87.26145,41.60997
+Thurgood Marshall High School,2004,10/21/2004,4:00 PM,Baltimore,Maryland,0,2,-76.54552,39.31911
+Booker T. Washington High School,2004,11/12/2004,12:00 PM,New Orleans,Louisiana,0,1,-90.08893,29.94966
+Emmanuel Christian Academy,2004,12/7/2004,3:00 PM,Jackson,Mississippi,0,1,-90.196049,32.288835
+Woodruff High School,2005,1/26/2005,,Peoria,Illinois,0,0,-89.57513,40.70725
+Bowen High School,2005,2/8/2005,2:32 PM,Chicago,Illinois,0,1,-87.557742,41.73354
+Maplewood Comprehensive High School,2005,3/9/2005,2:00 PM,Nashville,Tennessee,0,1,-86.74568,36.22912
+Red Lake High School,2005,3/21/2005,2:49 PM,Red Lake,Minnesota,7,7,-95.0629,47.8509
+Canton High School,2005,4/7/2005,9:20 AM,Canton,Texas,0,1,-95.86617,32.54958
+Highland Elementary School,2005,5/17/2005,3:00 PM,Lower Allen Township,Pennsylvania,1,0,-76.95256,40.21999
+Maury Middle School,2005,8/25/2005,9:30 AM,Jacksboro,Tennessee,0,1,-83.4041,36.0213
+Sojourner Truth High School,2005,9/2/2005,12:50 PM,Jacksonville,Florida,0,1,-81.61618,30.27037
+Harlan Community Academy High School,2005,9/13/2005,2:20 PM,Chicago,Illinois,0,1,-87.62085,41.7184
+Farmington High School,2005,10/11/2005,8:00 AM,Farmington,Missouri,0,0,-90.43619,37.78108
+Saginaw High School,2005,10/20/2005,12:00 PM,Saginaw,Michigan,0,1,-83.92541,43.40713
+Campbell County High School,2005,11/8/2005,2:00 PM,Jacksboro,Tennessee,1,2,-84.14832,36.35086
+Central High School,2005,12/6/2005,1:30 PM,Detroit,Michigan,0,1,-83.11269,42.38469
+Mary McLeod Bethune Academy,2006,1/11/2006,12:30 PM,Milwaukee,Wisconsin,0,1,-87.95774,43.05063
+Milwee Middle School,2006,1/13/2006,9:30 AM,Longwood,Florida,1,0,-81.34669,28.68172
+Indian River High School,2006,1/18/2006,11:00 AM,Chesapeake,Virginia,0,0,-76.24185,36.79721
+Will C. Wood High School,2006,1/23/2006,9:45 AM,Vacaville,California,0,1,-121.97421,38.34635
+Lakeview Centennial High School,2006,1/27/2006,,Garland,Texas,0,2,-96.57589,32.85566
+Westinghouse High School,2006,2/21/2006,7:45 AM,Pittsburgh,Pennsylvania,0,1,-79.90059,40.4607
+Roseburg High School,2006,2/23/2006,7:45 AM,Roseburg,Oregon,0,1,-123.34712,43.208
+Pine Middle School,2006,3/14/2006,9:00 AM,Reno,Nevada,0,2,-119.78186,39.47981
+Venice High School,2006,6/5/2006,3:10 PM,Los Angeles,California,1,0,-118.44282,33.99881
+Orange High School,2006,8/30/2006,1:00 PM,Hillsborough,North Carolina,0,2,-79.09337,36.09233
+South Hills High School,2006,9/8/2006,1:20 PM,Fort Worth,Texas,0,1,-97.36,32.65726
+Platte Canyon High School,2006,9/27/2006,11:40 AM,Bailey,Colorado,1,0,-105.64543,39.45566
+Weston High School,2006,9/29/2006,8:10 AM,Cazenovia,Wisconsin,1,0,-90.19016,43.48211
+West Nickel Mines Amish School,2006,10/2/2006,11:07 AM,Nickel Mines,Pennsylvania,5,5,-76.084367,39.960081
+Memorial Middle School,2006,10/9/2006,7:45 AM,Joplin,Missouri,0,0,-94.51586,37.08277
+Henry Foss High School,2007,1/3/2007,7:30 AM,Tacoma,Washington,1,0,-122.49364,47.24114
+Robert A. Taft Information Technology High School,2007,1/8/2007,10:45 AM,Cincinnati,Ohio,0,0,-84.52183,39.10911
+William L.Sayre High School,2007,1/18/2007,8:25 AM,Philadelphia,Pennsylvania,0,1,-75.2374,39.95793
+Herbert Henry Dow High School,2007,3/7/2007,10:57 AM,Midland,Michigan,0,1,-84.27414,43.64091
+Chicago Vocational Career Academy,2007,4/9/2007,2:30 PM,Chicago,Illinois,0,1,-87.57236,41.7372
+Springwater Trail High School,2007,4/10/2007,2:15 PM,Gresham,Oregon,0,10,-122.40894,45.48655
+Liberty Memorial Middle School,2007,5/15/2007,10:00 AM,Los Fresnos,Texas,0,0,-97.5108,26.1106
+George S. Middleton High School,2007,6/6/2007,12:00 PM,Tampa,Florida,0,0,-82.43267,27.99133
+SuccessTech Academy,2007,10/10/2007,1:15 PM,Cleveland,Ohio,0,4,-81.6869,41.50762
+Groves High School,2007,10/15/2007,2:45 PM,Garden City,Georgia,0,0,-81.15661,32.10841
+Crossroads Charter High School,2008,1/16/2008,10:15 AM,Charlotte,North Carolina,0,1,-80.77591,35.26039
+Hamilton High School,2008,2/4/2008,10:00 AM,Memphis,Tennessee,0,1,-90.0174,35.10069
+Notre Dame Elementary School,2008,2/7/2008,9:12 AM,Portsmouth,Ohio,0,1,-82.986607,38.735563
+Mitchell High School,2008,2/11/2008,9:00 AM,Memphis,Tennessee,0,1,-90.08589,35.05595
+E.O. Green Junior High School,2008,2/12/2008,8:15 AM,Oxnard,California,1,0,-119.1814,34.16568
+Friends of Children Head Start center,2008,3/18/2008,1:00 PM,Carthage,Mississippi,1,1,,
+Roosevelt High School,2008,4/16/2008,11:54 AM,Fresno,California,1,0,-119.7537,36.74302
+Central High School,2008,8/21/2008,8:10 AM,Knoxville,Tennessee,1,0,-83.9216,36.0392
+Dillard High School,2008,11/12/2008,11:00 AM,Fort Lauderdale,Florida,1,0,-80.176,26.1383
+Central High School,2009,2/17/2009,2:00 PM,Detroit,Michigan,0,2,-83.1115,42.3837
+John Muir Elementary School,2009,2/20/2009,12:00 PM,Hayward,California,0,0,-122.083,37.6566
+Ribault High School,2009,3/10/2009,7:22 AM,Jacksonville,Florida,0,0,-81.707,30.3895
+Larose-Cut Off Middle School,2009,5/18/2009,9:00 AM,Larose,Louisiana,0,0,-90.3295,29.5004
+Stamford Academy,2009,9/8/2009,8:05 AM,Stamford,Connecticut,0,0,-73.536464,41.059329
+Virginia Randolph Community High School,2009,9/16/2009,12:30 PM,Glen Allen,Virginia,0,0,-77.483135,37.661586
+Mattituck Junior-Senior High School,2009,10/8/2009,2:00 PM,Mattituck,New York,0,1,-72.529205,40.996241
+Carolina Forest High School,2009,10/16/2009,8:25 AM,Conway,South Carolina,1,0,-78.97152,33.780761
+Booker T. Washington High School,2009,12/11/2009,8:10 AM,Shreveport,Louisiana,0,1,-93.77398,32.503605
+Discovery Middle School,2010,2/5/2010,1:45 PM,Madison,Alabama,1,0,-86.741148,34.740322
+Deer Creek Middle School,2010,2/23/2010,3:14 PM,Littleton,Colorado,0,2,-105.102,39.5869
+Woodrow Wilson High School,2010,4/28/2010,12:15 PM,Portsmouth,Virginia,0,0,-76.381349,36.815009
+South Gate High School,2010,5/18/2010,7:51 AM,South Gate,California,0,1,-118.209757,33.954604
+Sullivan Central High School,2010,8/30/2010,9:10 AM,Blountville,Tennessee,1,0,-82.387049,36.531336
+Socastee High School,2010,9/21/2010,2:00 PM,Conway,South Carolina,0,1,-79.004328,33.6788
+Alisal High School,2010,10/1/2010,7:53 AM,Salinas,California,1,0,-121.595961,36.686184
+Kelly Elementary School,2010,10/8/2010,12:00 PM,Carlsbad,California,0,2,-117.311227,33.14836
+Marinette High School,2010,11/29/2010,1:30 PM,Marinette,Wisconsin,0,0,-87.629512,45.084351
+Millard South High School,2011,1/5/2011,12:45 PM,Omaha,Nebraska,1,2,-96.146049,41.203481
+Gardena High School,2011,1/18/2011,10:40 AM,Los Angeles,California,0,2,-118.29633,33.866372
+Louisiana Schnell Elementary School,2011,2/2/2011,10:37 AM,Placerville,California,1,0,-120.779419,38.735106
+Martinsville West Middle,2011,3/25/2011,7:00 AM,Martinsville,Indiana,0,1,-86.427053,39.420621
+Sheeler Charter High School,2011,4/13/2011,12:00 PM,Apopka,Florida,0,1,-81.494124,28.673157
+Ross Elementary School,2011,4/19/2011,10:20 AM,Houston,Texas,0,2,-95.341835,29.800326
+Cape Fear High School,2011,10/24/2011,1:00 PM,Fayetteville,North Carolina,0,1,-78.762384,35.034044
+Cummings Middle School,2012,1/4/2012,8:00 AM,Brownsville,Texas,1,0,-97.493734,25.913899
+North Forest High School,2012,1/10/2012,12:30 PM,Houston,Texas,0,1,-95.26259,29.868788
+Walpole Elementary School,2012,2/10/2012,11:00 AM,Walpole,New Hampshire,0,0,-72.426439,43.078915
+Armin Jahr Elementary School,2012,2/22/2012,1:30 PM,Bremerton,Washington,0,1,-122.63622,47.593761
+Chardon High School,2012,2/27/2012,7:30 AM,Chardon,Ohio,3,3,-81.199958,41.591297
+Episcopal School of Jacksonville,2012,3/6/2012,1:15 PM,Jacksonville,Florida,1,0,-81.617917,30.308617
+LeFlore High School,2012,3/15/2012,10:50 AM,Mobile,Alabama,0,0,-88.086526,30.714209
+Mary Scroggs Elementary School,2012,5/25/2012,2:00 PM,Chapel Hill,North Carolina,1,0,-79.068506,35.879122
+Perry Hall High School,2012,8/27/2012,10:45 AM,Baltimore,Maryland,0,1,-76.466091,39.39186
+Normal Community High School,2012,9/7/2012,8:00 AM,Normal,Illinois,0,0,-88.914486,40.533285
+Sandy Hook Elementary School,2012,12/14/2012,9:35 AM,Newtown,Connecticut,26,2,-73.277751,41.41978
+Apostolic Revival Center and Christian School,2013,1/7/2013,11:00 AM,Fort Myers,Florida,1,0,-81.834212,26.64062
+Taft Union High School,2013,1/10/2013,9:00 AM,Taft,California,0,2,-119.460383,35.146256
+Price Middle School,2013,1/31/2013,1:50 PM,Atlanta,Georgia,0,1,-84.387442,33.708772
+La Salle High School,2013,4/29/2013,8:00 AM,Cincinnati,Ohio,0,0,-84.586704,39.189162
+Redland Middle School,2013,5/23/2013,,Homestead,Florida,0,1,-80.453001,25.5369
+Ronald E. McNair Discovery Learning Academy,2013,8/20/2013,12:51 PM,Decatur,Georgia,0,0,-84.3068,33.7273
+Carver High School,2013,8/30/2013,2:25 PM,Winston-Salem,North Carolina,0,1,-80.2066,36.1343
+Agape Christian Academy,2013,10/4/2013,2:00 PM,Pine Hills,Florida,0,2,-81.475051,28.57586
+Lanier High School,2013,10/15/2013,12:04 PM,Austin,Texas,0,0,-97.708,30.3606
+Sparks Middle School,2013,10/21/2013,7:15 AM,Sparks,Nevada,1,2,-119.7694,39.5517
+Newman Elementary School,2013,10/23/2013,11:14 AM,Chino,California,0,3,-117.7144,34.0271
+West Orange High School,2013,12/4/2013,1:15 PM,Winter Garden,Florida,0,1,-81.5673,28.5428
+Arapahoe High School,2013,12/13/2013,12:30 PM,Centennial,Colorado,1,0,-104.9628,39.5817
+Liberty Technology Magnet High School,2014,1/9/2014,2:21 PM,Jackson,Tennessee,0,1,-88.7593,35.675
+Berrendo Middle School,2014,1/14/2014,7:30 AM,Roswell,New Mexico,0,3,-104.5115,33.4736
+King Elementary School,2014,1/15/2014,2:48 PM,Lancaster,Pennsylvania,0,0,-76.2998,40.0344
+Delaware Valley Charter School,2014,1/17/2014,3:20 PM,Philadelphia,Pennsylvania,0,2,-75.1446,40.0331
+Rebound High School,2014,1/27/2014,12:00 PM,Carbondale,Illinois,0,1,-89.227812,37.727439
+President Theodore Roosevelt High,2014,1/28/2014,8:30 AM,Honolulu,Hawaii,0,1,-157.8372,21.3104
+Bend High School,2014,2/7/2014,12:00 PM,Bend,Oregon,0,0,-121.2959,44.0523
+Salisbury High School,2014,2/10/2014,2:41 PM,Salisbury,North Carolina,0,1,-80.4849,35.6648
+Success Academy,2014,2/20/2014,10:30 AM,Raytown,Missouri,1,0,-94.5688,39.094
+Benjamin Banneker High School,2014,3/25/2014,1:00 PM,College Park,Georgia,0,0,-84.5176,33.593
+D. H. Conley High School,2014,4/9/2014,1:30 PM,Greenville,North Carolina,0,0,-77.3248,35.5306
+Reynolds High School,2014,6/10/2014,8:07 AM,Troutdale,Oregon,1,1,-122.4026,45.5285
+Stellar Leadership Academy,2014,9/9/2014,,Miami,Florida,0,1,-80.243461,25.84814
+Fern Creek High School,2014,9/30/2014,1:00 PM,Louisville,Kentucky,0,1,-85.592357,38.156605
+Albemarle High School,2014,9/30/2014,7:40 AM,Albemarle,North Carolina,0,1,-80.193152,35.371268
+Marysville Pilchuck High School,2014,10/24/2014,10:39 AM,Marysville,Washington,4,1,-122.154021,48.09582
+Hand in Hand Montessori,2015,1/26/2015,3:07 PM,Roseville,Minnesota,0,0,-93.177024,45.004709
+North Thurston High School,2015,4/27/2015,7:25 AM,Lacey,Washington,0,0,-122.83241,47.051956
+W.S. Hornsby Elementary School,2015,8/25/2015,10:45 AM,Augusta,Georgia,0,1,-81.937992,33.459564
+Harrisburg High School,2015,9/30/2015,10:00 AM,Harrisburg,South Dakota,0,1,-96.6998,43.43212
+Karen Wagner High School,2015,10/15/2015,9:15 AM,San Antonio,Texas,0,0,-98.3578,29.45738
+Vereen School,2015,11/5/2015,,Moultrie,Georgia,0,0,-83.804368,31.175943
+Lecanto High School,2015,11/10/2015,10:30 AM,Lecanto,Florida,0,0,-82.499153,28.824494
+Harmony Grove High School,2016,1/13/2016,3:00 PM,Camden,Arkansas,0,1,-92.7796,33.6514
+Benjamin Franklin High School,2016,1/29/2016,12:00 PM,Philadelphia,Pennsylvania,0,0,-75.162,39.96367
+Independence High School,2016,2/12/2016,7:53 AM,Glendale,Arizona,1,0,-112.221,33.53216
+Madison High School,2016,2/29/2016,11:15 AM,Middletown,Ohio,0,4,-84.4433,39.53385
+Huffman High School,2016,3/15/2016,2:30 PM,Birmingham,Alabama,0,1,-86.682,33.61291
+Alpine High School,2016,9/8/2016,9:00 AM,Alpine,Texas,0,1,-103.665798,30.371983
+Townville Elementary School,2016,9/28/2016,1:45 PM,Townville,South Carolina,1,2,-82.903471,34.56311
+CF Vigor High School,2016,10/11/2016,3:45 PM,Prichard,Alabama,0,1,-88.080692,30.743233
+Linden-McKinley STEM Academy,2016,10/13/2016,2:40 PM,Columbus,Ohio,0,2,-82.974011,40.00952
+June Jordan High School for Equity,2016,10/18/2016,3:20 PM,San Francisco,California,0,4,-122.425241,37.719558
+Union Middle School,2016,10/25/2016,3:00 PM,Sandy,Utah,0,1,-111.873061,40.60715
+Bay City Western High School,2016,11/11/2016,12:30 PM,Auburn,Michigan,0,1,-84.0783,43.60478
+Mueller Park Jr. High,2016,12/1/2016,8:13 AM,Bountiful,Utah,0,0,-111.861172,40.872489
+West Liberty-Salem Middle/High School,2017,1/20/2017,7:36 AM,West Liberty,Ohio,0,2,-83.756761,40.21594
+Scotlandville Magnet High School,2017,2/6/2017,12:00 PM,Baton Rouge,Louisiana,0,0,-91.177851,30.53365
+Robert E. Lee High School,2017,3/16/2017,3:00 PM,Montgomery,Alabama,0,1,-86.271649,32.378702
+North Park Elementary School,2017,4/10/2017,10:30 AM,San Bernardino,California,2,1,-117.301804,34.179206
+Moss Bluff Elementary School,2017,5/15/2017,7:50 AM,Lake Charles,Louisiana,0,1,-93.2032,30.29966
+Greensboro High School,2017,5/24/2017,11:30 AM,Greensboro,Alabama,0,0,-87.589,32.70713
+Warren Elementary School,2017,6/16/2017,1:51 PM,Chicago,Illinois,0,2,-87.575184,41.726922
+Columbus Scioto 6-12,2017,9/8/2017,8:33 AM,Columbus,Ohio,0,0,-82.9958,39.90163
+Freeman High School,2017,9/13/2017,10:00 AM,Rockford,Washington,1,3,-117.19638,47.519667
+Mattoon High School,2017,9/20/2017,11:30 AM,Mattoon,Illinois,0,1,-88.386955,39.474405
+Pattengill Academy,2017,11/3/2017,4:30 PM,Lansing,Michigan,0,1,-84.5243,42.73889
+Benjamin Banneker High School,2017,11/9/2017,3:25 PM,College Park,Georgia,0,2,-84.5176,33.59297
+Rancho Tehama Elementary School,2017,11/14/2017,7:50 AM,Corning,California,0,2,-122.398455,40.015716
+Aztec High School,2017,12/7/2017,8:04 AM,Aztec,New Mexico,2,0,-107.990379,36.820644
+High Point Central High School,2017,12/11/2017,2:08 PM,High Point,North Carolina,0,0,-80.0231,35.95795
+The NET Charter High School,2018,1/22/2018,1:30 PM,New Orleans,Louisiana,0,0,-90.079691,29.93996
+Italy High School,2018,1/22/2018,7:53 AM,Italy,Texas,0,1,-96.878968,32.181129
+Marshall County High School,2018,1/23/2018,7:57 AM,Benton,Kentucky,2,14,-88.332917,36.912835
+Murphy High School,2018,1/25/2018,11:20 AM,Mobile,Alabama,0,0,-88.0867,30.6828
+Salvador B. Castro Middle School,2018,2/1/2018,9:00 AM,Los Angeles,California,0,5,-118.265,34.06169
+Marjory Stoneman Douglas High School,2018,2/14/2018,2:21 PM,Parkland,Florida,17,17,-80.269365,26.304483
+Dalton High School,2018,2/28/2018,11:30 AM,Dalton,Georgia,0,0,-84.99053,34.77972
+Huffman High School,2018,3/7/2018,3:45 PM,Birmingham,Alabama,1,0,-86.682,33.61291
+Seaside High School,2018,3/13/2018,1:20 PM,Seaside,California,0,3,-121.838,36.62444
+Big Sky High School,2018,3/16/2018,12:45 PM,Missoula,Montana,0,0,-114.057737,46.850867
+Douglass Park Elementary School,2018,3/19/2018,4:23 PM,Portsmouth,Virginia,0,1,-76.3393,36.81828
+Great Mills High School,2018,3/20/2018,7:55 AM,Great Mills,Maryland,1,1,-76.4875,38.24743
+Eupora High School,2018,3/28/2018,2:40 PM,Europa,Mississippi,0,0,-89.274143,33.543141
+Jackson High School,2018,4/19/2018,1:44 PM,Jackson,Michigan,0,0,-84.4185,42.2499
+Forest High School,2018,4/20/2018,8:39 AM,Ocala,Florida,0,1,-82.066682,29.14362
+Benjamin Elijah Mays High School,2018,4/23/2018,1:00 PM,Atlanta,Georgia,0,0,-84.5038,33.7339
+Highland High School,2018,4/25/2018,2:30 PM,Albuquerque,New Mexico,0,1,-106.592413,35.074841
+Highland High School,2018,5/11/2018,7:05 AM,Palmdale,California,0,1,-118.175561,34.591755
+Dixon High School,2018,5/16/2018,8:00 AM,Dixon,Illinois,0,0,-89.488508,41.847128
+Santa Fe High School,2018,5/18/2018,7:30 AM,Santa Fe,Texas,10,13,-95.143149,29.393257
+Noblesville West Middle School,2018,5/25/2018,9:06 AM,Noblesville,Indiana,0,2,-86.029001,40.07825
+Villa Heights Elementary School,2018,8/30/2018,7:30 AM,Charlotte,North Carolina,0,0,-80.812768,35.236843
+Canyon Springs High School,2018,9/11/2018,2:35 PM,North Las Vegas,Nevada,1,0,-115.135695,36.233566
+Lawrence Orr Elementary School,2018,9/24/2018,9:00 AM,Charlotte,North Carolina,0,0,-80.743914,35.225991
+Denali Montessori Elementary School,2018,10/3/2018,10:00 AM,Anchorage,Alaska,0,1,-149.881113,61.213281
+Battle Creek Academy,2018,10/12/2018,1:00 PM,Battle Creek,Michigan,0,0,-85.207497,42.33419
+Paul Laurence Dunbar School,2018,10/22/2018,8:15 AM,Bridgeport,Connecticut,0,0,-73.164585,41.177547
+Butler High School,2018,10/29/2018,7:00 AM,Matthews,North Carolina,1,0,-80.6916,35.1203
+Simonsdale Elementary School,2018,11/20/2018,3:45 PM,Portsmouth,Virginia,0,1,-76.36628,36.82682
+Dennis Intermediate School,2018,12/13/2018,8:00 AM,Richmond,Indiana,0,0,-84.9114,39.832
+Cascade Middle School,2019,1/11/2019,10:30 AM,Eugene,Oregon,0,0,-123.1667,44.0788
+North High School,2019,1/16/2019,12:30 PM,Minneapolis,Minnesota,0,0,-93.300234,44.994017
+Frederick Douglass High School,2019,2/8/2019,12:00 PM,Baltimore,Maryland,0,1,-76.6549,39.3148
+V. Sue Cleveland High School,2019,2/14/2019,7:15 AM,Rio Rancho,New Mexico,0,0,-106.641929,35.312773
+Robert E. Lee High School,2019,2/26/2019,11:00 AM,Montgomery,Alabama,0,1,-86.271649,32.378702
+Highlands Elementary School,2019,3/1/2019,1:30 PM,Mission,Kansas,0,0,-94.6409,39.0168
+Blountsville Elementary School,2019,3/22/2019,12:30 PM,Blountsville,Alabama,0,1,-86.586,34.0847
+Prescott High School,2019,4/1/2019,9:14 AM,Prescott,Arkansas,0,1,-93.377376,33.791237
+New Joseph Bonnheim Community Charter School,2019,4/3/2019,1:45 PM,Sacramento,California,0,0,-121.4182,38.5333
+Saint Clair Evans Academy,2019,4/3/2019,11:00 AM,Jacksonville,Florida,0,0,-81.695138,30.371086
+Flex High School,2019,4/17/2019,10:00 AM,Flint,Michigan,0,0,-83.73516,43.059497
+STEM School Highlands Ranch,2019,5/7/2019,1:52 PM,Highlands Ranch,Colorado,1,8,-104.9979,39.5559
+Menta Academy North,2019,6/10/2019,1:45 PM,Waukegan,Illinois,0,0,-87.83950925,42.35333175
+Hendley Elementary School,2019,6/12/2019,4:20 PM,Washington,District of Columbia,0,0,-76.999555,38.828872
+Blount Elementary School,2019,8/8/2019,7:26 AM,Montgomery,Alabama,0,0,-86.1324,32.3106
+Hollenbeck Middle School,2019,8/27/2019,11:00 AM,Los Angeles,California,0,1,-118.212583,34.036765
+South Aiken High School,2019,9/10/2019,,Aiken,South Carolina,0,0,-81.71303,33.521766
+Aiton Elementary School,2019,9/25/2019,,Washington,District of Columbia,0,0,-76.933728,38.896669
+Ridgway High School,2019,10/22/2019,9:00 AM,Santa Rosa,California,0,1,-122.7226,38.4497
+Achievement Academy,2019,11/11/2019,2:00 PM,Baltimore,Maryland,0,1,-76.571382,39.366066
+Esteban Torres High School,2019,11/13/2019,9:00 AM,Los Angeles,California,1,0,-118.175531,34.041846
+Saugus High School,2019,11/14/2019,7:38 AM,Saugus,California,2,3,-118.518128,34.441924
+Waukesha South High School,2019,12/2/2019,9:00 AM,Waukesha,Wisconsin,0,1,-88.2237,42.993
+Oshkosh West High School,2019,12/3/2019,9:00 AM,Oshkosh,Wisconsin,0,1,-88.5736,44.0225
+Decatur High School,2019,12/10/2019,8:20 AM,Decatur,Alabama,0,0,-86.97216,34.593282
+Sacred Heart School,2019,12/10/2019,12:45 PM,Jersey City,New Jersey,0,0,-74.083408,40.706963
+Catholic Academy of New Haven,2019,12/16/2019,9:00 AM,New Haven,Connecticut,0,0,-72.963177,41.325823
+Bellaire High School,2020,1/14/2020,4:00 PM,Bellaire,Texas,1,0,-95.469159,29.692163
+McAuliffe Elementary School,2020,1/23/2020,11:30 AM,Oxnard,California,0,1,-119.2135,34.1876
+West High School,2020,2/13/2020,3:00 PM,Salt Lake City,Utah,0,0,-111.900444,40.774742
+Antioch High School,2020,2/19/2020,9:30 AM,Antioch,California,0,0,-121.8163,38.0063
+Cesar Chavez Community School,2020,2/21/2020,11:00 AM,Albuquerque,New Mexico,0,0,-106.583882,35.059669
+Sagemont School,2020,3/5/2020,12:00 PM,Weston,Florida,0,1,-80.424081,26.13796
+Ribault High School,2020,10/9/2020,2:00 PM,Jacksonville,Florida,0,1,-81.7073,30.3906
+Lincoln Elementary School,2020,11/13/2020,2:00 PM,Leland,North Carolina,0,1,-78.0429,34.2618
+Hendersonville Middle School,2020,11/24/2020,7:45 AM,Hendersonville,North Carolina,0,1,-82.473,35.3219
+Watson Chapel Junior High,2021,3/1/2021,9:55 AM,Pine Bluff,Arkansas,1,0,-92.065921,34.189927
+Wayne Central Middle School,2021,3/1/2021,9:40 AM,Ontario,New York,0,1,-77.3036,43.2197
+Achievement First Amistad High School,2021,3/4/2021,8:10 AM,New Haven,Connecticut,0,0,-72.9357119,41.32981839
+Edwards Elementary School,2021,3/8/2021,1:30 PM,Chesterfield,South Carolina,0,1,-80.11771,34.737634
+Bishop Hartley High School,2021,3/9/2021,8:50 AM,Columbus,Ohio,0,0,-82.910821,39.94497
+Selma High School,2021,4/1/2021,1:00 PM,Selma,Alabama,0,0,-87.022637,32.428416
+Austin-East Magnet High,2021,4/12/2021,3:15 PM,Knoxville,Tennessee,0,1,-83.887,35.9901
+Ply_mouth Middle School,2021,4/26/2021,8:44 AM,Ply_mouth,Minnesota,0,0,-93.406233,45.020964
+Smyrna Middle School,2021,4/27/2021,10:25 AM,Smyrna,Delaware,1,0,-75.623778,39.302595
+Urban Dove Team Charter School,2021,4/29/2021,2:45 PM,Brooklyn,New York,1,0,-73.954975,40.622473
+Mary Evelyn Castle Elementary School,2021,4/30/2021,1:00 PM,Indianapolis,Indiana,0,1,-86.018,39.9081
+Ware Shoals High School,2021,5/5/2021,8:00 AM,Ware Shoals,South Carolina,0,0,-82.238603,34.393145
+Rigby Middle School,2021,5/6/2021,9:00 AM,Rigby,Idaho,0,3,-111.941927,43.668498
+North Forest High School,2021,6/9/2021,10:30 AM,Houston,Texas,0,1,-95.259744,29.867029
+Saint Francis de Sales School,2021,8/6/2021,1:00 PM,Houma,Louisiana,0,1,-90.734161,29.60752
+Lithonia High School,2021,8/12/2021,3:00 PM,Lithonia,Georgia,0,1,-84.1294,33.725
+Washington Middle School,2021,8/13/2021,12:45 PM,Albuquerque,New Mexico,1,0,-106.661691,35.086144
+Orangeburg-Wilkinson High School,2021,8/18/2021,4:00 PM,Orangeburg,South Carolina,0,3,-80.836538,33.524095
+New Hanover High School,2021,8/30/2021,11:00 AM,Wilmington,North Carolina,0,1,-77.9324,34.2374
+Mount Tabor High School,2021,9/1/2021,12:00 PM,Winston-Salem,North Carolina,1,0,-80.3132,36.1268
+LaVergne High School,2021,9/7/2021,3:30 PM,Lavergne,Tennessee,0,0,-86.5597,35.9887
+Tri-County Education Center,2021,9/8/2021,2:30 PM,Ferndale,Michigan,0,0,-83.159362,42.450386
+Heritage High School,2021,9/20/2021,11:39 AM,Newport News,Virginia,0,2,-76.4272,37.0063
+Newton County Elementary School,2021,9/30/2021,1:45 PM,Decatur,Mississippi,0,1,-89.105538,32.446371
+Cummings K-8 Optional School,2021,9/30/2021,10:00 AM,Memphis,Tennessee,0,1,-90.0283,35.1189
+YES Prep Southwest Secondary,2021,10/1/2021,11:45 AM,Houston,Texas,0,1,-95.44306,29.605766
+Timberview High School,2021,10/6/2021,9:15 AM,Arlington,Texas,0,4,-97.076321,32.622073
+Little Rock Central High School,2021,10/12/2021,11:27 AM,Little Rock,Arkansas,0,0,-92.298954,34.736827
+Wendell Phillips Academy High School,2021,10/12/2021,3:15 PM,Chicago,Illinois,0,2,-87.6199,41.8244
+James McDade Classical School,2021,10/13/2021,8:38 AM,Chicago,Illinois,0,0,-87.6188,41.7344
+Cathedral School,2021,10/26/2021,9:20 AM,Natchez,Mississippi,0,0,-91.394805,31.562163
+Poughkeepsie High School,2021,11/15/2021,3:15 PM,Poughkeepsie,New York,0,0,-73.9138,41.6948
+P.S. 44,2021,11/16/2021,2:15 PM,Bronx,New York,0,0,-73.891,40.8425
+Hinkley High School,2021,11/19/2021,12:00 PM,Aurora,Colorado,0,3,-104.8086,39.7349
+Thornton Township High School,2021,11/24/2021,3:00 PM,Harvey,Illinois,0,0,-87.643734,41.61606
+Cesar Chavez High School,2021,11/29/2021,3:00 PM,Laveen,Arizona,0,1,-112.1463,33.3757
+Oxford High School,2021,11/30/2021,12:50 PM,Oxford,Michigan,4,7,-83.260782,42.838243
+Sam Rayburn High School,2021,12/1/2021,11:00 PM,Pasadena,Texas,0,0,-95.182324,29.678303
+Great Oaks Charter School,2021,12/9/2021,9:30 AM,New York,New York,0,0,-73.991729,40.719909
+Jesse C. Carson High School,2021,12/9/2021,2:00 PM,China Grove,North Carolina,0,0,-80.5457,35.563
+West Charlotte High School,2021,12/13/2021,2:15 PM,Charlotte,North Carolina,0,0,-80.8585,35.2654
+Eau Claire High School,2021,12/16/2021,3:00 PM,Columbia,South Carolina,0,0,-81.040984,34.048231
+Auburn High School,2022,1/4/2022,1:10 PM,Rockford,Illinois,0,2,-89.137895,42.286784
+Seminole High School,2022,1/19/2022,12:00 PM,Sanford,Florida,0,1,-81.283,28.7793
+Oliver Citywide Academy,2022,1/19/2022,1:45 PM,Pittsburgh,Pennsylvania,1,0,-80.024121,40.464327
+Magruder High School,2022,1/21/2022,1:00 PM,Rockville,Maryland,0,1,-77.1183,39.1313
+South Education Center,2022,2/1/2022,12:07 PM,Richfield,Minnesota,1,1,-93.310844,44.868045
+Mount Vernon High School,2022,2/8/2022,2:00 PM,Mount Vernon,New York,0,0,-73.8151,40.9258
+Liberty Point International School,2022,2/22/2022,3:30 PM,Pueblo West,Colorado,1,0,-104.7291,38.3173
+Jonesboro High School,2022,2/28/2022,,Clayton County,Georgia,0,0,-84.3428,33.5427
+Olathe East High School,2022,3/4/2022,10:30 AM,Olathe,Kansas,0,2,-94.7539,38.8959
+East High School,2022,3/7/2022,3:00 PM,Des Moines,Iowa,1,2,-93.600681,41.5969
+North Gardens High School,2022,3/9/2022,1:30 PM,Miami Gardens,Florida,0,3,-80.276769,25.938839
+De Anza High School,2022,3/11/2022,,Richmond,California,0,1,-122.288035,37.969409
+Eisenhower High School,2022,3/15/2022,3:00 PM,Yakima,Washington,1,0,-120.565796,46.591635
+Mott-Regent School,2022,3/21/2022,,Hettinger County,North Dakota,1,0,-102.318612,46.372185
+Rippon Middle School,2022,3/22/2022,11:00 AM,Woodbridge,Virginia,0,0,-77.2671,38.6226
+Western High School,2022,3/29/2022,2:15 PM,Las Vegas,Nevada,0,2,-115.202879,36.176163
+West Philadelphia Achievement Charter Elementary School,2022,3/31/2022,9:00 AM,Philadelphia,Pennsylvania,0,0,-89.105653,32.780532
+Tanglewood Middle,2022,3/31/2022,12:26 PM,Greenville,South Carolina,1,0,-82.46882,34.824083
+Lowellville Junior/Senior High School,2022,4/5/2022,10:00 AM,Lowellville,Ohio,0,0,-80.552325,41.044822
+Erie High School,2022,4/5/2022,9:20 AM,Erie,Pennsylvania,0,1,-80.082293,42.101896
+Pine Bluff High School,2022,4/11/2022,2:45 PM,Pine Bluff,Arkansas,0,0,-92.010781,34.219096
+Edmund Burke School,2022,4/22/2022,3:18 PM,Washington,District of Columbia,0,4,-77.06209293,38.94304098
+Aspen Ridge Elementary School,2022,4/26/2022,1:30 PM,West Ishpeming,Michigan,0,0,-87.7289,46.4805
+Heights High School,2022,5/12/2022,1:15 PM,Houston,Texas,0,1,-95.3935,29.795384
+Alexander W. Dreyfoos School of Arts,2022,5/13/2022,11:58 AM,West Palm Beach,Florida,1,0,-80.059481,26.709238
+Walt Disney Magnet School,2022,5/17/2022,10:00 AM,Chicago,Illinois,0,1,-87.6469,41.9568
+Mexia High School,2022,5/17/2022,11:20 AM,Mexia,Texas,0,0,-96.473307,31.696012
+Robb Elementary School,2022,5/24/2022,11:33 AM,Uvalde,Texas,21,12,-99.78812,29.199304
+Ulysses S. Grant High School,2022,6/1/2022,3:25 PM,Los Angeles,California,0,1,-118.415327,34.177798
+Walnut Park Elementary,2022,6/9/2022,9:30 AM,Gadsden,Alabama,1,1,-86.0562,34.0107
+John Finney High School,2022,7/20/2022,9:25 AM,Vallejo,California,0,0,-122.243859,38.111902
+Madison Park Academy,2022,8/29/2022,1:30 PM,Oakland,California,0,1,-122.178837,37.727297
+Mergenthaler Vocational Technical High School,2022,9/2/2022,3:00 PM,Baltimore,Maryland,1,0,-76.5911,39.3322
+Treasure Cost Classical Academy,2022,9/19/2022,,Stuart,Florida,0,0,-80.234928,27.120513
+Mankato West High School,2022,9/20/2022,12:00 PM,Mankoto,Minnesota,0,0,-94.017529,44.159231
+Rudsdale High School,2022,9/28/2022,12:45 PM,Oakland,California,0,6,-122.153923,37.76573
+Jeremiah E. Burke High School,2022,10/4/2022,9:30 AM,Dorchester,Massachusetts,0,1,-71.081648,42.306942
+James Madison Academic Campus,2022,10/10/2022,3:30 PM,Milwaukee,Wisconsin,0,1,-88.0128,43.1261
+Central Visual and Performing Arts High School,2022,10/24/2022,9:10 AM,St. Louis,Missouri,2,7,-90.270897,38.604372
+Ingraham High School,2022,11/8/2022,,Seattle,Washington,1,0,-122.3369,47.7257
+Ball Elementary School,2022,11/11/2022,1:26 PM,Ball,Louisiana,0,2,-89.629,39.6716
+South Vermillion High School,2022,11/17/2022,9:30 AM,Clinton,Indiana,0,1,-87.4138,39.689
+Freedom Preparatory High School,2022,12/5/2022,12:27 PM,Memphis,Tennessee,0,1,-90.036586,35.032022
+Suitland High School,2022,12/8/2022,10:00 AM,Forestville,Maryland,0,1,-76.917277,38.853645
+Fuquay-Varina Middle School,2022,12/8/2022,8:03 AM,Fuquay-Varina,North Carolina,0,0,-78.793497,35.585093
+Cleveland High School,2022,12/12/2022,12:30 PM,Portland,Oregon,0,1,-122.6391,45.4985
+Benjamin Franklin High School,2023,1/5/2023,,Rochester,New York,0,0,-77.597958,43.188169
+Beechcroft High School,2023,1/6/2023,11:30 AM,Columbus,Ohio,0,0,-82.9647,40.0942
+Richneck Elementary School,2023,1/6/2023,2:00 PM,Newport News,Virginia,0,1,-76.5237,37.1564
+William Penn High School,2023,1/10/2023,11:40 AM,New Castle,Delaware,0,0,-75.584879,39.668622
+Booker T. Washington High School,2023,1/10/2023,3:30 PM,New Orleans,Louisiana,0,1,-90.08925,29.94991
+Plaza Academy,2023,1/24/2023,12:34 PM,Kansas City,Missouri,0,1,-94.59127529,39.0554877
+Taylorsville High School,2023,1/26/2023,,Taylorsville,Utah,0,0,-111.936978,40.655508
+Gila Ridge High School,2023,1/30/2023,8:30 AM,Yuma,Arizona,0,2,-114.5107,32.6857
+Geary Elementary School,2023,1/31/2023,,Geary,Oklahoma,0,0,-98.324487,35.629468
+Ridgeview Jr. High School,2023,2/2/2023,10:00 AM,Pickerington,Ohio,0,0,-88.6136,40.5638
+PS 78,2023,2/13/2023,12:35 PM,Staten Island,New York,0,0,-74.0787,40.6223
+Dalhart ISD schools,2023,2/13/2023,12:00 PM,Dalhart,Texas,1,0,-102.499399,36.047164
+Westinghouse Academy,2023,2/14/2023,,Pittsburgh,Pennsylvania,0,4,-79.9012,40.4609
+Palo Duro High School,2023,3/6/2023,2:00 PM,Amarillo,Texas,0,1,-101.824434,35.228498
+Lamar High School,2023,3/20/2023,6:55 AM,Arlington,Texas,1,1,-97.125993,32.763804
+Anniston High School,2023,3/22/2023,12:45 PM,Anniston,Alabama,0,1,-85.82,33.6612
+East High School,2023,3/22/2023,9:55 AM,Denver,Colorado,0,2,-104.9557,39.7416
+Northridge Middle School,2023,3/24/2023,,Middlebury,Indiana,0,0,-85.726857,41.672866
+The Covenant School,2023,3/27/2023,10:13 AM,Nashville,Tennessee,6,0,-86.82526612,36.09286762
+George Wythe High School,2023,4/27/2023,12:02 PM,Richmond,Virginia,0,2,-77.483075,37.510274
+West High School,2023,4/28/2023,9:20 AM,Knoxville,Tennessee,0,1,-83.973,35.9485
+International Academy of Flint K12,2023,5/2/2023,3:30 PM,Flint,Michigan,0,1,-83.6785,42.9966
+Von Tobel Ed MS,2023,5/8/2023,12:30 PM,Las Vegas,Nevada,0,1,-115.097412,36.20418
+E. Washington Rhodes Elementary School,2023,5/8/2023,11:30 AM,Philadelphia,Pennsylvania,0,0,-75.1781,40.0028
+Roosevelt High School,2023,5/17/2023,2:25 PM,Washington,District of Columbia,1,0,-77.029177,38.942971
+St. John's Prep,2023,5/22/2023,,Danvers,Massachusetts,0,0,-70.95260296,42.5826821
+Oliver Citywide Academy,2023,5/24/2023,7:30 AM,Pittsburgh,Pennsylvania,1,0,-80.024121,40.464327
+Michigan Collegiate High School,2023,6/5/2023,2:40 PM,Warren,Michigan,0,0,-83.066681,42.522585
