@@ -1,0 +1,2071 @@
+School,Type,Date,City,State,Time
+Hine Junior High School,High,1970-01-05,Washington,DC,
+Sousa Junior High,Junior High,1970-01-05,Washington,DC,
+Unnamed High School,High,1970-01-05,Washington,DC,
+John F. Kennedy High School,High,1970-02-06,Cleveland,OH,
+David Starr Jordan High School,High,1970-03-23,Long Beach,CA,
+Pine Bluff Coleman High School,High,1970-04-15,Pine Bluff,AR,12:00 PM
+Pierre S. Dupont High School,High,1970-04-22,Wilmington,DE,9:00 AM
+Carver High School,High,1970-05-08,Delray Beach,FL,10:00 AM
+Ben Lomond High School,High,1970-05-15,Ogden,UT,
+Riverside High School,High,1970-08-28,El Paso,TX,12:00 AM
+Allapatah Elementary School,Elementary,1970-08-31,Miami,FL,
+Hamilton High School,High,1970-09-14,Nashville,TN,
+Meridian High School,High,1970-09-24,Meridian ,ID,
+Central High School,High,1970-09-28,Davenport,IA,
+Pontiac Central High School,High,1970-10-05,Detroit,MI,
+Booker T. Washington High School,High,1970-10-19,Memphis,TN,
+Washington Junior High School,Junior High,1970-10-20,Nashville,TN,12:00 PM
+Appleseed Junior High School,Junior High,1970-10-27,Mansfield,OH,8:30 AM
+Harlan High School,High,1970-11-20,Chicago,IL,
+Xavier High School,High,1970-12-12,Appleton,WI,11:55 PM
+Morris E. Leeds Middle School,Middle,1971-02-02,Philadelphia,PA,
+John F. Kennedy High School,High,1971-02-05,Willingboro,PA,
+Oak Cliff High School,High,1971-02-10,Dallas,TX,
+Franklin D. Roosevelt Junior High School,Junior High,1971-02-25,Cleveland,OH,
+Roskruge Junior High School,Junior High,1971-03-09,Tucson,AZ,
+William Penn High School,High,1971-04-05,Harrisburg,PA,
+Benton Harbor High School,High,1971-05-27,Saint Joseph,MI,
+East Aurora Middle School,Middle,1971-06-02,East Aurora,NY,
+Monessen High School,High,1971-08-20,Monessen,PA,
+Dunbar High School,High,1971-09-09,Lubbock,TX,
+McKinley Vocational High School,High,1971-09-24,Buffalo,NY,
+Central High School,High,1971-09-28,Minneapolis,MN,12:00 PM
+Peabody Junior High School,Junior High,1971-09-29,Petersburg,VA,
+City College High School,High,1971-10-28,Baltimore,MD,11:50 AM
+Forest Park High School,High,1971-10-29,Baltimore,MD,11:55 AM
+Frederick Douglass High School,High,1971-10-29,Baltimore,MD,3:00 PM
+Carlsbad Mid-High School,6-12,1971-11-03,Carlsbad,NM,10:19 AM
+Grove Elementary School,Elementary,1971-11-08,Tulsa,OK,9:00 AM
+Edmondson Senior High School,High,1971-11-24,Baltimore,MD,2:27 PM
+Louis Stevenson Junior High School,Junior High,1971-12-06,Los Angeles,CA,
+Carver Vocational High School,High,1971-12-13,Baltimore,MD,8:18 AM
+Parkview Elementary School,Elementary,1972-01-05,Washington,DC,9:30 AM
+Stow High School,High,1972-01-24,Stow,OH,10:00 AM
+Gwynn Falls Junior High School,Junior High,1972-01-26,Baltimore,MD,1:55 PM
+Harlem Park Junior High School,Junior High,1972-01-26,Baltimore,MD,2:45 PM
+Camlumet High School,High,1972-02-14,Chicago,IL,
+Kenwood High School,High,1972-02-15,Chicago,IL,
+Markham Junior High School,Junior High,1972-02-28,Los Angeles,CA,
+Unnamed Junior High School,Junior High,1972-03-13,Houston,TX,
+East Ascension Junior High,Junior High,1972-04-12,Gonzales,LA,
+Libby Booth Elementary School,Elementary,1972-05-04,Reno,NV,12:00 PM
+Decatur Central High School,High,1972-05-05,Indianapolis,IN,1:30 PM
+Francis Scott Key Junior High,Junior High,1972-09-14,Houston,TX,12:00 PM
+Saginaw High School,High,1972-09-15,Saginaw,MI,
+Cullen Junior High,Junior High,1972-09-19,Houston,TX,
+Thorton Junior High,Junior High,1972-09-21,Akron,OH,
+Jefferson High School,High,1972-11-11,Los Angeles,CA,
+Pontiac Central High School,High,1972-11-27,Pontiac,MI,
+Miami Northwest High School,High,1972-11-29,Miami,FL,
+South Iredell High School,High,1973-01-05,Statesville,NC,
+John Marshall High School,High,1973-01-18,Los Angeles,CA,
+Cumming High School,High,1973-01-31,Burlington,NC,12:00 PM
+Booker T. Washington High School,High,1973-02-12,Montgomery,AL,5:15 PM
+Armstrong High School,High,1973-02-26,Richmond,VA,8:00 AM
+Locke High School,High,1973-04-05,Los Angeles,CA,
+Rayen High School,High,1973-05-01,Youngtown,OH,
+Wilson High School,High,1973-09-28,Los Angeles,CA,10:30 AM
+Elmhurst Wood Park Community High School,High,1973-10-02,Almwood Park,IL,
+Beaumont High School,High,1973-10-19,St. Louis,MO,
+Barberton High School,High,1973-10-23,Barberton,OH,12:00 PM
+Sumner High School,High,1973-10-23,St. Louis,MO,1:00 PM
+Central High School,High,1973-10-24,Minneapolis,MN,
+Northwestern High School,High,1973-10-31,St. Louis,MO,
+Woodell Phillips High School,High,1973-11-08,Chicago,IL,10:00 AM
+Long Beach Polytechnic High School,High,1973-11-09,Los Angeles,CA,
+Fremont High School,High,1973-12-06,Los Angeles,CA,
+Hughes High School,High,1973-12-13,Cincinnati,OH,1:10 PM
+Barton Elementary School,Elementary,1974-01-17,Chicago,IL,
+Locke High School,High,1974-01-22,Los Angeles,CA,
+James Madison Junior High School,Junior High,1974-02-07,Oakland,CA,
+Brownstown Central High School,High,1974-03-22,Brownstown,IN,8:00 AM
+St. Stephen's Parochial School,Other,1974-04-02,Bridgeport,CT,1:15 PM
+Church Hill High School,High,1974-05-10,Rogersville,TN,
+Highlands Elementary School,Elementary,1974-05-19,Orlando,FL,
+Jefferson High School,High,1974-09-23,Daly City,CA,
+San Fernando High School,High,1974-09-25,Los Angeles,CA,
+Destrehan High School,High,1974-10-07,Hahnville,LA,
+Douglass High School,High,1974-10-21,Baltimore,MD,
+C A Brown High School,High,1974-11-18,Charleston,SC,3:00 PM
+Booker Junior High School,Junior High,1974-11-21,Little Rock,AR,1:30 PM
+C A Brown High School,High,1974-11-25,Charleston,SC,3:00 PM
+Manual Arts High School,High,1974-12-18,Los Angeles,CA,12:00 PM
+Olean High School,High,1974-12-30,Olean,NY,3:00 PM
+Board of Cooperative Educational Services,Other,1975-02-07,Mineola,NY,
+St. James School,K-8,1975-02-24,Penns Grove,NJ,
+Jones High School,High,1975-03-12,Houston,TX,
+Sumner High School,High,1975-03-18,St. Louis,MO,
+Fairmount Elementary School,Elementary,1975-03-21,Richmond,VA,12:00 PM
+Patterson Cooperative High School,High,1975-03-21,Dayton,OH,
+Rock Junior High School,Junior High,1975-05-15,St. Louis,MO,12:30 PM
+Pitcher School,Elementary,1975-05-27,Detroit,MI,
+Dett Elementary School,Elementary,1975-07-09,Chicago,IL,8:15 AM
+Central High School,High,1975-07-11,St. Louis,MO,7:35 AM
+Grant High School,High,1975-09-11,Oklahoma City,OK,
+Hermosa Elementary School,Elementary,1975-10-01,Artesia,NM,8:00 AM
+Murphy High School,High,1975-10-24,Atlanta,GA,
+Orange High School,High,1975-12-18,Santa Ana,CA,12:00 PM
+Camelback High School,High,1976-01-01,Phoenix,AZ,
+Columbus Central High School,High,1976-01-23,Columbus,OH,2:20 PM
+Escambia High School,High,1976-02-06,Pensacola,FL,
+Murray-Wright High School,High,1976-02-12,Detroit,MI,
+O D Wyatt High School,High,1976-04-12,Fort Worth,TX,
+Mark Twain School,Elementary,1976-05-13,St. Louis,MO,
+Palm Beach Gardens High School,High,1976-05-14,West Palm Beach,FL,12:00 PM
+Mt. Savage High School,High,1976-06-02,Cumberland,MD,11:45 AM
+Guildord County School Bus,,1976-09-20,Greensboro,NC,
+Burt Elementary School,Elementary,1976-11-10,Detroit,MI,
+Fremont School,Elementary,1976-12-10,St. Louis,MO,
+Old Main Eisenhower High School,High,1977-01-13,Blue Island,IL,7:30 AM
+Fenger High School,High,1977-02-09,Chicago,IL,
+Horace Mann Junior High School,Junior High,1977-02-28,Amarillo,TX,
+Roosevelt High School,High,1977-02-28,St. Louis,MO,
+Collinsville High School,High,1977-03-08,Edwardsville,IL,12:35 PM
+Parochial School,Other,1977-03-21,Hamburg,NY,
+Whitharral High School,High,1977-04-07,Whitharral,TX,9:00 AM
+Pioneer Christian Academy,Other,1977-04-18,Nashville,TN,9:00 AM
+Stone Middle School,Middle,1977-05-17,Cocoa,FL,8:15 PM
+Holy Trinity High School,High,1977-06-22,Chicago,IL,
+South Junior High School,Junior High,1977-07-11,Colorado Springs,CO,
+Hazelwood Central Senior High School,High,1977-11-29,St. Louis,MO,7:05 PM
+Vashon High School,High,1977-11-29,St. Louis,MO,
+Petaluma McNear Elementary,Elementary,1977-12-09,Santa Rosa,CA,
+West Orange High School,High,1977-12-12,Winter Garden,FL,4:00 PM
+Blue Hills Vocational High School,High,1977-12-15,Canton,MA,
+Christian County Middle School,Middle,1978-01-11,Hopkinsville,KY,8:10 AM
+Hayes Junior High School,Junior High,1978-02-09,St. Albans,WV,8:00 AM
+Everett High School,High,1978-02-22,Lansing,MI,3:00 PM
+Monroe Elementary School,Elementary,1978-03-09,Santa Rosa,CA,
+Gallatin Junior High School,Junior High,1978-03-29,Nashville,TN,
+Fordson High School,High,1978-04-14,Detroit,MI,1:30 PM
+Paul Dunbar Elementary School,Elementary,1978-04-26,Dallas,TX,
+Ridgewood High School,High,1978-04-28,Norridge,IL,10:30 PM
+Murchison Junior High School,Junior High,1978-05-18,Austin,TX,9:00 AM
+Downtown Junior High School,Junior High,1978-05-19,Philadelphia,PA,
+Dover Air High,High,1978-06-07,Dover,DE,
+Weymouth South High School,High,1978-06-10,Weymouth,MA,
+Lanett Junior High School,Junior High,1978-10-17,Lanett,AL,
+University City High School,High,1978-10-17,University City,MO,10:15 AM
+Park West High School,High,1978-11-29,New York,NY,12:30 PM
+Wilbur Cross High School,High,1978-12-14,New Haven,CT,
+Grover Cleveland Elementary School,Elementary,1979-01-29,San Diego,CA,8:30 AM
+Barstow High School,High,1979-02-26,Barstow,CA,
+Barstow High School,High,1979-02-26,Barstow,CA,
+McArthur High School North,High,1979-03-14,Miami,FL,2:20 PM
+Los Angeles High School,High,1979-03-28,Los Angeles,CA,2:20 PM
+Wisconsin Lutheran High School,High,1979-04-16,Milwaukee,WI,
+Martin L. Mattei Junior High School,Junior High,1979-04-25,Hughestown,PA,
+Azle Junior High School,High,1979-04-26,Azle,TX,3:30 PM
+New Carlisle Elementary School,Elementary,1979-06-14,New Carlisle,OH,
+Carter G. Woodson Middle School,Middle,1979-09-26,New Orleans,LA,11:50 AM
+Charlestown High School,High,1979-09-28,Charlestown,MA,
+O Fallen Technical High School,High,1979-10-23,St. Louis,MO,
+Washington High School,High,1979-11-05,Indianapolis,IN,
+Unknown School,,1979-11-30,Lewisville,TX,
+Eastern High School,High,1979-12-03,Baltimore,MD,
+Blewett Middle School,Middle,1979-12-21,St. Louis,MO,
+Stamps High School,High,1980-01-07,Stamps,AR,9:02 AM
+Lafayette High School,High,1980-01-29,Williamsburg,VA,8:05 AM
+Langdon Elementary School,Elementary,1980-02-01,"Washington, DC",DC,9:00 AM
+Valley View Elementary School,Elementary,1980-02-07,Longview,TX,10:30 AM
+Arsenal Technical High School,High,1980-02-11,Indianapolis,IN,12:50 PM
+Hughes School,Other,1980-02-15,McComb,MS,1:40 PM
+J Leslie Patton School,High,1980-03-20,Dallas,TX,3:33 PM
+Frederick Douglass Senior High School,High,1980-03-31,Baltimore,MD,9:00 AM
+Capeville Elementary School,Elementary,1980-04-17,Capeville,VA,10:15 AM
+Clara Barton High School,High,1980-05-30,Brooklyn,NY,9:30 AM
+Whittier High School,High,1980-09-02,Los Angeles,CA,
+Forrest High School,High,1980-09-08,Jacksonville,FL,
+Springarn High School,High,1980-09-10,Washington,DC,10:30 AM
+John S. Shaw High School,High,1980-09-11,Mobile,AL,
+Bridgeport Central High School,High,1980-09-26,Bridgeport,CT,8:55 AM
+Central High School,High,1980-10-13,Tuscaloosa,AL,
+Hueytown High School,High,1980-10-31,Hueytown,AL,
+Eastern Hills High School,High,1980-11-17,Fort Worth,TX,12:00 PM
+Longfellow Junior HIgh School,Junior High,1980-12-12,Lorain,OH,9:00 AM
+Parker High School,High,1980-12-12,Birmingham,AL,3:00 PM
+Willetts Middle School,Junior High,1981-01-21,Brunswick,OH,9:30 AM
+Francis M. Wood Senior High School,High,1981-01-22,Baltimore,MD,2:00 PM
+Little Rock Hall High School,High,1981-02-10,Little Rock,AR,
+Manuel Arts High School,High,1981-02-10,Los Angeles,CA,11:50 AM
+Marshall High School ,High,1981-03-03,Indianapolis,IN,8:40 AM
+Dillard High School,High,1981-03-28,Fort Lauderdale,FL,9:00 PM
+Alexander Hamilton Junior High School,Junior High,1981-04-02,Cleveland,OH,7:45 AM
+Poplarville High School,High,1981-04-07,Poplarville,MS,
+New Iberia Junior HIgh School,Junior High,1981-05-15,New Iberia,LA,8:00 AM
+William Longstreth Elementary School,Elementary,1981-09-01,Philadelphia,PA,8:30 PM
+Hobbs High School,High,1981-09-04,Santa Fe,NM,10:15 AM
+Stuart Middle School,Middle,1981-09-08,West Palm Beach,FL,
+Aberdeen High School,High,1981-09-13,Aberdeen,MD,
+Hartford Public High School,High,1981-10-13,Hartford,CT,10:30 AM
+George W. Wingate High School,High,1981-12-09,Brooklyn,NY,
+Unnamed school,High,1981-12-16,Houston,TX,7:45 AM
+James Madison High School,High,1981-12-23,Brooklyn,NY,10:00 AM
+Hamilton High School,High,1982-02-05,Memphis,TN,
+Dorchester High School,High,1982-02-08,Dorchester,MA,1:45 PM
+John McDonough Senior High,High,1982-02-09,New Orleans,LA,1:10 PM
+Springfield High School,High,1982-03-15,Springfield,OR,8:30 AM
+Lorain High School,High,1982-03-17,Lorain,OH,
+Valley High School,High,1982-03-19,Las Vegas,NV,7:50 AM
+Deer Creek Junior High School,High,1982-04-07,Littleton,CO,
+Forest Park Senior High School,High,1982-04-15,Baltimore,MD,2:15 PM
+Russell High School,High,1982-04-29,East Point,GA,10:30 AM
+Anniston High School,High,1982-04-30,Anniston,FL,7:25 AM
+Garside Junior High School,Junior High,1982-05-27,Las Vegas,NV,
+Lake Braddock Secondary School,Other,1982-09-10,Burke,VA,1:45 PM
+South West Middle School,Middle,1982-09-15,Pine Bluff,AR,
+Elmont Memorial High School,High,1982-11-01,Elmont,NY,1:10 PM
+Cooley High School,High,1982-11-08,Detroit,MI,8:10 AM
+Wingfield High School,High,1982-11-12,Jackson,MS,
+Huntsville High School,High,1982-12-06,Huntsville,AL,11:45 AM
+Finney High School,High,1982-12-20,Detroit,MI,8:55 AM
+John H. Reagan High School,High,1983-01-18,Houston,TX,10:25 AM
+Parkway South Middle School,Middle,1983-01-20,Baldwin,MO,11:50 AM
+William H. Lemmel Middle School,Middle,1983-01-28,Baltimore,MD,
+West Ward School,High,1983-01-30,Coleman,TX,11:40 AM
+DeLand High School,High,1983-01-31,DeLand,FL,
+Riverdale High School,High,1983-02-01,Murfreesboro,TN,
+Albuquerque High School,High,1983-02-02,Alburquerque,NM,
+Santa Maria InCornata-Santa Lucia School,Other,1983-03-31,Chicago,IL,
+Beaumont High School,High,1983-04-21,St. Louis,MO,11:00 AM
+Brentwood High School,High,1983-05-16,New York,NY,12:45 PM
+Lake Highland High School,High,1983-05-16,Dallas,TX,
+North Miami Senior High School,High,1983-05-18,Miami,FL,2:30 PM
+Mansfield Senior High School,High,1983-05-23,Mansfield,OH,8:05 AM
+Greater Johnstown High School,High,1983-05-26,Johnstown,PA,
+Henry Ford High School,High,1983-09-12,Detroit,MI,8:45 AM
+Manuel Dominguez High School,High,1983-09-12,Compton,CA,
+Walbrook High School,High,1983-09-21,Baltimore,MD,11:00 AM
+Temple High School,High,1983-09-30,Temple,TX,
+Compton High School,High,1983-10-07,Los Angeles,CA,
+Carver Vocational-Technical Senior High,High,1983-10-22,Baltimore,MD,11:00 PM
+Highland Park High School,High,1983-11-08,Highland Park,MI,7:50 AM
+James G. Blaine Elementary School,Elementary,1983-11-17,Chicago,IL,
+Harlem Park Junior High School,Junior High,1983-11-18,Baltimore,MD,1:25 PM
+Crawfordsville High School,High,1983-12-02,Crawfordsville,IN,11:50 AM
+Boylan Central Catholic High School,High,1983-12-16,Rockford,IL,
+Lake Clifton Senior HIgh School,High,1984-01-05,Baltimore,MD,3:30 PM
+Central High School,High,1984-02-06,Louisville,KY,
+Sharpstown High School,High,1984-02-21,Houston,TX,
+49th Street Elementary School,Elementary,1984-02-24,Los Angeles,CA,2:23 PM
+Clinton High School,High,1984-04-05,Clinton,LA,
+Precious Blood School,K-12,1984-04-20,Detroit,MI,
+Rose Hill Magnolia Elementary School,Elementary,1984-04-26,Wallace,NC,
+C M Russell High School,High,1984-05-15,Great Falls,MT,2:30 PM
+Booker T. Washington High School,High,1984-05-17,Houston,TX,10:45 AM
+Southeast Polk High School,High,1984-05-17,Pleasant Hill,IA,10:45 AM
+Norco High School,High,1984-05-18,Norco,CA,10:00 AM
+Cleveland Heights High School,High,1984-05-22,Cleveland Heights,OH,
+Mumford High School,High,1984-07-10,Detroit,MI,11:15 AM
+Booker T. Washington High School,High,1984-08-31,Shreveport,LA,
+Millsap Elementary School,Elementary,1984-09-28,Houston,TX,8:40 AM
+Richland High School,High,1984-09-28,North Richland Hills,TX,
+Wyoming Area High School,High,1984-10-21,Exeter,PA,
+Central High School,High,1984-10-22,Detroit,MI,1:25 PM
+Southeastern High School,High,1984-10-24,Detroit,MI,11:20 AM
+West Elementary School Bus,Elementary,1984-10-24,Celina,OH,
+Pendleton High School,High,1984-10-30,Pendleton,SC,12:45 PM
+East Ascension High School,High,1984-10-31,Gonzales,LA,8:30 AM
+Wilbur Cross High School,High,1984-11-09,New Haven,CT,9:00 AM
+Millford Mill High School,High,1984-11-26,Rockdale,MD,12:45 PM
+Edwardsville High School,High,1984-12-07,St. Louis,MO,7:00 AM
+Arlington High School,High,1985-01-18,Arlington,TX,
+Goddard Junior High School,Junior High,1985-01-21,Goddard,KS,11:05 AM
+St. Gregory's High School,High,1985-01-26,Boston,MA,11:00 PM
+A I Prince Technical High School,High,1985-02-05,Hartford,CT,2:30 PM
+MacArthur Senior High School,High,1985-04-16,Aldine,TX,
+South Pittsburg High School,High,1985-04-18,South Pittsburg,TN,
+Parrott Junior High School,Junior High,1985-05-16,Brookville,FL,8:00 AM
+Highland Park High School,High,1985-07-24,Highland Park,TX,9:30 AM
+East End Middle School (bus),Middle,1985-09-04,Richmond,VA,
+Wheatley High School,High,1985-09-09,Houston,TX,
+Langham Creek High School,High,1985-09-20,Cypress,TX,12:20 PM
+Trotwood-Madison Senior High,High,1985-09-25,Trotwood,OH,2:30 PM
+Lake Clifton High School,High,1985-10-08,Baltimore,MD,3:00 PM
+Murray-Wright High School,High,1985-10-18,Detroit,MI,
+Southern Hills Joint Vocational High School,High,1985-10-22,Georgetown,OH,
+Spanaway Junior High School,Junior High,1985-11-26,Spanaway,WA,4:20 PM
+Chelsea School,High,1985-11-27,Birmingham,AL,3:00 PM
+Concord High School,High,1985-12-03,Concord,NH,8:05 AM
+Archbishop Ryan High School,High,1985-12-09,Philadelphia,PA,
+Portland Junior High School,Junior High,1985-12-10,Portland,CT,12:30 PM
+Northern High School,High,1986-01-09,Durham,NC,4:00 PM
+Vanguard Junior High School,Junior High,1986-01-17,Los Angeles,CA,
+Lake Clifton High School,High,1986-01-29,Baltimore,MD,
+Boyet Junior High School,Junior High,1986-02-24,Slidell,LA,
+Thornridge High School,High,1986-03-06,Dolton,IL,
+Charles Drew Middle School,Middle,1986-04-23,Miami,FL,8:30 AM
+Senath-Hornersville High School,High,1986-04-29,Senath,MO,
+Pine Forest High School,High,1986-05-09,Fayetteville,NC,9:30 AM
+Carver High School,High,1986-05-15,Atlanta,GA,
+Cokeville Elementary School,Elementary,1986-05-16,Cokeville,WY,1:30 PM
+Maplewood High School,High,1986-05-17,Nashville,TN,7:00 AM
+Fairfax High School,High,1986-09-12,Los Angeles,CA,2:15 PM
+Benicia High School ,High,1986-09-18,Benicia,CA,
+Monrovia High School,High,1986-10-03,Monrovia,CA,
+South Oak Cliff High School,High,1986-10-08,Dallas,TX,4:00 PM
+Fergus High School,High,1986-12-04,Lewistown,MT,
+Los Angeles High School,High,1987-01-14,Los Angeles,CA,
+Redford High School,High,1987-01-23,Detroit,MI,8:05 AM
+Dardanelle High School,High,1987-02-10,Dardanelle,AR,12:30 PM
+Orme School,Other,1987-02-13,Mayer,AZ,8:30 PM
+Mount Tom Country Day School,Other,1987-02-24,New Rochelle,NY,8:30 AM
+Dekalb High School,High,1987-03-02,De Kalb,MO,8:25 AM
+Riverside High School,High,1987-03-06,El Paso,TX,
+Panorama Elementary School,Elementary,1987-03-30,Santa Ana,CA,11:17 AM
+Murray-Wright High School,High,1987-04-16,Detroit,MI,12:00 PM
+Grant High School,High,1987-04-30,Portland,OR,2:15 PM
+Pike Township High School,High,1987-05-03,Indianapolis,IN,11:30 AM
+Leto High School,High,1987-05-06,Tampa,FL,9:20 AM
+MacAuthur Junior High,Junior High,1987-05-06,Jonesboro,AR,
+Oak Lawn Community High School,High,1987-05-13,Oak Lawn,IL,
+Illiana Christian High School,High,1987-09-28,Lansing,IL,
+DuSable High School,High,1987-10-14,Chicago,IL,8:00 AM
+Southwood Elementary School,Elementary,1987-10-30,Kingston,NC,9:00 PM
+Andrews High School,High,1987-10-31,Andrews,SC,20:00:00
+Southwestern High School,High,1987-11-04,Detroit,MI,10:50 AM
+Clearwater High School,High,1987-11-14,Clearwater,FL,
+Perales Elementary School,Elementary,1987-11-30,San Antonio,TX,3:50 PM
+Englewood High School,High,1987-12-02,Jacksonville,FL,
+East New York High School of Transit Technology,High,1987-12-04,New York,NY,12:55 PM
+Grady Vocational-Technical School,High,1987-12-15,Brighton Beach,NY,9:45 AM
+Mayde Creek High School,High,1987-12-16,Katy,TX,10:00 AM
+Springfield High School,High,1988-01-05,Springfield,PA,9:00 PM
+Gaither High School,High,1988-01-06,Tampa,FL,11:00 AM
+Crawford County Joint Vocational Technical School,High,1988-01-08,Meadville,PA,8:45 AM
+Simsboro High School,High,1988-01-20,Ruston,LA,8:00 AM
+Reagan High School,High,1988-01-29,Austin,TX,8:45 PM
+West End Christian Elementary School,Elementary,1988-02-02,Tuscaloosa,AL,8:40 AM
+Pinellas Park High School,High,1988-02-11,Largo,FL,
+Bristol High School,High,1988-02-26,Bristol,RI,11:51 AM
+Lessenger Junior High,Junior High,1988-03-04,Detroit,MI,
+Cajon High School,High,1988-03-23,San Bernadino,CA,
+Travis High School,High,1988-03-24,Austin,TX,4:15 PM
+Martin Luther King High School,High,1988-05-05,Chicago,IL,
+Fort Myers Middle School,Middle,1988-05-16,Fort Myers,FL,3:43 PM
+Hubbard Woods Elementary School,Elementary,1988-05-20,Winnetka,IL,9:00 AM
+Public School 67,Elementary,1988-05-31,Bronx,NY,
+Wingfield High School,High,1988-06-02,Jackson,MS,12:30 PM
+Joy Middle School,Middle,1988-06-17,Detroit,MI,9:30 AM
+Aiea High School,High,1988-06-30,Oahu,HI,10:25 AM
+Siefert Elementary School,Elementary,1988-07-10,Milwaukee,WI,7:45 PM
+Lanier High School,High,1988-07-11,Jackson,MS,10:43 AM
+Central High School,High,1988-08-31,Detroit,MI,10:50 AM
+West Franklin Elementary School,Elementary,1988-08-31,Anderson,SC,10:00 PM
+Garinger High School,High,1988-09-02,Charlotte,NC,21:30:00
+Glen Hills High School,High,1988-09-02,Augusta,GA,22:55:00
+Lincoln High School,High,1988-09-03,Dallas,TX,
+Moses Montefoire Public School,Elementary,1988-09-22,Chicago,IL,10:00 AM
+Oakland Elementary School,Elementary,1988-09-26,Greenwood,SC,11:30:00
+Mascotte Elementary School ,Elementary,1988-10-03,Mascotte,FL,11:00 AM
+Istrouma Senior High School,High,1988-10-04,Baton Rouge,LA,
+J E B Stuart Junior High School (bus),Junior High,1988-10-04,Jacksonville,FL,
+Edmondson Westside Senior High School,High,1988-10-05,Baltimore,MD,12:00 PM
+Most Pure Heart of Mary School,Elementary,1988-10-06,Mobile,AL,
+Dick Dowling Elementary School,Elementary,1988-10-07,Port Arthur,TX,8:20 AM
+Southwestern Senior High School,High,1988-10-07,Baltimore,MD,
+Paxon High School,High,1988-11-01,Jacksonville,FL,
+Glendale Intermediate School,Middle,1988-11-07,Salt Lake City,UT,
+Abilene Cooper High School,High,1988-11-22,Abilene,TX,
+Atlantic Shores Christian School,K-12,1988-12-16,Virginia Beach,VA,10:30 AM
+Henderson Junior High School,Middle,1989-01-05,Little Rock,AR,8:00 AM
+Cleveland Elementary School,Elementary,1989-01-17,Stockton,CA,11:59 AM
+Woodrow Wilson HIgh School,High,1989-01-26,Washington,DC,2:25 PM
+Rigby Junior High School,,1989-02-09,Rigby,ID,11:00:00
+Thomas Jefferson Junior High School,Junior High,1989-02-10,Kearns,UT,
+Wirt High School,High,1989-03-03,Gary,IN,12:09 PM
+A Maceo Smith High School,High,1989-04-26,Dallas,TX,
+Salem High School,High,1989-09-01,Virginia Beach,VA,21:00:00
+Dysart High School,High,1989-09-11,El Mirage,AZ,7:30 AM
+Jackson County High School,High,1989-09-18,McKee,KY,
+Loara High School,High,1989-10-05,Anaheim,CA,9:30 AM
+Oliver Wendell Holmes Middle School,Middle,1989-10-31,Dallas,TX,
+Alfred E. Smith High School,High,1989-11-13,New York,NY,
+Workman Junior High School,Junior High,1989-11-15,Arlington,TX,3:45 PM
+Channel Islands High School,High,1989-11-22,Oxnard,CA,3:00 PM
+Caddo Magnet High School,High,1989-12-04,Shreveport,LA,
+Serra Catholic High School bus,High,1989-12-05,McKeesport,PA,
+W W Samuell High School,High,1989-12-05,Dallas,TX,8:20 AM
+Chester High School,High,1989-12-12,Chester,SC,
+Central High School,High,1990-01-16,Providence,RI,
+Taft High School,High,1990-02-20,Cincinnati,OH,3:00 PM
+New Utrecht High School,High,1990-03-27,Brooklyn,NY,8:40 AM
+Skyline High School,High,1990-04-03,Dallas,TX,
+Mount Pleasant High School,High,1990-05-04,East San Jose,CA,
+Hickman County High School,High,1990-05-20,Centerville,TN,9:00 AM
+Sunrise Elementary School,Elementary,1990-05-31,Fort Worth,TX,10:15 AM
+Myers Park High School,High,1990-08-24,Charlotte,NC,
+Eldorado High School,High,1990-08-27,Las Vegas,NV,7:15 AM
+W H Adamson High School,High,1990-08-27,Dallas,TX,10:15 AM
+South Forsyth Middle School - High School,6-12,1990-09-06,Cumming,GA,08:25:00
+Sam Houston High School,High,1990-09-11,San Antonio,TX,11:55 AM
+Legion Field Statium (high school game),High,1990-09-22,Birmingham,AL,
+W H Adamson High School,High,1990-10-02,Dallas,TX,4:50 PM
+Charlestown High School,High,1990-10-29,Charlestown,IN,11:10 AM
+Naaman Forest High School,High,1990-10-30,Garland,TX,
+Justin Kimball High School,High,1990-11-10,Dallas,TX,20:40:00
+Salmen High School,High,1990-12-13,Slidell,LA,8:52 PM
+Richardson High School,High,1991-01-08,Richardson,TX,9:45 AM
+Hood Middle School,Middle,1991-01-17,Dallas,TX,
+Booker T. Washington High School,High,1991-02-19,New Orleans,LA,1:00 PM
+Selma High School,High,1991-03-13,Selma,AL,9:35 AM
+Woodmont High School,High,1991-03-14,Piedmont,SC,
+Garinger High School,High,1991-03-25,Charlotte,NC,2:20 PM
+Northwest High School,High,1991-04-11,Rock Hill,SC,8:00 AM
+Humphrey's County High School,High,1991-04-23,Belzoni,MS,
+Ralph J. Bunche Middle School,Middle,1991-04-23,Compton,CA,
+Franklin Alternative Middle School,Middle,1991-05-10,Columbus,OH,2:00 PM
+Coronado Middle School,Middle,1991-05-16,Kansas City,KS,
+Robert A. Millikan Junior High School,Junior High,1991-05-21,Sherman Oaks,CA,
+School of Choice,Unknown,1991-05-21,Pahokee,FL,10:30 AM
+Westchester High School,High,1991-07-22,Los Angeles,CA,10:30 AM
+Enterprise Middle School,Middle,1991-07-30,Compton,CA,
+Madison High School,High,1991-09-13,Houston,TX,11:00 PM
+Woodson High School,High,1991-09-17,Chicago,IL,5:00 PM
+Crosby High School,High,1991-09-18,Crosby,TX,
+Spring Woods High School (bus),High,1991-10-02,Houston,TX,7:14 AM
+Dorsey High School,High,1991-10-04,Los Angeles,CA,5:27 PM
+Roosevelt High School,High,1991-10-04,Los Angeles,CA,
+James Monroe High School,High,1991-10-09,Bronx,NY,9:15 AM
+Madison Park High School,High,1991-10-11,Roxbury,MA,15:55:00
+Genevieve Sparks Elementary School,Elementary,1991-10-15,Pasadena,TX,1:15 PM
+Monadnock Regional High School,High,1991-10-15,Swanzey,NH,
+Woodruff High School,High,1991-10-15,Woodruff,SC,12:30 PM
+Oak Cliff High School,High,1991-10-23,Dallas,TX,7:45 AM
+Walter L. Cohen Senior High School,High,1991-11-06,New Orleans,LA,3:30 PM
+Ysleta High School,High,1991-11-11,El Paso,TX,
+Milby High School,High,1991-11-14,Houston,TX,12:00 AM
+Thomas Jefferson High School,High,1991-11-25,Brooklyn,NY,10:30 AM
+Whiteville High School,High,1991-12-26,Whiteville,NC,
+Greenwood High School,High,1992-01-17,Greenwood,SC,12:00:00
+Francis W. Gregory Junior High School,Junior High,1992-01-28,Gentilly,LA,
+Francis W. Gregory Junior High School,Junior High,1992-01-31,Gentilly,LA,1:30 PM
+Douglass High School,High,1992-02-06,Oklahoma City,OK,2:20 PM
+Booker T. Washington High School,High,1992-02-07,Norfolk,VA,12:47 PM
+Thomas Jefferson High School,High,1992-02-26,Brooklyn,NY,8:40 AM
+Hamilton Middle School,Middle,1992-03-05,Obetz,OH,
+O Perry Walker High School,High,1992-03-31,Algiers,LA,8:15 AM
+Fort Myers High School,High,1992-04-09,Fort Myers,FL,9:15 AM
+Lincoln High School,High,1992-04-17,Dallas,TX,
+Lindhurst High School,High,1992-05-01,Olivehurst,CA,
+Huntsville Junior High School,Junior High,1992-05-14,Huntsville,TX,7:45 AM
+Silverado Middle School,Junior High,1992-05-14,Napa,CA,8:15 AM
+Venice High School,High,1992-05-29,Los Angeles,CA,
+Archbishop Carroll High School,High,1992-05-30,Washington,DC,23:50:00
+Merced High School,High,1992-06-06,Merced,CA,11:18 PM
+Palo Duro High School,High,1992-09-11,Amarillo,TX,10:00 AM
+Hiram Johnson High School,High,1992-09-28,Sacramento,CA,3:10 PM
+Hollibrook Elementary School,Elementary,1992-09-30,Houston,TX,10:30 PM
+Paramount High School,High,1992-09-30,Los Angeles,CA,15:00:00
+Desert View High School,High,1992-10-13,Tucson,AZ,
+Evander Childs High School,High,1992-10-19,Bronx,NY,1:47 PM
+Finney High School,High,1992-11-04,Detroit,MI,10:30 AM
+Marcus Garvey Academy,K-8,1992-11-04,Detroit,MI,2:45 PM
+Mumford High School,High,1992-11-04,Detroit,MI,2:45 PM
+Sherman Elementary School,Elementary,1992-11-10,Chicago,IL,
+Langham Creek High School,High,1992-11-13,Cypress,TX,2:00 PM
+Fairfield High School,High,1992-11-16,Birmingham,AL,
+Tilden High School,High,1992-11-20,Chicago,IL,10:00 AM
+Robert E. Lee High School,High,1992-11-24,Montgomery,AL,
+Orr High School,High,1992-11-30,Chicago,IL,
+Woodson High School,High,1992-12-03,Chicago,IL,7:00 PM
+Walton High School,High,1992-12-14,Walton,NY,9:14 AM
+Brentwood High School,High,1993-01-05,Brentwood,NY,5:27 PM
+Crawford County Joint Vocational Technical School,High,1993-01-08,Meadville,PA,08:00:00
+Norland Senior High School,High,1993-01-12,Miami,FL,3:15 PM
+East Carter High School,High,1993-01-18,Grayson,KY,2:40 PM
+Fairfax High School,High,1993-01-21,Los Angeles,CA,
+Amityville High School,High,1993-02-01,Amityville,NY,2:15 PM
+Redmond Junior High School,High,1993-02-01,Redmond,WA,6:30 AM
+Garrett High School,High,1993-02-03,Charleston,SC,20:00:00
+Lexington High School,High,1993-02-03,Lexington,SC,
+Clayton High School,High,1993-02-04,Atlanta,GA,3:30 PM
+Middle River Middle School,Middle,1993-02-08,Middle River,MN,
+Washington-Dix Street Academy (High School),High,1993-02-08,Washington,DC,11:00 AM
+Reseda High School,High,1993-02-22,Los Angeles,CA,10:00:00
+Gloucester High School,High,1993-02-26,Gloucester,MA,
+Dozier Middle School,Middle,1993-03-08,Denbigh,VA,
+Harlem High School,High,1993-03-18,Harlem,GA,8:15 AM
+Sumner High School,High,1993-03-25,St. Louis,MO,8:00 AM
+Grant High School,High,1993-04-03,Sacramento,CA,
+Ford Middle School,Middle,1993-04-15,Acushnet,MA,
+Grant High School,High,1993-04-16,Sacramento,CA,5:25 PM
+Mount Tahoma High School,High,1993-04-16,Tacoma,WA,
+Nimitz High School,High,1993-05-14,Irving,TX,15:00:00
+Upper Perkiomen High School,High,1993-05-24,Pennsburg,PA,
+Francis T. Nicholls High School,High,1993-05-27,New Orleans,LA,
+Dorsey High School,High,1993-07-07,Los Angeles,CA,2:30 PM
+Theodore Roosevelt High School,High,1993-08-03,New York,NY,
+Harper High School,High,1993-08-31,Atlanta,GA,
+Junction City High School,High,1993-09-01,Junction City,KS,
+Roosevelt High School,High,1993-09-02,Dallas,TX,2:45 PM
+Fairfield High School,High,1993-09-12,Fairfield,AL,13:46:00
+Roosevelt High School,High,1993-09-16,Chicago,IL,3:00 PM
+Central Junior High School,Junior High,1993-09-17,Sheridan,WY,
+Downers South High School,High,1993-09-17,Downers Grove,IL,
+Weatherless Elementary School,Elementary,1993-09-25,Washington,DC,
+Coleman Junior High School,Junior High,1993-09-28,Greenville,MS,8:10 AM
+Dover High School,High,1993-10-12,New Castle,DE,
+J H Johnson Junior High School,Junior High,1993-10-18,Washington,DC,11:30 AM
+Sullivan High School,High,1993-11-01,Chicago,IL,
+Bay Springs High School,High,1993-11-04,Bay Springs,MS,
+New Britain High School,High,1993-11-04,New Britain,CT,
+Terry Parker High School,High,1993-11-04,Jacksonville,FL,
+Ridgely Elementary School,High,1993-11-11,Springfield,IL,12:00 AM
+Wauwatosa West High School,High,1993-12-01,Wauwatosa,WI,
+New Britain High School,High,1993-12-02,New Britain,CT,
+Beach High School,High,1993-12-08,Savannah,GA,8:00 PM
+Chatsworth High School,High,1993-12-15,San Fernando Valley,CA,1:40 PM
+Chelsea High School,High,1993-12-17,Chelsea,MI,
+Los Altos High School,High,1994-01-20,Hacienda Heights,CA,3:10 PM
+Kennard High School,High,1994-01-21,Kennard,TX,8:02 AM
+Eau Claire High School,High,1994-01-24,Columbia,SC,
+Eliot Junior High School,Junior High,1994-01-26,Washington,DC,3:30 PM
+Paul Lawrence Dunbar High School,High,1994-01-26,Washington,DC,10:50 AM
+Washington Elementary School,Elementary,1994-01-27,San Jose,CA,2:30 PM
+Whitman Middle School,Middle,1994-01-31,Seattle,WA,6:30 AM
+Osborn High School,High,1994-02-08,Detroit,MI,
+Spartanburg High School,High,1994-02-18,Spartanburg,SC,10:00 PM
+Kemper Military School and College,Other,1994-03-01,Boonville,MO,9:00 AM
+Ensley High School,High,1994-03-03,Birmingham,AL,
+Eastern High School,High,1994-03-09,Washington,DC,11:00 AM
+Goose Creek High School,High,1994-03-15,Charleston,SC,
+Ballard High School,High,1994-03-23,Seattle,WA,12:00 PM
+Etowah High School,High,1994-03-25,Cherokee County,GA,
+McNeil High School,High,1994-04-05,Austin,TX,
+Largo High School,High,1994-04-08,Upper Marlboro,MD,9:00 AM
+Margaret Leary Elementary School,Elementary,1994-04-12,Butte,MT,
+49th Street Elementary School,Elementary,1994-04-13,Los Angeles,CA,
+Eliot Junior High School,High,1994-04-19,Washington,DC,
+Dickinson Middle School,Middle,1994-04-20,South Bend,IN,930am
+J T Moore Middle School,Middle,1994-04-21,Nashville,TN,13:30:00
+North Miami High School,High,1994-05-02,North Miami,FL,12:00 PM
+Lakeland Regional High School,High,1994-05-25,Wanaque,NJ,8:30 AM
+LaSalle High School,High,1994-05-25,South Bend,IN,12:30 PM
+Larry A. Ryle High School,High,1994-05-26,Union,KY,9:00 AM
+Manchester Elementary School,Elementary,1994-07-24,Manchester,PA,
+Ottumwa High School,High,1994-07-25,Ottumwa,IA,11:38 AM
+Hollywood High School,High,1994-09-07,Los Angeles,CA,3:30 PM
+Sweet Home High School,High,1994-09-08,Albany,NY,9:00 AM
+Locke High School,High,1994-09-19,Los Angeles,CA,10:20 AM
+Lebanon Union High School,High,1994-09-22,Lebanon,OR,
+Grimsley High School,High,1994-10-12,Greensboro,NC,
+Hubbard High School,High,1994-10-17,Chicago,IL,2:15 PM
+Aliso Niguel High school,High,1994-10-31,Aliso Veijo,CA,12:44 PM
+Thomas Jefferson Elementary School,Elementary,1994-11-05,San Leandro,CA,
+Wickliffe Middle School,Middle,1994-11-07,Wickliffe,OH,
+West Delaware High School,High,1994-11-08,Manchester,IA,2:00 PM
+Stadium High School,High,1994-11-15,Tacoma,WA,
+Cardozo Senior High School,High,1995-01-05,Washington,DC,12:30 PM
+Palm Beach Gardens High School,High,1995-01-10,Palm Beach Gardens,FL,10:30 AM
+Garfield High School,High,1995-01-12,Seattle,WA,
+Sacred Heart Middle School,Middle,1995-01-23,Redlands,CA,
+Spingarn High School,High,1995-01-24,Washington,DC,12:00 PM
+Jordan High School,High,1995-02-02,Long Beach,CA,
+Chadron Middle School,Middle,1995-02-08,Scottsbluff,NE,
+Pershing High School,High,1995-03-03,Detroit,MI,2:00 PM
+Redford High School,High,1995-03-27,Detroit,MI,10:00 AM
+Lake Worth High School,High,1995-06-14,Lake Worth,FL,12:30 PM
+Memorial Middle School,Middle,1995-08-29,Laredo,TX,4:15 PM
+Cypress Junior High School,Junior High,1995-09-12,Memphis,TN,8:30 AM
+Olathe North High School,High,1995-09-14,Olathe,KS,
+George Rogers Clark High School,High,1995-09-15,Winchester,KY,
+Blount High School,High,1995-09-27,Prichard,AL,11:00 AM
+Tavares Middle School,Middle,1995-09-29,Tavares,FL,
+Blackville-Hilda High School,High,1995-10-12,Blackville,SC,8:40 AM
+Lake Howell High School,High,1995-10-23,Casselberry,FL,7:55 AM
+John F. Kennedy High School,High,1995-10-30,Richmond,VA,2:05 PM
+Blue Lake Elementary School (bus),Elementary,1995-11-02,Miami Beach,FL,8:15 AM
+Richland High School,High,1995-11-15,Lynnville,TN,
+Thomas A. Edison Vocational and Technical High School,High,1995-11-28,New York,NY,11:30 AM
+Girard High School,High,1996-01-02,Girard,PA,
+Winston Education Center,K-8,1996-01-19,Washington,DC,
+East High School,High,1996-01-26,Memphis,TN,9:45 PM
+Frontier Middle School,Middle,1996-02-02,Moses Lake,WA,
+Mid-Peninsula High School,High,1996-02-08,Menlo Park,CA,11:00 AM
+Jenkins High School,High,1996-02-22,Savannah,GA,
+Beaumont High School (bus),High,1996-02-29,St. Louis,MO,7:00 AM
+North Stanley High School,High,1996-03-11,New Longdon,NC,
+Swainston Middle School,Middle,1996-03-19,Las Vegas,NV,11:30 AM
+Talladega High School,High,1996-04-11,Talladega,AL,
+McKinley High School,High,1996-04-15,Washington,DC,
+Bingham Middle School,High,1996-05-14,Taylorsville,UT,
+Colton High School,High,1996-05-22,Colton,CA,2:20 PM
+West Valley High School,High,1996-06-04,Hemet,CA,
+John Marshall High School,High,1996-07-26,Los Angeles,CA,2:00 PM
+Dekalb Alternative School,Unknown,1996-09-25,Decatur,GA,
+Smedley Elementary School,Elementary,1996-10-02,Philadelphia,PA,
+St. Bernard High School,High,1996-10-04,Playa Del Rey,CA,10:00 PM
+Jacksonville High School bus,High,1996-10-09,Sherwood,AR,
+Sumner High School,High,1996-10-14,St. Louis,MO,
+Highlands High School,High,1996-11-27,Sacramento,CA,
+Crown Heights High School,High,1997-01-08,New York,NY,1:15 PM
+Conniston Middle School,Middle,1997-01-27,West Palm Beach,FL,8:40 AM
+Wingfield High School,High,1997-02-06,Jackson,MS,8:30 AM
+Morris High School,High,1997-02-13,Bronx,NY,
+Samuel Gompers High School,High,1997-02-13,Bronx,NY,
+Bethel Regional High School,High,1997-02-19,Bethel,AK,8:45 AM
+First Coast High School,High,1997-02-20,Jacksonville,FL,
+Rancho High School,High,1997-02-21,Las Vegas,NV,1:00 PM
+Pershing High School,High,1997-03-17,Detroit,MI,2:45 PM
+Maria Del Rey Junior High School,High,1997-04-03,Mar Vista,CA,
+John Marshall High School,High,1997-04-28,Los Angeles,CA,
+City-as-School High School,High,1997-04-30,New York,NY,12:30 PM
+Northwestern High School,High,1997-05-13,Miami,FL,8:30 AM
+Dunbar High School,High,1997-05-20,Dayton,OH,
+Jefferson Davis High School,High,1997-06-24,Montgomery,AL,12:43 PM
+Pearl High School,High,1997-10-01,Pearl,MS,
+Moore West Junior High School,Junior High,1997-10-05,Oklahoma City,OK,2:55 PM
+Wallace High School,High,1997-10-10,Gary,IN,
+Lakeview Centennial High School,High,1997-10-14,Garland,TX,
+Lincoln Middle School,Middle,1997-10-15,Palmetto,FL,
+McClymonds High School,High,1997-10-20,Oakland,CA,8:00 PM
+John Glenn High School,High,1997-10-22,Norwalk,CA,7:45 AM
+Ribault High School,High,1997-11-07,Jacksonville,FL,8:20 AM
+Creekside Elementary School,Elementary,1997-11-13,Sacramento,CA,
+Heath High School,High,1997-12-01,West Paducah,KY,7:45 AM
+Stamps High School,High,1997-12-15,Stamps,AR,
+Hoboken High School,High,1998-02-12,Hoboken,NJ,3:10 PM
+Reed City High School,High,1998-02-25,Reed City,MI,8:00 AM
+Marshall High School,High,1998-02-27,Fairfax,VA,12:20 PM
+Westside Middle School,Middle,1998-03-24,Jonesboro,AR,12:41 PM
+Coldwater High School,High,1998-03-25,Coldwater,MI,8:00 AM
+Fernando Rivera Middle School,Middle,1998-03-25,Daly City,CA,8:15 AM
+Grey Culbreth Middle School,Middle,1998-03-30,Chapel Hill,NC,11:00 AM
+Oakfield Middle School,Middle,1998-03-31,Oakfield,WI,
+Culver City High School,High,1998-04-23,Los Angeles,CA,2:00 PM
+Parker Middle School,Middle,1998-04-24,Edinboro,PA,10:00 PM
+Pardeeville Elementary School,Elementary,1998-04-28,Pardeeville,WI,9:00 PM
+Philadelphia Elementary School,Elementary,1998-04-28,Pomona,CA,
+North Miami Senior High School,High,1998-05-01,Miami,FL,
+Public School 18,Elementary,1998-05-01,Buffalo,NY,9:20 AM
+Lincoln County High School,High,1998-05-19,Fayetteville,TN,2:00 PM
+Onalaska High School,High,1998-05-21,Onalaska,WA,
+Rialta High School,High,1998-05-21,Rialto,CA,
+Thurston High School,High,1998-05-21,Springfield,OR,7:50 AM
+Washington Middle School,Middle,1998-05-27,Pasadena,CA,6:15 PM
+Stranahan High School,High,1998-05-29,Ft. Lauderdale,FL,7:32 AM
+Armstrong High School,High,1998-06-15,Richmond,VA,10:00 AM
+Herbert Hoover High School,High,1998-09-11,Glendale,CA,
+Leesburg High School,High,1998-09-30,Leesburg,FL,
+North Miami High School,High,1998-09-30,Miami,FL,12:32 PM
+Martin Luther King High School,High,1998-11-03,Philadelphia,PA,1:45 PM
+Hancock Middle High School,Middle,1998-11-30,Hancock,NY,9:20 AM
+Ernie Elementary School,Elementary,1998-12-03,Gary,IN,
+Ben Davis Junior High School,Junior High,1998-12-11,Indianapolis,IN,
+Central High School,High,1999-01-08,Carrollton,GA,
+Harry S. Truman High School,High,1999-01-14,New York,NY,9:00 AM
+Richland High School,High,1999-01-21,North Richland Hills,TX,
+Jefferson-Todd Educational Center,Other,1999-02-11,Purvis,MS,
+Ombudsman Educational Service Center,High,1999-02-11,Elgin,IL,12:30 PM
+Niles West High School,High,1999-03-04,Skokie,IL,10:00 PM
+Notus Jr. Sr. High School,6-12,1999-04-16,Notus,ID,
+Columbine High School,High,1999-04-20,Littleton,CO,11:19 AM
+Martin Luther King Jr. Middle School,Middle,1999-04-22,Atlanta,GA,9:45 PM
+Scotlandville Middle School,Middle,1999-04-22,Baton Rouge,LA,12:30 PM
+Heritage High School,High,1999-05-20,Conyers,GA,8:03 AM
+Jasper County High School,High,1999-08-25,Monticello,GA,
+Santa Teresa High School,High,1999-09-09,San Jose,CA,8:30 AM
+Egypt Lake Elementary School,Elementary,1999-09-27,Tampa,FL,7:30 AM
+John Bartram High School,High,1999-10-04,Philadelphia City,SD,10:00 AM
+Clark High School,High,1999-10-11,Las Vegas,NV,2:40 PM
+San Fernando High School,High,1999-10-21,Pacoima,CA,2:40 PM
+Guyan Valley High School,High,1999-10-26,Branchland,WV,6:10 AM
+Martin Luther King High School,High,1999-10-26,Philadelphia,PA,1:30 PM
+Dickinson High School,High,1999-11-17,Dickinson,TX,8:00 AM
+Deming Middle School,Middle,1999-11-19,Deming,NM,12:45 PM
+Fort Gibson Middle School,Middle,1999-12-06,Fort Gibson,OK,7:45 AM
+Bartlett High School,High,2000-01-10,Anchorage,AK,
+Albuquerque High School,High,2000-01-13,Albuquerque,NM,12:30 PM
+Ridgewood High School,High,2000-01-19,New Port Richey,FL,3:00 PM
+Erwin High School,High,2000-01-20,Asheville,NC,
+Alicia Reyes Elementary School,Elementary,2000-01-26,Merced,CA,8:34 AM
+South High School,High,2000-01-26,Omaha,NE,
+Penn Wood East Junior High School,Junior High,2000-02-10,Yeadon,PA,2:15 PM
+Duke Ellington Elementary School,Elementary,2000-02-14,Chicago,IL,3:00 PM
+Buell Elementary School,Elementary,2000-02-29,Flint,MI,10:00:00
+Beach High School,High,2000-03-10,Savannah,GA,11:15 PM
+McKinley Elementary School,Elementary,2000-03-23,Lisbon,OH,8:45 AM
+Hugo High School,High,2000-04-06,Hugo,OK,12:00 PM
+La Cima Middle School,Middle,2000-04-10,Tucson,AZ,
+Thomas Jefferson High School,High,2000-05-02,Denver,CO,
+Carmichael Elementary School,Elementary,2000-05-10,Sierra Vista,AZ,1:30 PM
+Lake Worth Middle School,Middle,2000-05-26,Lake Worth,FL,3:00 PM
+Dimmitt Middle School,Middle,2000-07-17,Renton,WA,10:30 AM
+Timken Senior High School,High,2000-07-26,Canton,OH,
+Bidwell Porter Elementary School,Elementary,2000-09-05,Bidwell,OH,6:30 AM
+Longfellow Elementary School,Elementary,2000-09-07,Rock Island,IL,6:58 PM
+Mount Healthy North Junior High,Junior High,2000-09-18,Mount Healthy,OH,
+Carter G. Woodson Middle School,Middle,2000-09-26,New Orleans,LA,12:00 PM
+Minneapolis North High School,High,2000-10-05,Minneapolis,MN,11:00 PM
+Pioneer Elementary School,Elementary,2000-10-24,Glendale,AZ,11:15 AM
+Newman Smith High School,High,2000-11-01,Carrollton,TX,8:15 AM
+Granada Hills High School,High,2000-12-01,Los Angeles,CA,7:00 AM
+Junipero Serra High School,High,2000-12-01,San Diego,CA,
+Richmond High School,High,2000-12-07,Richmond,CA,12:45 PM
+Norland Elementary School,Elementary,2000-12-21,Miami,FL,3:45 PM
+Balboa High School,High,2001-01-03,San Francisco,CA,9:30 AM
+Hueneme High School,High,2001-01-10,Oxnard,CA,12:50 PM
+Lake Clifton Eastern High School,High,2001-01-17,Baltimore,MD,8:45 AM
+Osborn High School,High,2001-02-02,Detroit,MI,
+Hoover High School,High,2001-03-02,San Diego,CA,
+Santana High School,High,2001-03-05,Santee,CA,9:20 AM
+Largo High School,High,2001-03-06,Largo,MD,5:00 PM
+Bishop Neumann High School,High,2001-03-07,Williamsport,PA,12:00 PM
+Kentwood High School,High,2001-03-07,Covington,WA,
+Granite Hills High School,High,2001-03-22,El Cajon,CA,12:54 PM
+Lew Wallace High School,High,2001-03-30,Gary,IN,8:15 AM
+Kleb Intermediate School,High,2001-04-02,Houston,TX,10:30 AM
+Wahluke High School,High,2001-04-10,Mattawa,WA,
+Monroe City Alternative Center,High,2001-04-20,Monroe,LA,7:20 AM
+John Marshall High School,High,2001-04-25,Cleveland,OH,11:00 PM
+Ennis High School,High,2001-05-15,Ennis,TX,12:00 PM
+Ousley Junior High School,High,2001-06-07,Arlington,TX,6:10 PM
+Belmont High School,High,2001-07-30,Los Angeles,CA,7:25 AM
+Latonia Elementary School,Elementary,2001-09-12,Covington,KY,3:00 PM
+Lake Clifton Eastern High School,High,2001-09-21,Baltimore,MD,1:00 PM
+Taylorsville High School,High,2001-10-12,Taylorsville,UT,
+Benito Juarez Academy,High,2001-10-26,Siginaw,MI,1:45 PM
+Redondo Union High School,High,2001-10-26,Redondo Beach,CA,10:00 AM
+Caro Learning Center,High,2001-11-12,Caro,MI,2:40 PM
+Friendswood Junior High School,High,2001-11-30,Friendswood,TX,6:00 AM
+Raymond High School,High,2002-01-11,Jackson,MS,12:00 PM
+"Martin Luther King, Jr. High School",High,2002-01-15,New York,NY,2:00 PM
+Oley High School (bus),High,2002-01-24,Oley,PA,
+Brock High School,High,2002-02-01,Brock,TX,
+Gardena High School,High,2002-02-06,Los Angeles,CA,2:50 PM
+Roosevelt High School,High,2002-02-07,Chicago,IL,2:50 PM
+John Barrett Middle School,Middle,2002-03-22,Carmichael,CA,
+Leith Walk Elementary School,Elementary,2002-04-06,Baltimore,MD,1:00 AM
+Abramson High School,High,2002-04-26,New Orleans,LA,9:45 PM
+C M Russell HIgh School,High,2002-10-04,Great Falls,MT,3:30 PM
+Page Middle School,High,2002-10-04,San Antonio,TX,8:15 AM
+Benjamin Tasker Middle School,Middle,2002-10-07,Bowie,MD,8:09 AM
+Lincoln High School,High,2002-10-29,Jersey City,NJ,8:30 AM
+St. James Catholic School,K-8,2002-11-07,Liberty,MO,12:40 PM
+Ambler Avenue Elementary School,Elementary,2002-11-15,Los Angeles,CA,5:30 PM
+Scurry-Rosser High School,High,2002-11-15,Scurry,TX,8:30 AM
+Osborn High School,High,2002-12-02,Detroit,MI,10:00 AM
+Wind River Middle School,Middle,2002-12-12,Carson,WA,4:40 PM
+Englewood High School,High,2002-12-16,Chicago,IL,3:00 PM
+West Carter Middle School,Middle,2003-01-21,Olive Hill,KY,11:00 AM
+Jenks High School,High,2003-01-30,Jenks,OK,3:00 PM
+Ranum High School,High,2003-02-05,Westminster,CO,8:40 AM
+Clayton Ridge High School,High,2003-03-18,Guttenberg,IA,
+Northeast High School,High,2003-03-21,Meridian,MS,8:00 AM
+Rolling Hills Middle School,High,2003-03-30,Watsonville,CA,6:40 PM
+Cardozo High School,High,2003-04-01,Washington,DC,12:15 PM
+Walnut High School,High,2003-04-10,Walnut,CA,12:10:00
+Fair Park High School,High,2003-04-14,Shereveport,LA,10:30 AM
+John McDonogh High School,High,2003-04-14,New Orleans,LA,10:15 AM
+Greenhill Middle School,Middle,2003-04-16,Addison,TX,3:10 PM
+Red Lion Area Junior High School,Junior High,2003-04-24,Red Lion,PA,7:34 AM
+Forest Hills High School,High,2003-05-13,Johnstown,PA,
+Rock L. Butler Middle School,Middle,2003-06-04,Wellsboro,PA,8:17 AM
+Vicksburg High School,High,2003-09-10,Vicksburg,MS,2:30 PM
+Charlestown High School,K-12,2003-09-17,Boston,MA,2:00 PM
+Oklahoma Road Middle School,Middle,2003-09-17,Eldersburg,MD,10:00 AM
+Lewis and Clark High School,High,2003-09-22,Spokane,WA,11:10 AM
+Rocori High School,High,2003-09-24,Cold Spring,MN,11:38 AM
+Burns Middle School,Middle,2003-09-25,Lawndale,NC,8:00 AM
+Rio Cazadero High School,High,2003-10-01,Sacramento,CA,9:00 AM
+Kenmore High School,High,2003-10-07,Akron,OH,
+Marion High School,High,2003-10-29,Marion,LA,7:55 AM
+Anacostia High School,High,2003-10-30,Washington,DC,3:15 PM
+Hightower High School,High,2003-11-08,Sugarland,TX,9:20 PM
+East Mecklenburg High School,High,2003-11-13,Charlotte,NC,11:45 AM
+Fermi Elementary School,Elementary,2003-12-02,Chicago,IL,9:40 PM
+Douglas High School,High,2003-12-04,Oklahoma City,OK,2:10 PM
+Carbondale Community High School,High,2003-12-05,Carbondale,IL,
+Old Mill High School,High,2003-12-17,Millersville,MD,
+Colonia High School,High,2003-12-22,Woodbridge,NJ,10:00 PM
+Abess Park Elementary School,Elementary,2003-12-29,East Arlington,FL,4:00 AM
+Pomona High School,High,2004-01-15,Pomona,CA,
+Fay Galloway Elementary School,Elementary,2004-01-21,Henderson,NV,4:50 PM
+Ballou Senior High School,High,2004-02-02,Washington,DC,10:30 AM
+Youens Elementary School,Elementary,2004-02-03,Houston,TX,10:30 AM
+Fair Park High School,High,2004-02-06,Shreveport,LA,
+Columbia High School,High,2004-02-09,East Greenbush,NY,10:30 AM
+T M Peirce Elementary School,Elementary,2004-02-11,Philadelphia,PA,8:30 AM
+Colonel White High School,High,2004-02-13,Dayton,OH,1:00 PM
+Gathway Christian Academy,K-12,2004-02-20,St. Martinville,LA,11:15 AM
+Saledad Enrichment Action Charter High School,High,2004-03-05,Los Angeles,CA,7:35 AM
+Crescent Junior-Senior High School,Junior High,2004-03-17,Joyce,WA,10:00 AM
+Kashmere High School,High,2004-05-04,Houston,TX,8:00 AM
+Randallstown High School,High,2004-05-07,Randallstown,MD,4:30 PM
+East Campus Educational Center,K-12,2004-05-12,Merced,CA,5:25 PM
+West High School,High,2004-05-24,Salt Lake City,UT,6:00 AM
+Castlemont High School,High,2004-06-09,Oakland,CA,12:22 PM
+Huffman High School,High,2004-08-03,Birmingham,AL,8:45 AM
+Hamilton High School,High,2004-08-24,Memphis,TN,
+Proviso East High School,High,2004-08-30,Maywood,IL,2:30 PM
+Booker T. Washington High School,High,2004-09-12,New Orleans,LA,12:00 PM
+Wirt High School,High,2004-09-15,Gary,IN,
+Jefferson Elementary School,Elementary,2004-10-02,Grand Island,NE,6:30 AM
+Newburyport High School,High,2004-10-07,Newburyport,MA,11:00 PM
+Lakewood Elementary School,Elementary,2004-10-12,Sunnyvale,CA,
+Biggs High School,High,2004-10-15,Biggs,CA,8:43 PM
+Thurgood Marshall High School,High,2004-10-21,Baltimore,MD,4:00 PM
+Tyrrell Elementary School,Elementary,2004-10-22,Hayward,CA,9:55 PM
+Brunswick Elementary School,Elementary,2004-11-15,Gary,IN,
+Parker High School,High,2004-11-15,Birmingham,AL,9:00 PM
+Battery Creek High School,High,2004-11-16,Beaufort,SC,6:30 PM
+Apopka Memorial Middle School,Middle,2004-11-17,Apopka,FL,
+Terry Parker High School,High,2004-11-19,Jacksonville,FL,6:45 AM
+Lakeside High School,High,2004-12-09,Spokane,WA,1:20 PM
+La Grange High School,High,2004-12-13,Lake Charles,LA,12:30 PM
+Richmond State School,Other,2004-12-31,Richmond,TX,6:00 PM
+Murrell Dobbins Vocational-Technical High School,High,2005-01-05,North Philadelphia,PA,2:48 PM
+Woodruff High School,High,2005-01-26,Peoria,IL,
+McNair High School,High,2005-02-04,Atlanta,GA,
+Bowen High School,High,2005-02-08,Chicago,IL,2:32 PM
+Stewart County High School (bus),High,2005-03-02,Dover,TN,6:15 AM
+Maplewood Comprehensive High School,High,2005-03-09,Nashville,TN,2:00 PM
+Zaragoza Elementary School,Elementary,2005-03-10,Dallas,TX,6:30 PM
+Leawood Elementary School,Elementary,2005-03-14,Columbus,OH,9:00 AM
+Carrick High School,High,2005-03-16,Pittsburgh,PA,1:58 PM
+Locke High School,High,2005-03-17,Los Angeles,CA,3:00 PM
+O Perry Walker High School,High,2005-03-17,Algiers,LA,
+New Utrecht High School,High,2005-03-21,Brooklyn,NY,12:00 PM
+Red Lake Senior High School,High,2005-03-21,Red Lake,MN,2:49 PM
+Fairly High School,High,2005-03-24,Memphis,TN,
+East High School,High,2005-03-30,Memphis,TN,11:00 AM
+Canton High School,High,2005-04-07,Canton,TX,9:15 AM
+Leon Godchaux Junior High School,High,2005-04-27,Reserve,LA,10:00 AM
+Daniel E. Morgan Elementary School,High,2005-04-29,Cleveland,OH,
+Berkner High School,High,2005-05-14,Richardson,TX,7:30 PM
+Highland Elementary School,Elementary,2005-05-17,Lower Allen Township,PA,3:00 PM
+Locust Elementary School,Elementary,2005-05-20,Marengo,IL,3:00 PM
+Academia Ana Marie Sandoval Montessori School,Other,2005-05-24,Denver,CO,1:00 PM
+Booker T. Washington High School,High,2005-05-24,Shreveport,LA,1:55 PM
+Arlington High School,High,2005-06-08,Poughkeepsi,NY,2:32 PM
+Bangs Avenue Elementary School,Elementary,2005-06-12,Asbury Park,NJ,9:30 PM
+Weequahic High School,High,2005-07-18,Newark,NJ,1:30 PM
+Country Day High School,High,2005-08-16,Estate Concordia,VI,7:30 AM
+Planatation Elementary School,Elementary,2005-08-17,Bakersfield,CA,6:00 PM
+Morrow High School,High,2005-08-19,Morrow,GA,11:00 AM
+Maury Middle School,Middle,2005-08-25,Dandridge,TN,9:30 AM
+Dimond High School,High,2005-09-01,Anchorage,AK,5:00 PM
+Sojourner Truth High School,High,2005-09-02,Jacksonville,FL,12:50 PM
+Harlan Community Academy High School,High,2005-09-13,Chicago,IL,2:20 PM
+Saginaw High School,High,2005-09-24,Saginaw,MI,11:30 PM
+Farmington High School,High,2005-10-11,Farmington,MI,8:00 AM
+Samula Tilden High School,High,2005-10-14,New York,NY,9:15 AM
+San Gorgonio High School,High,2005-10-19,San Bernardino,CA,7:40 AM
+Saginaw High School,High,2005-10-20,Saginaw,MI,12:00 PM
+Birney Elementary School,Elementary,2005-10-27,Fresno,CA,
+Annapolis High School,High,2005-10-28,Annapolis,MD,8:30 PM
+Farmingdale High School,High,2005-10-28,Farmingdale,NY,7:45 PM
+Campbell County High School,High,2005-11-08,"Jacksboro, TN",TN,14:00:00
+Parkway Academy Charter High School (bus),High,2005-11-15,Miramar,FL,7:45 AM
+Irving Middle School,Middle,2005-11-16,San Antonio,TX,
+Boston Day and Evening Academy (High School),High,2005-12-05,Roxbury,MA,2:20 PM
+Central High School,High,2005-12-06,Detroit,MI,1:30 PM
+Santiago High School,High,2005-12-06,Garden Grove,CA,3:00 PM
+Lincoln High School,High,2006-01-03,Jersey City,NJ,3:20 PM
+Mount Pleasant High School,High,2006-01-10,Wilmington,DE,
+Mary McLeod Bethune Academy,K-8,2006-01-11,Milwaukee,WI,12:30 PM
+Milwee Middle School,Middle,2006-01-13,Longwood,FL,9:30 AM
+Osborn High School,High,2006-01-13,Detroit,MI,12:00 PM
+Pinson Valley High School,High,2006-01-13,Pinson,AL,10:58 PM
+Fred Moodry Middle School,Middle,2006-01-18,Anaconda,MT,
+Indian River High School,High,2006-01-18,Chesapeake,VA,11:00 AM
+Passmore Elementary School,Elementary,2006-01-18,Alvin,TX,11:55 AM
+Withrow High School,High,2006-01-19,Cincinnati,OH,8:00 PM
+Will C. Wood High School,High,2006-01-23,Vacaville,CA,9:45 AM
+Lakeview Centennial High School,High,2006-01-27,Garland,TX,
+C M Russell High School,High,2006-01-30,Great Falls,MT,8:00 AM
+Longfellow Elementary School (bus),Elementary,2006-02-03,Compton,CA,8:20 AM
+William Penn High School,High,2006-02-09,New Castle,DE,8:50 PM
+West York Area High School,High,2006-02-15,York,PA,
+Westinghouse High School,High,2006-02-21,Pittsburgh,PA,7:45 AM
+Roseburg High School,High,2006-02-23,Roseburg,OR,7:45 AM
+I S 89 Middle School,Middle,2006-03-10,New York,NY,8:20 AM
+Pine Middle School,Middle,2006-03-14,Reno,NV,9:00 AM
+Roosevelt Senior High School,High,2006-04-05,Washington,DC,9:15 AM
+Westbury High School (bus),High,2006-04-18,Houston,TX,5:00 PM
+East Chapel Hill High School,High,2006-04-24,Chapel Hill,NC,5:00 PM
+Parkway Academy,High,2006-05-05,Miramar,FL,11:35 PM
+Butch Fork High School,High,2006-05-22,Irmo,SC,10:00 AM
+Northampton Area Senior High School,High,2006-05-25,Northampton,PA,7:50 AM
+Venice High School,High,2006-06-05,Los Angeles,CA,3:10 PM
+Wirt High School,High,2006-06-06,Gary,IN,
+Pershing High School,High,2006-06-15,Detroit,MI,6:05 PM
+Young Middle Magnet School,Middle,2006-07-31,Tampa,FL,6:20 AM
+J T Alton Middle School,Middle,2006-08-15,Vine Grove,KY,
+Mendez Middle School,Middle,2006-08-17,Austin,TX,8:00 PM
+South High School,High,2006-08-19,Youngstown,OH,3:45 PM
+Lyman Hall Elementary School,High,2006-08-20,Hinesville,GA,7:30 PM
+Castle High School,High,2006-08-21,Newburgh,IN,
+Essex Elementary School,Elementary,2006-08-24,Essex Junction,VT,
+Anacostia Senior High School,High,2006-08-29,Washington,DC,3:15 PM
+Orange High School,High,2006-08-30,Hillsborough,NC,1:00 PM
+Oxford High School,High,2006-08-31,Oxford,AL,9:40 PM
+Kingsbury Middle School,Middle,2006-09-05,Memphis,TN,
+South Hills High School,High,2006-09-08,Fort Worth,TX,1:20 PM
+Westminster Christian Academy,High,2006-09-13,Creve Coeur,MO,
+Cardozo High School,High,2006-09-21,Washington,DC,12:15 PM
+Platte Canyon High School,High,2006-09-27,Bailey,CO,11:40:00
+Weston High School,High,2006-09-29,Cazenovia,WI,8:10 AM
+West Nickel Mines School,K-12,2006-10-02,Nickel Mines,PA,11:07 AM
+Memorial Middle School,Middle,2006-10-09,Joplin,MO,7:45 AM
+Ponoma Middle School ,Middle,2006-10-10,Pomona,NY,4:00 PM
+Grove Park Elementary School,Elementary,2006-10-12,Baltimore,MD,
+Seven Lakes High School,High,2006-10-17,Katy,TX,11:55 AM
+Halls High School,High,2006-10-31,Knoxville,TN,10:30 PM
+Lionel Wilson College Prep School,High,2006-11-11,Oakland,CA,11:00 PM
+Sammye E. Coan Middle School,Middle,2006-11-22,Atlanta,GA,5:40 PM
+Jones Senior High School,High,2006-12-01,Trenton,NC,10:20 PM
+Northwest High School,High,2006-12-07,Omaha,NE,
+Clemente High School,High,2006-12-11,Chicago,IL,2:45 PM
+Springfield Township High School,High,2006-12-12,Springfield Township,PA,9:00 AM
+Bangor Area High School,High,2006-12-13,Bangor,PA,2:30 PM
+McGuffey High School,High,2006-12-14,Claysville,PA,5:00 PM
+Westover High School,High,2007-01-02,Fayetteville,NC,3:01 PM
+Henry Foss High School,High,2007-01-03,Tacoma,WA,7:30 AM
+Northwestern High School,High,2007-01-04,Detroit,MI,
+Robert A. Taft Information Technology High School,High,2007-01-08,Cincinnati,OH,10:45 AM
+Grant High School,High,2007-01-09,Van Nuys,CA,3:15 PM
+Western High School,High,2007-01-09,Las Vegas,NV,6:30 AM
+William L.Sayre High School,High,2007-01-18,Philadelphia,PA,8:25 AM
+Harbin County High School,High,2007-01-24,Savannah,TN,8:00 AM
+Hillcrest High School,High,2007-01-31,Country Club Hills,IL,9:30 PM
+Paxon Middle School,Middle,2007-02-07,Jacksonville,FL,
+Crook County High School,High,2007-02-08,Prineville,OR,2:33 PM
+Stephen F. Austin Middle School,Middle,2007-02-08,Port Arthur,TX,
+Slauson Middle School,Middle,2007-02-26,Azusa,CA,
+Clifton Elementary School,Elementary,2007-02-27,Atlanta,GA,
+Centennial High School,High,2007-03-07,Compton,CA,2:30 PM
+Greenville High School,High,2007-03-07,Greenville,TX,7:15 AM
+Herbert Henry Dow High School,High,2007-03-07,Midland,MI,10:57 AM
+East Ridge High School,High,2007-03-08,Chattanooga,TN,2:20 PM
+Union Park Elementary School,Elementary,2007-03-23,Orlando,FL,3:00 PM
+Sarah J. Rawson Elementary School,Elementary,2007-03-27,Hartford,CT,6:30 PM
+Myrtle Beach High School,High,2007-03-29,Myrtle Beach,SC,
+Chicago Vocational Career Academy,Other,2007-04-10,Chicago,IL,2:15 PM
+Springwater Trail High School,High,2007-04-10,Gresham,OR,2:15 PM
+North Mecklenburg High School,High,2007-04-18,Huntersville,NC,
+Gettysburg Elementary School,Elementary,2007-05-03,Dayton,OH,9:45 AM
+Tidehaven High School,High,2007-05-04,El Maton,TX,8:33 AM
+Henry Ford High School,High,2007-05-10,Detroit,MI,
+West Mesquite High School,High,2007-05-12,Mesquite,TX,
+Liberty Memorial Middle School,Middle,2007-05-15,Los Fresnos,TX,10:02 AM
+Oak Haven Elementary School,Elementary,2007-05-23,Coventry,RI,4:53 PM
+Vandora Springs Elementary School,Elementary,2007-05-30,Garner,NC,
+North Garner Middle School,Middle,2007-05-31,Garner,NC,
+Broad River Elementary School,Elementary,2007-06-17,Burton,SC,
+David W. Carter High School,High,2007-06-28,Dallas,TX,12:00 PM
+Carter G. Woodson Elementary School,Elementary,2007-07-09,Chicago,IL,1:40 PM
+Mount Vernon Elementary School,High,2007-08-04,Newark,NJ,
+Las Plumas High School,High,2007-09-28,Oroville,CA,9:15 AM
+S Simon and Jude Catholic School,K-8,2007-09-30,Phoenix,AZ,9:37 PM
+Platt High School,High,2007-10-01,Meriden,CT,1:50 PM
+SuccessTech Academy,Other,2007-10-10,Cleveland,OH,1:15 PM
+Manassas High School,High,2007-10-24,Memphis,TN,8:45 AM
+John Curtis Christian School,K-12,2007-11-05,River Ridge,LA,
+Holland Patent Central High School,High,2007-11-26,Holland Patent,NY,11:00 AM
+Barnard-White Middle School,Middle,2007-12-21,Union City,CA,3:20 PM
+Hamilton High School,High,2008-02-04,Memphis,TN,10:00 AM
+Mitchell High School,High,2008-02-11,Memphis,TN,9:00 AM
+E O Green Junior High School,Junior High,2008-02-12,Oxnard,CA,08:15:00
+Davidson High School,High,2008-03-06,Mobile,AL,10:00 AM
+Roosevelt High School,High,2008-04-16,Fresno,CA,11:54 AM
+Madison Parish High School,High,2008-05-16,Tallulah,LA,
+Wallace Elementary School,Elementary,2008-08-11,Kelso,WA,
+Lakota Middle School,Middle,2008-08-14,Federal Way,WA,8:20 PM
+Central High School,High,2008-08-21,Knoxville,TN,08:11:00
+South High School,High,2008-09-02,Willoughby,OH,
+Mira Loma High School,High,2008-09-15,Sacramento,CA,
+George Washington Preparatory High School,High,2008-09-19,Athens,CA,6:00 PM
+Henry Ford High School,High,2008-10-16,Detroit,MI,3:15 PM
+Vasquez High School,High,2008-10-20,Acton,CA,
+Prattville Christian Academy,Other,2008-10-23,Prattville,AL,
+Eliot Elementary School,Elementary,2008-10-29,Gilroy,CA,
+Stockton Springs Elementary School,Elementary,2008-10-31,Stockton Springs,ME,08:30:00
+Bell High School,High,2008-11-03,Bell,CA,8:00 PM
+El Rio Elementary School,Elementary,2008-11-03,Oxnard,CA,3:35 PM
+Dillard High School,High,2008-11-12,Fort Lauderdale,FL,11:00 AM
+Desert Hills High School,High,2008-11-15,St. George,UT,6:20 PM
+Thompson Valley High School,High,2008-11-15,Loveland,CO,1:15 AM
+Central Valley High School,High,2008-11-18,Ceres,CA,9:00 PM
+Cole Middle School,Middle,2008-11-18,Oakland,CA,8:30 AM
+North Forest High School,High,2008-11-25,Houston,TX,9:45 PM
+O A Peters Elementary School,Elementary,2008-11-30,Garden Grove,CA,4:00 PM
+King City High School,High,2008-12-02,King City,CA,7:26 PM
+Shattuck St. Mary's Prep School,Other,2008-12-05,Faribault,MN,9:00 PM
+Guy B. Teachey Elementary School,Elementary,2008-12-12,Asheboro,NC,10:30 PM
+William Floyd High School,High,2008-12-12,Mastic Beach,NY,8:30 PM
+Summerville High School,High,2008-12-21,Summerville,SC,7:15 PM
+Largo Middle School,Middle,2008-12-22,Largo,FL,
+William H. Harrison Elementary School,Elementary,2008-12-27,Philadelphia,PA,10:00 AM
+Kennedy Elementary School,Elementary,2008-12-31,Norman,OK,
+Shuman Middle School,Middle,2008-12-31,Savannah,GA,
+William Penn High School,High,2009-01-08,New Castle,DE,8:30 PM
+Dunbar High School,High,2009-01-09,Chicago,IL,8:00 PM
+Perspectives Charter School,Middle,2009-01-14,Chicago,IL,11:12 AM
+Beecher High School,High,2009-01-20,Mount Morris Township,MI,
+Collins HIgh School,High,2009-01-20,Chicago,IL,
+East High School,High,2009-01-20,Erie,PA,8:22 PM
+Cahokia High School,High,2009-01-23,Cahokia,IL,
+Clayton High School,High,2009-01-27,Clayton,NC,
+Baker Elementary School,Elementary,2009-02-10,El Monte,CA,2:00 PM
+School bus,Other,2009-02-11,Zebulon,NC,
+Central High School,High,2009-02-17,Detroit,MI,2:20 PM
+John Muir Elementary School,Elementary,2009-02-20,Hayward,CA,12:00 PM
+Brien McMahon High School,High,2009-02-23,Norwalk,CT,8:30 PM
+Robert Frost Elementary School,Elementary,2009-03-02,Sioux Falls,SD,2:50 PM
+Westover High School,High,2009-03-06,Fayetteville,NC,10:00 PM
+Ribault High School,High,2009-03-10,Jacksonville,FL,7:22 AM
+Cypress Ridge High School,High,2009-03-11,Houston,TX,
+Locke High School,High,2009-04-13,Los Angeles,CA,
+Sheboygan High School,High,2009-05-01,Sheboygan,WI,3:40 PM
+Canandaigua Academy,High,2009-05-05,Canandaigua,NY,10:25 AM
+Larose-Cut Off Middle School,Middle,2009-05-18,Larose,LA,9:00 AM
+International Studies Academy,Other,2009-06-15,San Francisco,CA,
+Aplington-Parkersburg High School,High,2009-06-24,Parkersburg,IA,8:00 AM
+Westover High School,High,2009-08-27,Fayetteville,NC,4:00 PM
+Stamford Academy,High,2009-09-08,Stamford,CT,8:05 AM
+Virginia Randolph Community High School,High,2009-09-16,Glen Allen,VA,12:30 PM
+Mattituck Junior-Senior High School,6-12,2009-10-08,Mattituck,NY,1:53 PM
+Carolina Forest High School,High,2009-10-16,Conway,SC,8:25 AM
+Wilson High School,High,2009-10-30,Long Beach,CA,
+Hamilton High School (bus),High,2009-11-06,West Philadelphia,PA,8:00 AM
+Booker T. Washington High School,High,2009-12-11,Shreveport,LA,8:10 AM
+Livington High School,High,2010-01-20,Livington,AL,3:00 PM
+Discovery Middle School,Middle,2010-02-05,Madison,AL,1:45 PM
+Inskip Elementary School,High,2010-02-10,Knoxville,TN,1:00 PM
+Deer Creek Middle School,Middle,2010-02-23,Littleton,CO,15:14:00
+Birney Elementary School,Elementary,2010-02-26,Tacoma,WA,
+Woodrow Wilson High School,High,2010-04-28,Portsmouth,VA,12:15 PM
+South Gate High School,High,2010-05-18,South Gate,CA,7:51 AM
+Sullivan Central High School,High,2010-08-30,Blountville,TN,9:16 AM
+Mumford High School,High,2010-09-08,Detroit,MI,3:30 PM
+Socastee High School,High,2010-09-21,Conway,SC,2:00 PM
+Alisal High School,High,2010-10-01,Salinas,CA,7:53 AM
+Kelly Elementary School,Elementary,2010-10-08,Carlsbad,CA,12:00 PM
+Topeka West High School,High,2010-10-23,Topeka,KS,10:30 PM
+Marinette High School,High,2010-11-29,Marinette,WI,7:30 PM
+Aurora Central High School,High,2010-12-06,Aurora,CO,2:30 PM
+Crown Point School bus,K-12,2011-01-04,Crown Point,IN,6:00 AM
+Millard South High School,High,2011-01-05,Omaha,NE,12:45 PM
+Gardena High School,High,2011-01-18,Los Angeles,CA,10:40 AM
+Louisiana Schnell Elementary School,Elementary,2011-02-02,Placerville,CA,10:37 AM
+Martinsville West Middle School,Middle,2011-03-25,Martinsville,IN,7:00 AM
+Worthing High School,High,2011-03-30,Houston,TX,6:45 PM
+Sheeler Charter High School,High,2011-04-13,Apopka,FL,12:00 PM
+Betsy Ross Elementary School,Elementary,2011-04-19,Houston,TX,11:00 AM
+Horizon Elementary School,Elementary,2011-05-17,Everett,WA,6:30 PM
+Highlands Intermediate School,Middle,2011-05-23,Pearl City,HI,6:30 AM
+Issaquah High School,High,2011-09-23,Seattle,WA,7:00 PM
+Garinger High School,High,2011-09-30,Charlotte,NC,10:00 PM
+Wilson High School,High,2011-09-30,Portland,OR,9:00 PM
+Cape Fear High School,High,2011-10-24,Fayetteville,NC,1:00 PM
+Harwell Middle School,Middle,2011-12-12,Edinburg,TX,4:45 PM
+Northern High School,High,2011-12-28,Flint,MI,
+Cummings Middle School,Middle,2012-01-04,Brownsville,TX,8:00 AM
+North Forest High School,High,2012-01-10,Houston,TX,12:30 PM
+Walpole Elementary School,Elementary,2012-02-10,Walpole,NH,11:00 AM
+Armin Jahr Elementary School,Elementary,2012-02-22,Bremerton,WA,13:30:00
+Chardon High School,High,2012-02-27,Chardon,OH,7:30 AM
+Episcopal School of Jacksonville,Unknown,2012-03-06,Jacksonville,FL,1:15 PM
+LeFlore High School,High,2012-03-15,Mobile,AL,10:50 AM
+Kirksey Middle School,Middle,2012-04-01,Rogers,AR,9:58 PM
+Mary Scroggs Elementary School,Elementary,2012-05-25,Chapel Hill,NC,2:04 PM
+West View High School,High,2012-05-25,Avondale,AZ,1:55 PM
+Nathaniel Greene Elementary School,Elementary,2012-07-06,Pawtucket,RI,3:00 AM
+Hamilton High School,High,2012-08-16,Memphis,TN,5:00 PM
+Banks County High School,High,2012-08-24,Homer,GA,8:00 AM
+Perry Hall High School,High,2012-08-27,Perry Hall,MD,10:45 AM
+Normal Community High School,High,2012-09-07,Normal,IL,8:00 AM
+Stillwater Junior High School,Junior High,2012-09-26,Stillwater,OK,7:50 AM
+Fairmount Public School,High,2012-10-12,Fairmont,ND,
+Banner Academy South,Other,2012-10-19,Chicago,IL,
+Spring Woods High School,High,2012-12-10,Houston,TX,11:00 AM
+Sandy Hook Elementary School,Elementary,2012-12-14,Newtown,CT,9:35 AM
+Apostolic Revival Center Christian School,K-8,2013-01-07,Fort Myers,FL,11:00 AM
+Taft Union High School,High,2013-01-10,Taft,CA,9:00 AM
+Osborn High School,High,2013-01-11,Detroit,MI,
+Dale County School Bus,Elementary,2013-01-29,Midland City,AL,15:30:00
+Price Middle School,Middle,2013-01-31,Atlanta,GA,1:50 PM
+Martin Luther King High School,High,2013-02-01,Detroit,MI,7:30 PM
+Hillside Elementary School,Elementary,2013-02-13,San Leandro,CA,8:45 PM
+Grady High School,High,2013-02-27,Atlanta,GA,9:30 AM
+Davidson Middle School,Middle,2013-03-21,Southgate,MI,8:00 AM
+Temple High School,High,2013-04-16,Temple,TX,
+La Salle High School,High,2013-04-29,Cincinnati,OH,8:00 AM
+Tularosa Elementary School,Elementary,2013-04-30,Tularosa,NM,
+Ossie Ware Mitchell Middle School,Middle,2013-05-13,Birmingham,AL,
+Redland Middle School,Middle,2013-05-23,Homestead,FL,2:40 PM
+Hidden Valley Elementary School,Elementary,2013-06-18,Charlotte,NC,2:00 PM
+Alexander W. Dreyfoos School of the Arts,High,2013-06-19,West Palm Beach,FL,6:30 AM
+Northwest High School,Middle,2013-08-15,Clarksville,TN,2:00 AM
+Ronald E. McNair Discovery Learning Academy,Elementary,2013-08-20,Decatur,GA,12:51 PM
+Westside Elementary School,Elementary,2013-08-22,Memphis,TN,8:00 AM
+North Panola High School,High,2013-08-23,Sardis,MS,10:30 PM
+Carver High School,High,2013-08-30,Winston-Salem,NC,2:25 PM
+Roosevelt High School,High,2013-09-27,Chicago,IL,2:25 PM
+New Gloucester High School,High,2013-09-28,Gray,ME,12:50 PM
+Winnisquam Regional School District,,2013-10-02,Sanbornton,NH,
+Agape Christian Academy,K-12,2013-10-04,Pine Hills,FL,2:00 PM
+Lanier High School,High,2013-10-15,Austin,TX,12:04 PM
+Sparks Middle School,Middle,2013-10-21,Sparks,NV,7:15 AM
+Newman Elementary School,Elementary,2013-10-23,Chino,CA,11:14 AM
+Algona High School,High,2013-11-01,Algona,IA,1:20 AM
+Stephenson High School,High,2013-11-03,Lithonia,GA,
+Brashear High School,High,2013-11-13,Pittsburgh,PA,3:00 PM
+West Orange High School,High,2013-12-04,Winter Garden,FL,1:15 PM
+Arapahoe High School,High,2013-12-13,Centennial,CO,00:00:00
+Edison High School,High,2013-12-19,Fresno,CA,7:00 PM
+Liberty Technology Magnet High School,High,2014-01-09,Jackson,TN,2:21 PM
+Hillhouse High School,High,2014-01-13,New Haven,CT,7:50 PM
+Berrendo Middle School,Middle,2014-01-14,Roswell,NM,07:30:00
+King Elementary School,Elementary,2014-01-14,Lancaster,PA,2:48 PM
+St. James High School,High,2014-01-14,Baton Rouge,LA,
+Delaware Valley Charter School,High,2014-01-17,Philadelphia,PA,3:30 PM
+Rebound High School,High,2014-01-27,Carbondale,IL,12:00 PM
+President Theodore Roosevelt High,High,2014-01-28,Honolulu,HI,8:30 AM
+Cesar Chavez High School,High,2014-01-31,Phoenix,AZ,
+North High School,High,2014-01-31,Des Moines,IA,
+Bend High School,High,2014-02-07,Bend,OR,12:00 PM
+Salisbury High School,High,2014-02-10,Salisbury,NC,12:00 AM
+Charles F. Brush High School,High,2014-02-11,Lyndhurt,OH,8:30 PM
+Raytown Success Academy,High,2014-02-20,Raytown,MI,10:30 AM
+Madison Parish High School,High,2014-03-07,Tallulah,LA,
+Academy of Knowledge Preschool,Other,2014-03-12,Miami,FL,12:00 AM
+Benjamin Banneker High School,High,2014-03-25,College Park,GA,1:00 PM
+Unknown School (bus),,2014-04-03,Newark,NJ,1:15 PM
+D H Conley High School,High,2014-04-09,Greenville,NC,1:30 PM
+Liberty Elementary School,Elementary,2014-04-10,Columbus,OH,3:30 PM
+East English Village Preparatory Academy,Unknown,2014-04-11,Detroit,MI,9:30 PM
+Provo High School,High,2014-04-21,Provo,UT,2:30 PM
+St. Mary Catholic School,High,2014-04-21,Griffith,IN,4:30 PM
+Horizon Elementary School,Elementary,2014-05-03,Everett,WA,6:30 PM
+John F. Kennedy High School,High,2014-05-14,Richmond,CA,9:00 AM
+Clarke Street Elementary School,Elementary,2014-05-21,Milwaukee,WI,7:00 PM
+Reynolds High School,High,2014-06-10,Troutdale,OR,8:07 AM
+Kelly High School,High,2014-06-23,Benton,MO,8:15 PM
+Heather Ridge High School,High,2014-08-13,Fredrick,MD,6:45 PM
+Saunders Elementary School,Elementary,2014-08-14,Newport News,VA,1:30 AM
+Stellar Leadership Academy,High,2014-09-09,Miami,FL,
+Greenwood Lakes Middle School,Middle,2014-09-10,Lake Mary,FL,5:00 PM
+Westbrook Elementary School,Elementary,2014-09-11,Taylorsville,UT,9:00 AM
+North High School,High,2014-09-19,Des Moines,IA,10:00 PM
+West High School,High,2014-09-25,Manchester,NH,7:45 AM
+Albemarle High School,High,2014-09-30,Albemarle,NC,7:40 AM
+Fern Creek Traditional High School,High,2014-09-30,Louisville,KY,1:00 PM
+Langston Hughes High School,High,2014-10-03,Fairburn,GA,10:00 PM
+A Maceo Walker Middle School,Middle,2014-10-21,Memphis,TN,7:45 AM
+Lakewood Stadium (Mays High School Game),High,2014-10-24,Atlanta,GA,11:00 PM
+Marysville Pilchuck High School,High,2014-10-24,Marysville,WA,10:39 AM
+Miami Carol City High School,High,2014-11-20,Miami,FL,3:30 PM
+Rosemary Anderson High School,High,2014-12-12,Portland,OR,
+Sunnyside Elementary School,Elementary,2014-12-16,Pittsburgh,PA,11:00 PM
+Benton Elementary School,Elementary,2014-12-17,Waterville,ME,2:30 PM
+Godfrey Lee High School,High,2014-12-17,Wyoming,MI,8:00 PM
+Wisconsin Lutheran High School,High,2015-01-15,Milwaukee,WI,
+Vanguard High School,High,2015-01-16,Ocala,FL,
+Williamson High School,High,2015-01-20,Mobile,AL,
+Royal Live Oaks Academy,K-12,2015-01-22,Hardeeville,SC,5:00 PM
+Hand in Hand Montessori,Other,2015-01-26,Roseville,MN,3:07 PM
+Frederick High School,High,2015-02-04,Frederick,MD,8:00 PM
+Lawson Elementary School,Elementary,2015-02-15,Little Rock,AR,2:00 AM
+Tenaya Middle School,Middle,2015-02-15,Merced,CA,7:55 PM
+Pershing Elementary School,Elementary,2015-03-30,University City,MO,5:30 PM
+Seguin High School,High,2015-04-17,Seguin,TX,9:30 AM
+Ruth Deskin Elementary School,Elementary,2015-04-22,Las Vegas,NV,3:20 PM
+North Thurston High School,High,2015-04-27,Lacey,WA,7:24 AM
+Dr. Gustavus Brown Elementary School,Elementary,2015-04-28,Waldorf,MD,6:23 PM
+Willow Elementary School,Elementary,2015-05-04,Cleveland,OH,11:00 PM
+Conyers Middle School,Middle,2015-05-05,Conyers,GA,1:00 PM
+Corona del Sol High School,High,2015-05-12,Tempe,AZ,9:00 AM
+Unknown School (bus),,2015-05-12,Jacksonville,FL,4:30 PM
+Robinson High School,High,2015-05-20,Robinson,TX,9:30 AM
+Duval County School Bus,High,2015-05-21,Jacksonville,FL,
+Southwestern Classical Academy,Elementary,2015-05-24,Flint,MI,2:00 AM
+Everglades City School,K-12,2015-05-27,Everglades City,FL,8:15 PM
+South Macon Elementary School,Elementary,2015-06-04,Franklin,NC,5:27 AM
+Fort Calhoun Elementary School,Elementary,2015-06-23,Fort Calhoun,NE,7:30 PM
+Sarah J. Rawson Elementary School,Elementary,2015-06-27,Hartford,CT,6:30 PM
+John Jay High School,High,2015-06-29,San Antonio,TX,1:30 PM
+Coppell Middle School East,High,2015-07-05,Dallas,TX,6:00 PM
+Elolf Elementary School,Elementary,2015-07-24,Converse,TX,1:00 PM
+Paradise High School,High,2015-08-08,Paradise,TX,7:15 AM
+William Velasquez Elementary School,Elementary,2015-08-23,Richmond,TX,8:00 AM
+W S Hornsby Elementary School,Elementary,2015-08-25,Augusta,GA,10:45 AM
+Newberg High School,High,2015-09-03,Newberg,OR,8:30 PM
+Northside High School,High,2015-09-11,Lafayette,LA,9:55 PM
+Central Elementary School,Elementary,2015-09-22,Stateville,NC,3:00 PM
+Harrisburg High School,High,2015-09-30,Harrisburg,SD,10:00:00
+Karen Wagner High School,High,2015-10-15,San Antonio,TX,9:00 AM
+Ed White Middle School,Middle,2015-10-24,San Antonio,TX,3:00 AM
+Vereen School,Other,2015-11-05,Moultrie,GA,
+Sulphur Rock Magnet School,Unknown,2015-11-11,Sulphur Rock,AR,3:30 PM
+Nathaniel “Traz” Powell Stadium (high school game),High,2015-11-20,Miami,FL,9:15 PM
+West High School,High,2015-12-04,Wichita,KS,6:30 PM
+Central Middle School,Middle,2016-01-12,Dover,DE,12:15 PM
+Harmony Grove High School,High,2016-01-13,Benton,AR,3:00 PM
+Northwestern Community High School,High,2016-01-20,Indianapolis,IN,
+Lawrence Central High School,High,2016-01-22,Indianapolis,IN,9:30 PM
+Benjamin Franklin High School,High,2016-01-29,Philadelphia,PA,12:00 PM
+Muskegon Heights High School,High,2016-02-09,Muskegon Heights,MI,
+Independence High School,High,2016-02-12,Glendale,AZ,7:53 AM
+Chester High School (bus),High,2016-02-17,Chester,PA,11:00 AM
+Rock Crusher Elementary School,Elementary,2016-02-17,Homosassa,FL,8:00 AM
+Palestine High School,High,2016-02-26,Palestine,TX,5:56 PM
+Madison High School,High,2016-02-29,Middletown,OH,11:15 AM
+Huffman High School,High,2016-03-15,Birmingham,AL,2:30 PM
+Antigo High School,High,2016-04-23,Antigo,WI,
+Kimball High School,High,2016-05-02,Dallas,TX,8:00 AM
+East High School,High,2016-05-04,Pueblo,CO,3:00 PM
+High Point High School,High,2016-05-05,Beltsville,MD,4:40 PM
+Oscar Patterson Elementary School,Elementary,2016-05-06,Panama City,FL,
+Robert Stuart Middle School,Middle,2016-05-06,Twin Falls,ID,12:45 PM
+Southside High School,High,2016-05-13,Greenville,SC,8:30 AM
+Augusta High School,High,2016-05-15,Augusta,KS,1:55 PM
+Jeremiah Burke High School,High,2016-06-08,Dorchester,MA,1:00 PM
+Mcnair Elementary School,Elementary,2016-06-16,Chicago,IL,12:30 PM
+Woodrow Wilson Junior High School,Junior High,2016-06-30,Hanford,CA,7:35 PM
+Ava High School,High,2016-07-25,Ava,MO,1:45 AM
+Wedgewood Middle School,Middle,2016-08-17,Columbus,OH,8:10 PM
+Southridge High School,High,2016-08-19,Miami,FL,9:40 PM
+McClain High School,High,2016-09-02,Tulsa,OK,9:15 PM
+Detroit Collegiate Preparatory High School,High,2016-09-07,Detroit,MI,7:00 AM
+Alpine High School,High,2016-09-08,Alpine,TX,9:00 AM
+Cedar Rapids Jefferson High School,High,2016-09-09,Cedar Rapids,IA,7:55 AM
+Small Athletic Field (William Penn Senior High School game),High,2016-09-09,York,PA,9:30 PM
+T A Wilson Academy (bus),High,2016-09-26,Jackson,MS,2:30 PM
+Elder High School,High,2016-09-27,Cincinnati,OH,9:30 PM
+Sycamore Middle School,Middle,2016-09-28,Pleasant View,TN,10:00:00
+Townville Elementary School,Elementary,2016-09-28,Townville,SC,1:45 PM
+Christ of King Jesuit College Prep (bus),High,2016-09-30,Chicago,IL,5:30 PM
+Dunbar HIgh School,High,2016-10-06,Fort Worth,TX,7:30 PM
+Vigor High School,High,2016-10-11,Mobile,AL,3:45 PM
+Linden McKinley STEM Academy,High,2016-10-13,Columbus,OH,2:40 PM
+Benjamin E. Mays High School,High,2016-10-15,Atlanta,GA,
+June Jordan High School for Equity,High,2016-10-18,San Francisco,CA,3:20 PM
+Union Middle School,Middle,2016-10-25,Sandy,UT,3:00 PM
+Grand Junction High School,High,2016-11-02,Grand Junction,CO,3:00 PM
+Berthoud High School,High,2016-11-03,Berthoud,CO,
+Bay City Western High School,High,2016-11-11,Auburn,MI,12:30 PM
+Crossroads Elementary School,Elementary,2016-11-17,St. Paul,MN,8:40 AM
+Mueller Park Junior High School,Junior High,2016-12-01,Bountiful,UT,8:13 AM
+Bayless High School,High,2016-12-09,St. Louis,MO,7:15 PM
+Hug High School,High,2016-12-09,Reno,NV,11:25 AM
+Samuel W. Wolfson High School,High,2016-12-16,Jacksonville,FL,14:50:00
+Lake Forest South Elementary School,Elementary,2017-01-01,Harrington,DE,4:00 PM
+Alexander City Middle School,Middle,2017-01-10,Alexander City,AL,1:00 PM
+Franklin County Elementary School,Elementary,2017-01-17,Eastpoint,FL,
+West Liberty-Salem High School,High,2017-01-20,West Liberty,OH,07:36:00
+South Aiken High School,High,2017-01-27,Aiken,SC,21:00:00
+Thomas G Scullen Middle School,Middle,2017-01-27,Naperville,IL,20:00:00
+Scotlandville Magnet High School,High,2017-02-06,Baton Rouge,LA,12:00 PM
+Maplewood Middle School,Middle,2017-02-18,Maplewood,MN,6:00 AM
+Robert E. Lee High School,High,2017-03-16,Montgomery,AL,15:00:00
+King City High School,High,2017-03-21,King City,CA,11:00 AM
+Linton Middle School,Middle,2017-03-28,Penn Hills,PA,4:30 PM
+North Park Elementary School,Elementary,2017-04-10,San Bernardino,CA,10:30 AM
+Booker T. Washington High School,High,2017-04-15,Tulsa,OK,9:05 PM
+Menlo Park Elementary School,Elementary,2017-04-15,Portland,OR,12:42:00
+Moss Bluff Elementary School,Elementary,2017-05-15,Lake Charles,LA,7:50 AM
+Kerbyville High School,High,2017-05-23,Kirbyville,TX,4:00 PM
+Greensboro High School,High,2017-05-24,Greensboro,AL,11:30 AM
+McMillan Middle School,Middle,2017-05-24,Omaha,NE,8:00 PM
+McLain High School,High,2017-05-26,Tulsa,OK,
+Warren Elementary School,Elementary,2017-06-16,Chicago,IL,1:51 PM
+Wilson High School,High,2017-06-22,Florence,SC,8:00 AM
+Hickman Academy Preparatory School,High,2017-07-19,Milwaukee,WI,9:00 PM
+Spanish Fork High School,High,2017-07-21,Spanish Fork,UT,2:30 AM
+Bazemore-Hyder Stadium (Valdosta High School),High,2017-08-01,Valdosta,GA,12:45 AM
+Hudson County School Bus,,2017-08-13,Hudson,NY,
+Lithia Spring High,High,2017-08-17,Lithia Springs,GA,7:15 AM
+Arroyo Valley High School,High,2017-08-31,San Bernardino,CA,9:00 PM
+Columbus Scioto 6-12,6-12,2017-09-08,Columbus,OH,8:33 AM
+North Little Rock High School,High,2017-09-08,North Little Rock,AR,
+Freeman High School,High,2017-09-13,Rockford,WA,10:00:00
+Mattoon High School,High,2017-09-20,Mattoon,IL,11:30:00
+Southern Middle School,Middle,2017-09-28,Lexington,KY,19:30:00
+Lees Summit North High School,High,2017-09-29,Lees Summit,MO,8:45 AM
+Sun Valley High School,High,2017-09-29,Los Angeles,CA,3:29 PM
+Purchase Line Elementary School,Elementary,2017-09-30,Commodore,PA,11:00 PM
+Charlotte School Bus,,2017-10-12,Charlotte,NC,7:30 AM
+Kernersville Elementary School,Elementary,2017-10-14,Kernersville,NC,11:00 AM
+Start High School,High,2017-10-20,Toledo,OH,9:30 PM
+Proctor High School,High,2017-10-27,Utica,NY,2:30 PM
+Pattengill Academy,Middle,2017-11-03,Lansing,MI,4:30 PM
+Benjamin Banneker High School,High,2017-11-09,College Park,GA,3:25 PM
+Lakeview Academy,Elementary,2017-11-10,Milledgeville,GA,8:30 AM
+Lake Minneola High School,High,2017-11-14,Minneola,FL,
+Rancho Tehama Elementary School,Elementary,2017-11-14,Rancho Tehama Reserve,CA,7:50 AM
+North Side High School,High,2017-11-17,Jackson,TN,9:30 PM
+Manual High School,High,2017-11-23,Denver,CO,12:06 PM
+Booksin Elementary School,Elementary,2017-11-28,San Jose,CA,4:00 AM
+Bath High School,High,2017-11-29,Lima,OH,7:00 PM
+Salem High School,High,2017-11-30,Virginia Beach,VA,8:10 AM
+Aztec High School,High,2017-12-07,Aztec,NM,08:04:00
+Champaign Central High School,High,2017-12-09,Champaign,IL,9:20 PM
+High Point Central High School,High,2017-12-11,High Point,NC,2:08 PM
+Sam Rayburn High School,High,2017-12-12,Pasadena,TX,6:00 PM
+Elisha M. Pease Elementary School,Elementary,2017-12-14,Dallas,TX,
+Beecher High School,High,2017-12-19,Beecher,MI,
+Lincoln Elementary School,Elementary,2017-12-27,Lancaster,CA,10:40 PM
+Edna Karr High School,High,2017-12-31,Algiers,LA,8:00 PM
+Pinewood Elementary School,Elementary,2017-12-31,Marysville,WA,11:55 PM
+New Start High School,High,2018-01-04,Seattle,WA,1:30 PM
+Forest City School Bus,,2018-01-05,Forest City,IA,
+Coronado Elementary School,Elementary,2018-01-09,Sierra Vista,AZ,9:20 AM
+Montpelier High School,High,2018-01-16,Montpelier,VT,9:30 AM
+Italy High School,High,2018-01-22,Italy,TX,7:53 AM
+NET Charter High School,High,2018-01-22,New Orleans,LA,1:30 PM
+Marshall County High School,High,2018-01-23,Benton,KY,7:57 AM
+Murphy High School,High,2018-01-25,Mobile,AL,11:20 AM
+Dearborn High School,High,2018-01-26,Dearborn,MI,8:00 PM
+Lincoln High School,High,2018-01-31,Philadelphia,PA,3:51 PM
+Salvador B. Castro Middle School,Middle,2018-02-01,Los Angeles,CA,8:55 AM
+Harmony Learning Center,Elementary,2018-02-05,Maplewood,MN,1:45 PM
+Oxon Hill High School,High,2018-02-05,Oxon Hill,MD,
+The Metropolitan High School,High,2018-02-08,New York,NY,3:20 PM
+Peal-Cohn High School,High,2018-02-09,Nashville,TN,
+Marjory Stoneman Douglas High School,High,2018-02-14,Parkland,FL,2:21 PM
+North Broward Preparatory School,K-12,2018-02-15,Coconut Creek,FL,9:30 AM
+Jackson Memorial Middle School,Middle,2018-02-20,Massillon,OH,
+Oakland High School,High,2018-02-26,Tacoma,WA,
+Dalton High School,High,2018-02-28,Dalton,GA,11:30 AM
+Kingston High School,K-12,2018-03-05,Cadet,MO,7:40 AM
+Huffman High School,High,2018-03-07,Birmingham,AL,3:45 PM
+Frederick Douglass High School,High,2018-03-09,Lexington,KY,
+George Washington Middle School,Middle,2018-03-13,Alexandria,VA,9:10 AM
+Seaside High School,High,2018-03-13,Seaside,CA,1:20 PM
+Big Sky High School,High,2018-03-16,Missoula,MT,12:45 PM
+Douglass Park Elementary School,Elementary,2018-03-19,Portsmouth,VA,4:23 PM
+Great Mills High School,High,2018-03-20,Great Mills,MD,7:55 AM
+Eupora High School,High,2018-03-28,Eupora,MS,2:30 PM
+John Hardin High School,High,2018-03-29,Elizabethtown,KY,1:00 PM
+Gloversville Middle School,Middle,2018-04-09,Gloversville,NY,11:00 AM
+Rayton South Middle School,Middle,2018-04-12,Rayton,MO,5:30 PM
+Jackson High School,High,2018-04-19,Jackson,MI,1:44 PM
+Forest High School,High,2018-04-20,Ocala,FL,08:39:00
+Benjamin E. Mays High School,High,2018-04-23,Atlanta,GA,1:00 PM
+Highland High School,High,2018-04-25,Albuquerque,NM,14:30:00
+Enemy Swim Day School,K-8,2018-05-03,Waubay,SD,9:55 PM
+Waynesboro Elementary School,High,2018-05-03,Waynesboro,TN,
+Fowlerville High School,High,2018-05-05,Fowlerville,MI,3:00 PM
+Highland High School,High,2018-05-11,Palmdale,CA,7:05 AM
+Dixon High School,High,2018-05-16,Dixon,IL,8:00 AM
+Central High School,High,2018-05-17,Kansas City,MO,8:30 PM
+Mount Zion High School,High,2018-05-18,Atlanta,GA,
+Santa Fe High School,High,2018-05-18,Santa Fe,TX,7:45 AM
+Beaverbrook Elementary School,High,2018-05-21,Griffin,GA,
+Noblesville West Middle School,Middle,2018-05-25,Noblesville,IN,9:00 AM
+McKinney North High School,High,2018-06-01,McKinney,TX,
+Valley Elementary School,Elementary,2018-06-15,Beaver Creek,OH,4:00 AM
+Grant High School,High,2018-06-17,Portland,OR,4:45 AM
+Skyline High School,High,2018-06-21,Dallas,TX,5:00 AM
+Sentinel High School,High,2018-06-24,Missoula,MT,6:30 PM
+Fulton Elementary School,Elementary,2018-06-25,Springfield,OH,3:00 PM
+Raineshaven Elementary School,Elementary,2018-07-01,Memphis,TN,9:00 PM
+Sunrise Point Elementary School,Elementary,2018-07-03,Overland,KS,9:00 AM
+Milkovich Middle School,Middle,2018-07-11,Maple Heights,OH,8:30 PM
+Hurricane High School,High,2018-07-17,Hurricane,WV,6:00 PM
+West Valley Middle School,Middle,2018-07-19,Yakima,WA,5:15 PM
+Liberty Elementary School,Elementary,2018-08-03,Ottumwa,IA,14:00:00
+Edgewood High School,High,2018-08-04,Edgewood,MD,9:19 PM
+Lakeside Middle School,Middle,2018-08-09,Millville,NJ,8:15 PM
+Antioch High School,High,2018-08-11,Nashville,TN,6:00 PM
+Palm Beach Central High School,High,2018-08-17,Wellington,FL,9:45 PM
+Alabama State University Stadium (high school game),High,2018-08-23,Montgomery,AL,9:30 PM
+Metro East Lutheran High School,High,2018-08-24,Chicago,IL,
+Raines High School,High,2018-08-24,Jacksonville,FL,10:00 PM
+Cole Middle School,Middle,2018-08-28,Denver,CO,2:00 PM
+Towne Point Elementary School,Elementary,2018-08-29,Dover,DE,10:00 PM
+Ottawa Hills High School,High,2018-08-30,Grand Rapids,MI,10:30:00
+Villa Heights Elementary School,Elementary,2018-08-30,Charlotte,NC,8:30 AM
+Balboa High School,High,2018-08-31,San Francisco,CA,3:11 PM
+North Scott Junior High School,Junior High,2018-08-31,Eldridge,IA,8:30 AM
+Luisa Pineiro Fuentes School of Science and Discovery,Elementary,2018-09-03,New York,NY,9:20 PM
+Providence Career and Technical Academy,High,2018-09-05,Providence,RI,2:00 PM
+Herbert Hoover High School,High,2018-09-07,Des Moines,IA,9:00 PM
+Gilroy High School,High,2018-09-09,Gilroy,CA,1:00 PM
+Chatham Academy High School,High,2018-09-10,Chicago,IL,4:00 PM
+Fairley High School,High,2018-09-10,Memphis,TN,4:00 PM
+Canyon Springs High School,High,2018-09-11,Las Vegas,NV,2:40 PM
+Boynton Beach High School,High,2018-09-14,Boynton Beach,FL,
+Mariner High School,High,2018-09-14,Everett,WA,9:00 PM
+Blossomwood Elementary School,Elementary,2018-09-17,Huntsville,AL,10:30 AM
+CHAMPS Charter High School,High,2018-09-20,Los Angeles,CA,12:10 PM
+Pomona High School,High,2018-09-20,Pomona,CA,
+Appling County High School,High,2018-09-24,Baxley,GA,
+Central High School,High,2018-09-24,Philadelphia,PA,8:15 AM
+Lawrence Orr Elementary School,Elementary,2018-09-24,Charlotte,NC,9:00 AM
+Maree Garnett Farring Elementary,Elementary,2018-09-26,Baltimore,MD,
+Hebron High School,High,2018-09-27,Carrollton,TX,8:35 PM
+Chamberlain High School,High,2018-09-28,Chamberlain,SD,3:30 PM
+Chicot Elementary School,Elementary,2018-10-02,Little Rock,AR,10:00 AM
+Denali Montessori Elementary School,Elementary,2018-10-03,Anchorage,AK,10:00:00
+Jason Lee Elementary School,Elementary,2018-10-04,Portland,OR,4:35 PM
+Haywood High School,High,2018-10-05,Brownsville,TN,9:30 PM
+Lake Taylor High School,High,2018-10-05,Norfolk,VA,9:30 PM
+Varina High School,High,2018-10-07,Henrico,VA,9:30 PM
+Battle Creek Academy,Elementary,2018-10-12,Battle Creek,MI,1:00 PM
+McGavock High School,High,2018-10-13,Nashville,TN,9:04 PM
+Shiloh Middle School,Middle,2018-10-20,Snellville,GA,3:00 PM
+Dunbar Elementary School,Elementary,2018-10-22,Bridgeport,CT,8:00 AM
+Gossler Park Elementary School,Elementary,2018-10-23,Manchester,NH,
+Cody High School,High,2018-10-25,Detroit,MI,
+Butler High School,High,2018-10-29,Matthews,NC,07:15:00
+Crums Lane Elementary School,Elementary,2018-11-04,Louisville,KY,5:57 PM
+Academy of Hope,K-8,2018-11-05,Conway,SC,11:00 AM
+Cleveland Elementary School,Elementary,2018-11-08,Santa Barbara,CA,2:00 AM
+Garrett Middle School,Middle,2018-11-09,Marietta,GA,
+Eastern Tech High School,High,2018-11-12,Essex,MD,12:23 PM
+Simonsdale Elementary School,Elementary,2018-11-20,Portsmouth,VA,4:00 PM
+Pentwater Public School,K-8,2018-11-21,Pentwater,MI,8:45 AM
+Mount Rainier High School,High,2018-11-22,Des Moines,WA,12:00 PM
+Skyline High School,High,2018-11-22,Dallas,TX,9:30 AM
+Africentric Early College High School,K-12,2018-11-24,Columbus,OH,6:00 PM
+Strawberry Mansion High School,High,2018-11-28,Philadelphia,PA,3:30 PM
+Jefferson High School,High,2018-12-10,Jefferson,NY,9:49 AM
+Cawood Elementary School,Elementary,2018-12-11,Cawood,KY,8:41 PM
+Dennis Intermediate School,Middle,2018-12-13,Richmond,IN,8:00 AM
+Winnetonka High School,High,2018-12-14,Kansas City,MO,3:00 PM
+A I du Pont High School,High,2018-12-18,Greenville,DE,7:45 PM
+Central Elementary School,Elementary,2019-01-07,Belmont,CA,11:00 PM
+Cascade Middle School,Middle,2019-01-11,Eugene,OR,10:27 AM
+Central High School,High,2019-01-18,Tuscaloosa,AL,2:30 PM
+Hazelwood East High School,High,2019-01-18,St. Louis,MO,2:30 PM
+Sheppard Middle School,Middle,2019-01-18,Durham,NC,3:30 PM
+Lakewood Middle School,Middle,2019-01-19,Overland Park,KS,9:00 PM
+Southern Hills Elementary School,Elementary,2019-01-23,Shreveport,LA,3:00 PM
+Davidson High School,High,2019-01-25,Mobile,AL,9:00 PM
+Manassas High School,High,2019-01-25,Memphis,TN,8:25 AM
+Reno High School,High,2019-01-27,Reno,NV,22:40:00
+Miller Grove High School,High,2019-01-30,Lithonia,GA,7:30 PM
+Atascocita High School,High,2019-01-31,Atascocita,TX,6:20 PM
+Manassas High School,High,2019-01-31,Memphis,TN,4:00 PM
+Minneapolis School District Bus,,2019-02-05,Minneapolis,MN,2:20 PM
+Frederick Douglass High School,High,2019-02-08,Baltimore,MD,1:15 PM
+Central Academy of Excellence,High,2019-02-12,Kansas City,MO,20:15:00
+V. Sue Cleveland High School,High,2019-02-14,Rio Rancho,NM,7:00 AM
+Eaglecrest High School,High,2019-02-17,Aurora,CO,11:00 AM
+Robert E. Lee High School,High,2019-02-26,Montgomery,AL,11:00:00
+Highlands Elementary School,Elementary,2019-03-01,Mission,KS,13:30:00
+Lake Mary High School,High,2019-03-13,Orlando,FL,8:00 AM
+Blountsville Elementary School,Elementary,2019-03-22,Blountsville,AL,11:30 AM
+Mayport Coastal Sciences Middle School,Middle,2019-03-27,Jacksonville,FL,17:00:00
+S V Marshall Elementary,Elementary,2019-03-27,Holmes County,MS,3:00 PM
+"Prescott 
+High School",High,2019-04-01,Prescott,AR,9:14 AM
+Aurora West College Preparatory Academy,Unknown,2019-04-03,Aurora,CO,
+Saint Clair Evans Academy,Elementary,2019-04-03,Jacksonville,FL,11:00 AM
+St. Josaphat Parish School,Other,2019-04-05,Milwaukee,WI,
+Hood Elementary School,Elementary,2019-04-07,Lynn,MA,
+Ross Shaw Sterling Aviation High School,High,2019-04-10,Houston,TX,4:00 PM
+Washington Middle School,Middle,2019-04-17,Lyons,IL,1:30 PM
+Concord High School,High,2019-04-24,Concord,AR,12:40 PM
+Wynbrooke Elementary Theme School,Elementary,2019-04-25,Stone Mountain,GA,1:00 PM
+Creekside High School,High,2019-04-26,Fairburn,GA,4:30 PM
+C D Hylton High School,High,2019-04-30,Woodbridge,VA,12:00 PM
+Weightman Middle School,Middle,2019-04-30,Wesley Chapel,FL,12:00 PM
+STEM School Highlands Ranch,K-12,2019-05-07,Highlands Ranch,CO,2:00 PM
+Second Change High School,High,2019-05-08,Chicago,IL,4:00 PM
+Parkrose High School,High,2019-05-17,Portland,OR,11:48 AM
+Terry Parker High School,High,2019-05-17,Jacksonville,FL,8:37 PM
+Shady Lane Elementary School,Elementary,2019-05-22,Columbus,OH,18:50:00
+Hendley Elementary School,Elementary,2019-05-30,Washington,DC,10:40 PM
+Genevieve Melody STEM Elementary School,Elementary,2019-06-06,Chicago,IL,7:45 PM
+Menta Academy North,Other,2019-06-10,Waukegan,IL,1:45 PM
+Hendley Elementary School,Elementary,2019-06-12,Washington,DC,4:20 PM
+Jefferson Elementary School,Elementary,2019-06-12,Emmaus,PA,10:48 PM
+Tamaques Elementary School,Elementary,2019-06-13,Westfield,NJ,3:55 PM
+Carman-Ainsworth High School,High,2019-06-21,Flint Township,MI,7:33 PM
+Jack Swigert Aerospace Academy ,Elementary,2019-06-29,Colorado Springs,CO,4:00 AM
+School of Science and Applied Learning,Elementary,2019-07-01,New York,NY,10:20 PM
+Williwaw Elementary School,Elementary,2019-07-02,Anchorage,AK,6:47 PM
+Bulkeley High School,High,2019-07-11,Hartford,CT,12:00 PM
+Monroe Clark Middle School,Middle,2019-07-19,San Diego,CA,11:55 AM
+Blount Elementary School,Elementary,2019-08-08,Montgomery,AL,7:30 AM
+West Side High School,High,2019-08-09,Newark,NJ,21:22:00
+East Magnet High School,High,2019-08-15,Nashville,TN,
+Lakewood Stadium,High,2019-08-17,Atlanta,GA,9:00 PM
+Saint Patrick School,High,2019-08-20,Carlisle,PA,6:00 PM
+Parkway North High School,High,2019-08-23,St. Louis,MO,8:15 PM
+Peek's Chapel Elementary School,Elementary,2019-08-23,Conyers,GA,6:35 PM
+Roosevelt High School,High,2019-08-23,St. Louis,MO,5:00 AM
+William C. Longstreth Elementary School,Elementary,2019-08-24,Philadelphia,PA,7:00 PM
+Hollenbeck Middle School,High,2019-08-27,Los Angeles,CA,11:00 AM
+Roosevelt High School,High,2019-08-27,Roosevelt,NY,9:00 AM
+Central Catholic High School,High,2019-08-30,Toledo,OH,9:30 PM
+Kinston High School,High,2019-08-30,Kingston,NC,10:00 PM
+Ladd-Peebles Stadium,High,2019-08-30,Mobile,AL,22:00:00
+Northwood Elementary School,Elementary,2019-09-02,Baltimore,MD,8:00 PM
+Center Point High School,High,2019-09-06,Center Point,AL,9:00 PM
+McKee Middle School,Middle,2019-09-06,Jeannette,PA,21:20:00
+West Palmer High School,High,2019-09-06,Morrisville,PA,10:00 PM
+South Aiken High School,High,2019-09-10,Aiken,SC,3:30 PM
+Manhattan High School,High,2019-09-12,Manhattan,KS,6:45 PM
+Ethel M. Gildersleeve Middle School,Middle,2019-09-13,Newport News,VA,9:34 PM
+Granger High School,High,2019-09-13,West Valley City,UT,8:30 PM
+Eastern Hills High School,High,2019-09-14,Fort Worth,TX,3:45 PM
+Illinois Central School Bus,,2019-09-16,Kankakee,IL,3:20 PM
+Phoebus High School,High,2019-09-16,Hampton,VA,11:55 AM
+Simon Gratz High School Mastery Charter,High,2019-09-20,Philadelphia,PA,7:30 PM
+De Anza High School,High,2019-09-27,Richmond,CA,21:00:00
+Zebulon B. Vance High School,High,2019-09-27,Charlotte,NC,8:30 PM
+South Atlanta High School,High,2019-10-02,Atlanta,GA,8:30 PM
+Sheridan High School,High,2019-10-08,Sheridan,CO,7:45 PM
+Westbury High School,High,2019-10-08,Houston,TX,
+Greenhalge Elementary School,Elementary,2019-10-09,Lowell,MA,1:34 PM
+Rayne High School,High,2019-10-11,Rayne,LA,9:00 PM
+George Washington Carver High School,High,2019-10-15,New Orleans,LA,9:40 AM
+Creekside High School,High,2019-10-18,South Fulton,GA,10:00 PM
+Fond Du Lac Ojibwe High School,High,2019-10-18,Cloquet,MN,10:00:00
+Woodward High School,High,2019-10-18,Toledo,OH,9:04 PM
+Brick Memorial High School,High,2019-10-22,Brick Township,NJ,13:45:00
+Ridgway High School,High,2019-10-22,Santa Rosa,CA,08:56:00
+Laurel Woods Elementary School,Elementary,2019-10-27,Laurel,MD,7:42 PM
+New Dawn Charter High School,High,2019-10-29,New York,NY,4:00 PM
+Edison High School,High,2019-11-08,Stockton,CA,9:45 PM
+Robert L. Thornton Elementary School,Elementary,2019-11-08,Dallas,TX,8:00 PM
+Achievement Academy,High,2019-11-11,Baltimore,MD,2:00 PM
+Esteban Torres High School,High,2019-11-13,Los Angeles,CA,9:00 AM
+Saugus High School,High,2019-11-14,Santa Clarita,CA,07:38:00
+Pleasantville High School,High,2019-11-15,Pleasantville,NJ,9:30 PM
+Rich Central High School,High,2019-11-21,Olympia Fields,IL,3:00 PM
+Searles Elementary School,Elementary,2019-11-24,Union City,CA,01:26:00
+Catalyst Circle Rock Charter School,Elementary,2019-11-25,Chicago,IL,8:00 AM
+Sarah J. Anderson Elementary School,Elementary,2019-11-26,Vancouver,WA,3:20 PM
+Mountain Brook High School,High,2019-12-01,Mountain Brook,AL,4:00 AM
+Waukesha South High School,High,2019-12-02,Waukesha,WI,10:07:00
+Oshkosh West High School,High,2019-12-03,Oshkosh,WI,9:12 AM
+Thomas Jefferson Middle School,Middle,2019-12-03,Madison,WI,3:30 PM
+Picacho Middle School,High,2019-12-04,Las Cruces,NM,1:37 PM
+Decatur High School,High,2019-12-10,Decatur,AL,8:20 AM
+J C Harmon High School,High,2019-12-10,Kansas City,KS,2:00 PM
+Sacred Heart School,K-8,2019-12-10,Jersey City,NJ,12:30 PM
+Chase Middle School,Middle,2019-12-11,Topeka,KS,3:15 PM
+Evans Elementary School,Elementary,2019-12-11,Evansville,IN,3:00 PM
+Maury High School,High,2019-12-13,Norfolk,VA,12:15 PM
+Catholic Academy of New Haven,K-8,2019-12-16,New Haven,CT,9:00 AM
+Lely High School,High,2019-12-19,Naples,FL,8:29 PM
+West St. John Elementary School,Elementary,2019-12-21,St. John the Baptist Parish,LA,11:30 PM
+Mason-Clark Middle School,Middle,2019-12-28,St. Louis,MO,8:00 PM
+Southridge High School,High,2020-01-07,Kennewick,WA,
+Glades Central Community High School,High,2020-01-08,Belle Glade,FL,1:00 PM
+McWillie Elementary School,Middle,2020-01-10,Jackson,MS,7:00 AM
+Ellis Davis Field House,High,2020-01-11,Dallas,TX,9:10 PM
+Bellaire High School,High,2020-01-14,Houston,TX,4:00 PM
+Poteet High School,High,2020-01-14,Mesquite,TX,8:20 PM
+Cane Bay High School,High,2020-01-17,Summerville,SC,11:00 AM
+Three Fires Elementary School,Elementary,2020-01-17,Howell,MI,3:15 PM
+North Crowley Ninth Grade Campus,High,2020-01-19,Fort Worth,TX,7:00 PM
+Lindblom Math & Science Academy High School,High,2020-01-21,Chicago,IL,6:30 PM
+Park Middle School,Middle,2020-01-21,Lincoln,NE,5:45 PM
+Oxnard's Christa McAuliffe Elementary School,Elementary,2020-01-23,Oxnard,CA,11:30 AM
+Robertson Elementary School,Elementary,2020-01-27,Yakima,WA,3:30 PM
+Lufkin Middle School,High,2020-01-28,Lufkin,TX,8:30 PM
+Martin Van Buren High School,High,2020-01-28,Queens,NY,2:45 PM
+White Station High School,High,2020-01-28,Memphis,TN,
+Deer Valley High School,High,2020-01-31,Antioch,CA,8:45 PM
+Hicks Elementary School,Elementary,2020-02-01,Houston,TX,
+George Washington Carver Elementary School,Elementary,2020-02-03,Jacksonville,FL,5:30 PM
+Beau Chene High School,High,2020-02-04,Arnaudville,LA,6:00 PM
+Second Start Alternative High School,High,2020-02-05,Concord,NH,10:00:00
+Johnson-Wabash Elementary School,Elementary,2020-02-12,Ferguson,MO,08:00:00
+Dunbar High School,High,2020-02-15,Washington,DC,6:00 PM
+Cesar Chavez Community School,Other,2020-02-21,Albuquerque,NM,11:20 AM
+North Forney High School,High,2020-03-02,Forney,TX,11:00 AM
+Sagemont School,K-12,2020-03-05,Weston,FL,12:20 PM
+Shenango Area Schools (bus),Elementary,2020-03-10,New Castle,PA,08:43:00
+Pine View Elementary,Elementary,2020-03-13,Rockwood,TN,
+Atascocita High School,High,2020-03-15,Humble,TX,10:45 AM
+Booker T. Washington High School,High,2020-03-18,Shreveport,LA,11:00 PM
+Roy Shelling Elementary School,Elementary,2020-03-24,Monroe,LA,4:12 PM
+Narvie J. Harris Elementary School,Elementary,2020-03-30,Stonecrest,GA,9:40 PM
+Morton Middle School,Middle,2020-04-13,Omaha,NE,10:15 AM
+Abbotts Creek Elementary School,Elementary,2020-04-19,Raleigh,NC,02:00:00
+Golden West High School,High,2020-05-05,Visalia,CA,23:15:00
+Stuart W Cramer High School,High,2020-05-15,Cramerton,NC,
+West Gate Elementary School,Elementary,2020-05-19,Manassas,VA,2:40 PM
+Miles Elementary School,Elementary,2020-05-22,Cleveland,OH,1:30 AM
+O Rourke Elementary School,Elementary,2020-05-25,Mobile,AL,1:30 AM
+Luis Munoz Marin Middle School,Middle,2020-05-27,Cleveland,OH,11:30 PM
+Garfield Elementary School,Elementary,2020-06-03,Davenport,IA,12:55 PM
+Touissant Louverture Elementary School,Elementary,2020-06-16,Miami,FL,11:15 PM
+Joyce Kilmer School 69,Elementary,2020-06-18,Indianapolis,IN,1:30 AM
+Columbus East High School,High,2020-06-21,Columbus,IN,5:30 AM
+Halifax County Middle School,Middle,2020-06-27,South Boston,VA,10:00 PM
+Lakota Career Readiness Academy,K-12,2020-06-30,West Chester Township,OH,
+Frost Elementary School,Elementary,2020-07-01,Prospect Heights,IL,4:35 PM
+Lake Hills Elementary School,Elementary,2020-07-04,Michigan City,IN,
+Willow Woods Elementary School,Elementary,2020-07-14,Detroit,MI,
+Brookdale Elementary School,Elementary,2020-07-21,Orangeburg,SC,9:00 PM
+Canyon del Oro High School,High,2020-07-27,Oro Valley,AZ,16:00:00
+Collinsville High School,High,2020-07-29,Collinsville,IL,21:14:00
+Kelly Elementary School,Elementary,2020-08-04,Pittsburg,PA,12:15:00
+Aberdeen K-8 School,K-8,2020-08-17,Grand Rapids,MI,16:30:00
+West Middle School,Middle,2020-08-25,Columbia,MO,03:30:00
+L.O. Donald Leadership Academy,Elementary,2020-08-30,Dallas,TX,22:00:00
+Dougherty Comprehensive High School,High,2020-09-03,Albany,GA,08:15:00
+Lone Star Elementary School,Elementary,2020-09-03,Jacksonville,FL,23:45:00
+Southmayd Elementary School,Elementary,2020-09-09,Houston,TX,21:50:00
+West Bradford Elementary School,Elementary,2020-09-09,West Bradford Township,PA,18:35:00
+Saint Francis DeSales High School,High,2020-09-10,Columbus,OH,15:45:00
+Peoria Public Schools Bus,,2020-09-14,Peoria,IL,13:45:00
+Artondale Elementary School,Elementary,2020-09-15,Gig Harbor,WA,08:30:00
+Viewmont High School,High,2020-09-15,Bountiful,UT,22:27:00
+York County School Bus,,2020-09-15,Rock Hill,SC,14:45:00
+Sonora High School,High,2020-09-16,Sonora,CA,23:46:00
+Dr. Martin Luther King Jr. Elementary School,Elementary,2020-09-17,Portland,OR,21:37:00
+Ellet High School,High,2020-09-17,Akron,OH,20:00:00
+Winburn Middle School,Middle,2020-09-18,Lexington,KY,20:30:00
+Krouzian Zekarian Vasbouragan Armenian School,K-8,2020-09-19,San Francisco,CA,14:25:00
+Liberty Elementary School,Elementary,2020-09-20,Salt Lake City,UT,16:00:00
+Pleasant Hill Elementary School,Elementary,2020-09-21,Pleasant Hill,CA,
+Highlands Middle School,Middle,2020-09-23,Jacksonville,FL,16:30:00
+William Tennent High School,High,2020-09-23,Warminster,PA,16:55:00
+McClernand Elementary School,Elementary,2020-09-24,Springfield,IL,12:33:00
+Walt Hanline Middle School,Middle,2020-09-24,Ceres,CA,
+Haledon Public School,K-8,2020-09-25,Haledon,NJ,19:08:00
+Rock Island Academy,Elementary,2020-09-25,Rock Island,IL,23:00:00
+East Rock Community Magnet School,K-8,2020-09-28,New Haven,CT,06:13:00
+Dymally High School,High,2020-09-30,Los Angeles,CA,
+Marple-Newtown School Bus,,2020-10-02,Exton,PA,
+Adam’s Elementary School,Elementary,2020-10-04,Lincoln,NE,
+KIPP Delta Elementary School,Elementary,2020-10-05,West Helena,AR,15:00:00
+Southridge Junior High,High,2020-10-05,Moore,OK,
+Jean Ribault High School,High,2020-10-09,Jacksonville,FL,14:00:00
+North Dallas High School,High,2020-10-12,Dallas,TX,
+Shakopee High School,High,2020-10-12,Shakopee,MN,17:30:00
+Rhode Island School for the Deaf ,K-12,2020-10-13,Providence,RI,16:30:00
+Bradford Area School District,,2020-10-14,Bradford,PA,
+Washington Elementary School,Elementary,2020-10-14,Sunnyside,WA,10:40:00
+Seneca High School,High,2020-10-18,Louisville,KY,13:26:00
+Jack Robey Junior High School,Junior High,2020-10-20,Pine Bluff,AR,21:15:00
+Stillwater Elementary School,Elementary,2020-10-24,Stamford,CT,23:36:00
+Riverdale High School,High,2020-10-26,Riverdale,GA,17:22:00
+Rochester Prep Charter School,K-12,2020-10-28,Rochester,NY,17:00:00
+Lawton Chiles Middle School,Middle,2020-10-29,Miramar,FL,23:15:00
+Erie High School,High,2020-11-02,Erie,CO,00:05:00
+Khalsa Montessori Charter,Elementary,2020-11-06,Tuscon,AZ,10:00:00
+Terre Haute South Vigo High School,High,2020-11-08,Terre Haute,IN,16:39:00
+Baldwin Elementary School,Elementary,2020-11-09,La Puente,CA,
+Collins Elementary School,Elementary,2020-11-09,Houston,TX,
+Cesar Chavez Middle School,Middle,2020-11-12,Union City,CA,17:35:00
+Nativity School of Harrisburg,Middle,2020-11-12,Harrisburg,PA,17:30:00
+Lincoln Elementary School,Elementary,2020-11-13,Leland,NC,14:15:00
+Winridge Elementary School,Elementary,2020-11-16,Memphis,TN,
+Great Falls High School,High,2020-11-17,Great Falls,MT,18:55:00
+Weatherford High School,High,2020-11-17,Weatherford,TX,14:00:00
+Abe Hubert Elementary School,Elementary,2020-11-25,Garden City,KS,12:45:00
+Hendersonville Middle School,Middle,2020-11-25,Hendersonville,NC,07:45:00
+East Chicago Academy of Visual and Performing Arts,High,2020-12-06,Chicago,IL,
+Tabb Middle School,Middle,2020-12-11,Yorktown,VA,16:38:00
+Dubois Elementary School,Elementary,2020-12-16,Chicago,IL,23:30:00
+Youth Under Construction Youth Center,High,2020-12-25,Pompano Beach,FL,23:00:00
+Rogers High School,High,2020-12-29,Spokane,WA,17:30:00
+Perth Bible Church and Christian Academy,6-12,2021-01-04,Johnstown,NY,
+Southeast High School,High,2021-01-10,Springfield,IL,15:17:00
+Highland Elementary School,Elementary,2021-01-14,Wheaton,MD,05:40:00
+Eastmoor Academy,High,2021-01-21,Columbus,OH,19:30:00
+Lower Elementary School,Elementary,2021-01-21,Grove,OK,15:00:00
+Hattiesburg High School,High,2021-01-27,Hattiesburg,MS,08:00:00
+Holly Hill School,K-8,2021-01-27,Holly Hill,FL,
+Muslim American Youth Academy,K-8,2021-02-01,Dearborn,MI,23:00:00
+Benjamin Stoddert Middle School,Middle,2021-02-05,Marlow Heights,MD,17:00:00
+School Bus,,2021-02-08,Grand Rapids,MI,15:57:00
+Forest Oak Middle School,Middle,2021-02-10,Fort Worth,TX,00:30:00
+School Number 15,Elementary,2021-02-10,Paterson,NJ,01:51:00
+St. Martinville Head Start Center,Other,2021-02-10,St. Martinville,LA,12:04:00
+Roosevelt High School,High,2021-02-14,Minneapolis,MN,22:30:00
+Third Creek Elementary School,Elementary,2021-02-16,Statesville,NC,08:00:00
+Christenberry Elementary School,Elementary,2021-02-17,Knoxville,TN,14:45:00
+Lincoln Middle School,Middle,2021-02-19,Rockford,IL,12:50:00
+Houston Elementary School,Elementary,2021-02-22,Visalia,CA,04:00:00
+Garfield Elementary School,Elementary,2021-02-24,Yakima,WA,12:10:00
+George Washington Carver High School,High,2021-02-26,New Orleans,LA,18:15:00
+Watson Chapel Junior High,Junior High,2021-03-01,Pine Bluff,AR,09:59:00
+Chesterfield Elementary School,Elementary,2021-03-08,Chesterfield,SC,13:30:00
+Bishop Hartley High School,High,2021-03-09,Columbus,OH,20:50:00
+Sarah Moore Greene Elementary,Elementary,2021-03-09,Knoxville,TN,13:30:00
+Cincinnati College Preparatory Academy,K-12,2021-03-11,Cincinnati,OH,08:00:00
+Lee Elementary School,Elementary,2021-03-13,Abilene,TX,21:00:00
+Merrillville High School,High,2021-03-15,Merrillville,IN,00:15:00
+Greenwood Elementary School,Elementary,2021-03-18,Louisville,KY,12:44:00
+Spring Mills Middle School,Middle,2021-03-19,Martinsburg,WV,15:00:00
+Four Corners Elementary School,Elementary,2021-03-24,Salem,OR,16:20:00
+Castlio Elementary School,Elementary,2021-03-26,St Charles,MO,02:00:00
+Peabody Elementary School,Elementary,2021-03-27,Cambridge,MA,00:40:00
+Cleveland High School,High,2021-04-01,Cleveland,OK,
+Selma High School,High,2021-04-01,Selma,AL,13:00:00
+Back of the Yards College Prep High School,High,2021-04-06,Chicago,IL,14:00:00
+Peoria High School,High,2021-04-07,Peoria,IL,10:00:00
+Bishop Noll Institute,High,2021-04-11,Hammond,IN,21:20:00
+Austin-East Magnet High School,High,2021-04-12,Knoxville,TN,15:15:00
+San Diego High School,High,2021-04-12,San Diego,CA,20:45:00
+Maury County Public Schools Bus No. 50,,2021-04-13,Columbia,TN,16:00:00
+Westwood Elementary School,Elementary,2021-04-18,Dayton,OH,16:15:00
+Harker Heights High School,High,2021-04-20,Harker Heights,TX,23:09:00
+Plymouth Middle School,Middle,2021-04-26,Plymouth,MN,08:44:00
+La Petite Academy,Other,2021-04-27,Memphis,TN,16:00:00
+Smyrna Middle School,Middle,2021-04-27,Smyrna,DE,22:25:00
+Urban Dove Charter School,High,2021-04-29,Brooklyn,NY,14:45:00
+Victor Valley High School,High,2021-04-29,Victorville,CA,12:07:00
+Mary Castle Elementary School,Elementary,2021-04-30,Indianapolis,IN,13:00:00
+Benjamin E Mays School,Elementary,2021-05-01,St. Paul,MN,23:34:00
+Chicago Bulls College Prep High School,High,2021-05-02,Chicago,IL,23:10:00
+Crossroads Alternative High,High,2021-05-05,Cutlerville,MI,14:00:00
+Ware Shoals High School,High,2021-05-05,Ware Shoals,SC,08:05:00
+Forest Lake Elementary,Elementary,2021-05-06,Columbia,SC,07:00:00
+Rigby Middle School,Middle,2021-05-06,Rigby,ID,09:15:00
+P.S. 178 Saint Clair Mckelway Grade School,K-8,2021-05-11,Brooklyn,NY,17:02:00
+Verbum Dei High School,High,2021-05-11,Los Angeles,CA,15:00:00
+San Mateo High School,High,2021-05-14,San Mateo,CA,21:00:00
+Aurora Collegiate Academy,Elementary,2021-05-17,Memphis,TN,07:45:00
+Brown Middle School,Middle,2021-05-17,El Paso,TX,
+Long Reach High School,High,2021-05-17,Columbia,MD,09:25:00
+Paterson School 6,Elementary,2021-05-25,Paterson,NJ,
+Lincoln Park High School,High,2021-06-01,Chicago,IL,19:30:00
+Dr. Charles R. Drew Elementary School,Elementary,2021-06-06,Arlington,VA,02:17:00
+Eastern Hills High School,High,2021-06-07,Fort Worth,TX,17:20:00
+Hazel Grove Elementary,Elementary,2021-06-08,Kansas City,KS,12:00:00
+Musser Elementary School,Elementary,2021-06-08,Sharon,PA,20:42:00
+North Forest High School,High,2021-06-09,Houston,TX,10:20:00
+William Fleming High School,High,2021-06-09,Roanoke,VA,14:00:00
+Holy Cross High School,High,2021-06-10,Waterbury,CT,06:00:00
+McCluer North High School,High,2021-06-12,Florissant,MO,01:00:00
+Park Elementary School,Elementary,2021-06-13,Columbia,PA,08:00:00
+William Dick School,K-8,2021-06-13,Philadelphia,PA,23:30:00
+Eastern Hills High School,High,2021-06-14,Fort Worth,TX,19:30:00
+R.J. Reynolds High School,High,2021-06-14,Winston-Salem,NC,15:55:00
+Rowland Middle School,Middle,2021-06-14,Rowland,NC,18:00:00
+Modesto Christian School,K-12,2021-06-20,Modesto,CA,06:30:00
+Abraham Lincoln Middle School,Middle,2021-06-24,Rockford,IL,19:35:00
+Slater Elementary School,Elementary,2021-06-28,Fresno,CA,09:00:00
+Dr. Louis A. Cerulli School No. 34,High,2021-07-04,Rochester,NY,01:00:00
+Benito Juarez Community Academy,High,2021-07-08,Chicago,IL,12:09:00
+Campus High School,High,2021-07-09,Wichita,KS,15:00:00
+Forest Park Elementary,Elementary,2021-07-18,Little Rock,AL,18:01:00
+Caldwell High School,High,2021-07-19,Caldwell,TX,13:01:00
+Theodore Herzl Elementary School,Elementary,2021-07-21,Chicago,IL,18:05:00
+Tyee High School,High,2021-07-27,SeaTac,WA,21:18:00
+Burns Middle School,Middle,2021-08-04,Mobile,AL,03:06:00
+Chapel Hill Middle School,Middle,2021-08-05,Douglasville,GA,
+St. Francis de Sales school,K-8,2021-08-06,Houma,LA,13:00:00
+Gilbert Heights Elementary School,Elementary,2021-08-07,Portland,OR,
+East Linden Elementary School,Elementary,2021-08-10,Columbus,OH,17:12:00
+Mark Twain Elementary School,Elementary,2021-08-11,Colorado Springs,CO,01:00:00
+Oakland Tech High School,High,2021-08-11,Oakland,CA,15:30:00
+Lithonia High School,High,2021-08-12,Lithonia,GA,15:00:00
+North Mountain Middle School,Middle,2021-08-12,San Jacinto,CA,07:11:00
+Campbell High SChool,High,2021-08-13,Smyrna,GA,21:15:00
+Washington Middle School,Middle,2021-08-13,Albuquerque,NM,12:45:00
+Darlington County School District Buses,,2021-08-14,Hartsville,SC,
+Mary E. McDowell Elementary School,Elementary,2021-08-14,Chicago,IL,16:38:00
+Rosa Park Elementary School,Elementary,2021-08-15,Dale City,VA,18:25:00
+Yeshiva Toras Chaim High School,High,2021-08-17,Denver,CO,23:35:00
+Orangeburg-Wilkinson High School,High,2021-08-18,Orangeburg,SC,16:00:00
+Central High-Bullard High,High,2021-08-20,Fresno,CA,22:05:00
+Miller Park Elementary,Elementary,2021-08-20,Omaha,NE,02:30:00
+West Middle School,Middle,2021-08-22,Rockford,IL,14:00:00
+Aki Kurose Middle School,Middle,2021-08-26,Seattle,WA,18:30:00
+Hauppauge Middle School,Middle,2021-08-26,Hauppauge,NY,11:45:00
+Northpointe Academy Elementary School,Elementary,2021-08-26,Toledo,OH,19:05:00
+Academy Park High School,High,2021-08-27,Sharon Hill,PA,21:00:00
+Apollo High School,High,2021-08-27,Owensboro,KY,21:40:00
+Edmunds Middle School,Middle,2021-08-27,Burlington,VT,
+Freedom High School,High,2021-08-27,Woodbridge,VA,21:10:00
+Hammond Central High School,High,2021-08-27,Hammond,IN,14:25:00
+Santa Maria High School,High,2021-08-28,Santa Maria,CA,16:00:00
+New Hanover High School,High,2021-08-30,Wilmington,NC,11:24:00
+New Town High School,High,2021-08-30,Owings Mills,MD,15:00:00
+Okeeheelee Middle School,Middle,2021-08-30,West Palm Beach,FL,14:30:00
+West Side High School,High,2021-08-30,Newark,NJ,20:30:00
+Frazier International Magnet School,Elementary,2021-09-01,Chicago,IL,05:15:00
+Mt. Tabor High School,High,2021-09-01,Winston-Salem,NC,12:07:00
+Albuquerque Christ Lutheran Church and School,K-8,2021-09-02,Albuquerque,NM,12:30:00
+Little Rock Central High School,High,2021-09-02,Little Rock,AR,08:00:00
+Santee High School,High,2021-09-02,Los Angeles,CA,14:00:00
+Santee High School,High,2021-09-02,Los Angeles,CA,14:00:00
+West Side Leadership Academy,High,2021-09-02,Gary,IN,15:00:00
+Woodland High School,High,2021-09-02,Stockbridge,GA,10:30:00
+Buena Park School District Bus,,2021-09-03,Buena Park,CA,13:58:00
+Desert Oasis High School,High,2021-09-03,Las Vegas,NV,21:00:00
+Julius Chambers High School,High,2021-09-03,Charlotte,NC,21:30:00
+Mt. Eden High School,High,2021-09-03,Hayward,CA,09:00:00
+Harrisburg High School,High,2021-09-07,Harrisburg,PA,03:00:00
+La Vergne High School,High,2021-09-07,La Vergne,TN,15:00:00
+O’Maley Innovation Middle School,Middle,2021-09-07,Gloucester,MA,02:30:00
+Centennial High School,High,2021-09-08,Champaign,IL,13:00:00
+Champaign School Bus,Elementary,2021-09-09,Champaign,IL,14:42:00
+Prairie Seeds Academy,High,2021-09-09,Brooklyn Park,MN,19:10:00
+Sheep-Harney Elementary School,Elementary,2021-09-09,Elizabeth City,NC,23:30:00
+Tri-County Education Center,6-12,2021-09-09,Ferndale,MI,14:30:00
+North Area Athletic Complex,High,2021-09-10,Arvada,CO,20:30:00
+Stratford School,Elementary,2021-09-10,Palo Alto,CA,12:28:00
+Edwards Elementary School,Elementary,2021-09-13,Chesterfield County,SC,13:30:00
+La Vergne High School,High,2021-09-14,La Vergne,TN,14:45:00
+McNair Elementary School,Elementary,2021-09-14,Hazelwood,MO,08:45:00
+Centennial High School,High,2021-09-15,Champaign,IL,13:30:00
+Mary Todd Elementary School,Elementary,2021-09-15,Lexington,KY,16:00:00
+Springfield Estates Elementary,Elementary,2021-09-15,Springfield,VA,
+Beechcroft High School,High,2021-09-16,Columbus,OH,21:53:00
+Orchard Ridge Elementary School,Elementary,2021-09-16,Madison,WI,03:00:00
+Provo High School,High,2021-09-16,Provo,UT,12:37:00
+Austin-East High School,High,2021-09-17,Knoxville,TN,20:49:00
+Hermitage High School,High,2021-09-17,Henrico,VA,23:00:00
+Parkland High School,High,2021-09-17,Winston-Salem,NC,16:00:00
+Swainsboro High School,High,2021-09-17,Swainsboro,GA,21:00:00
+West Philadelphia High School,High,2021-09-17,Philadelphia,PA,20:00:00
+Widefield High School,High,2021-09-18,Colorado Springs,CO,16:21:00
+Eastside Arts Academy,Elementary,2021-09-20,Cleveland,OH,18:02:00
+Heritage High School,High,2021-09-20,Newport News,VA,11:40:00
+East High School,High,2021-09-21,Wichita,KS,12:30:00
+Fred A. Toomer Elementary School,Elementary,2021-09-21,Atlanta,GA,07:45:00
+Lake Asbury Elementary School,Elementary,2021-09-21,Lake Asbury,FL,05:55:00
+Middletown Preparatory and Fitness Academy,High,2021-09-21,Middletown,OH,15:00:00
+Vaux Big Picture High School,High,2021-09-21,Philadelphia,PA,14:57:00
+Lincoln-Bassett Community School,Elementary,2021-09-22,New Haven,CT,11:00:00
+South Shore High School,High,2021-09-22,Brooklyn,NY,08:45:00
+Rigby Middle School,Middle,2021-09-23,Rigby,ID,
+Essex High School,High,2021-09-24,Essex,VA,20:20:00
+Fairfield High Preparatory School,High,2021-09-24,Fairfield,AL,21:47:00
+Stewarts Creek High School,High,2021-09-24,Smyrna,FL,20:30:00
+Wildwood Elementary/Middle School,K-8,2021-09-24,Baltimore,MD,19:11:00
+Canterbury Elementary School,Elementary,2021-09-27,Crystal Lake,IL,12:00:00
+South Portland High School,High,2021-09-28,South Portland,ME,20:38:00
+Shaker Heights Middle School,Middle,2021-09-29,Shaker Heights,OH,18:30:00
+Cummings Elementary School,K-8,2021-09-30,Memphis,TN,09:15:00
+Newton Elementary School,Elementary,2021-09-30,Newton,MS,16:30:00
+Ben Davis High School,High,2021-10-01,Indianapolis,IN,21:00:00
+Cherry Hill West High School,High,2021-10-01,Cherry Hill,NJ,20:45:00
+Northern High School,High,2021-10-01,Durham,NC,21:42:00
+Seventy-First High School,High,2021-10-01,Fayetteville,NC,22:00:00
+YES Prep,High,2021-10-01,Houston,TX,11:45:00
+Lakeview High School,High,2021-10-04,Chicago,IL,
+Santa Fe Indian School,6-12,2021-10-04,Santa Fe,NM,
+School of the Future,High,2021-10-04,Philadelphia,PA,01:25:00
+Woodward High School,High,2021-10-04,Toledo,OH,16:30:00
+Garinger High School,High,2021-10-05,Charlotte,NC,07:00:00
+Hettinger Public School,K-12,2021-10-05,Hettinger,ND,09:39:00
+Timberview High School,High,2021-10-06,Arlington,TX,09:15:00
+Antonia Pantoja Charter School,K-8,2021-10-07,Philadelphia,PA,
+East Chambers High School,High,2021-10-07,Winnie,TX,20:00:00
+Eastway Elementary School,Elementary,2021-10-07,Durham,NC,16:30:00
+Walkins Elementary School,Elementary,2021-10-07,Washington,DC,21:47:00
+Comanche Middle School,Middle,2021-10-08,Comanche,OK,16:30:00
+Rosemary Anderson High School,High,2021-10-11,Portland,OR,09:00:00
+El Sol Academy,Elementary,2021-10-12,Kalamazoo,MI,16:00:00
+Little Rock Central High School,High,2021-10-12,Little Rock,AR,11:50:00
+Union High School,High,2021-10-12,Tulsa,OK,14:30:00
+Wendell Phillips Academy High School,High,2021-10-12,Chicago,IL,14:30:00
+Charles Kelly Elementary,Elementary,2021-10-13,Drexel Hill,PA,08:00:00
+McDade Classical Elementary School,Elementary,2021-10-13,Chicago,IL,08:39:00
+Reiche Community School,Elementary,2021-10-14,Portland,ME,23:15:00
+Kepler Community School,Elementary,2021-10-15,Fresno,CA,10:20:00
+Williamson High School,6-12,2021-10-15,Mobile,AL,21:56:00
+Rogers High School,High,2021-10-17,Rogers ,AR,20:05:00
+Lincoln High School,High,2021-10-18,Philadelphia,PA,14:45:00
+Bethesda Academy,6-12,2021-10-21,Savannah,GA,19:00:00
+P. S. 65 Mother Hale Academy,Elementary,2021-10-21,Bronx,NY,14:00:00
+Philadelphia Learning Academy South,High,2021-10-22,Philadelphia,PA,13:00:00
+Cathedral School,K-12,2021-10-26,Natchez,MS,09:20:00
+Jose de Diego Community Academy,K-12,2021-10-26,Chicago,IL,15:46:00
+Calhoun County High School,High,2021-10-27,St. Matthews,SC,20:00:00
+Sto Rox High School,High,2021-10-30,McKees Rock,PA,16:45:00
+Highland Middle School,Middle,2021-11-02,Hobbs,NM,15:00:00
+Central High School,High,2021-11-04,Pageland,SC,
+Oviedo High School,High,2021-11-06,Oviedo,FL,22:00:00
+Theodore Roosevelt High School,High,2021-11-08,Bronx,NY,14:40:00
+Mesilla Valley Leadership Academy,,2021-11-09,Las Cruces,NM,08:00:00
+Ithaca High School,High,2021-11-10,Ithaca,NY,18:30:00
+Poughkeepsie High School,High,2021-11-15,Poughkeepsie,NY,15:15:00
+Jacksonville School Bus,,2021-11-16,Jacksonville,FL,18:00:00
+P.S. 44,Elementary,2021-11-16,Bronx,NY,14:15:00
+Gilmor Elementary School,Elementary,2021-11-18,Baltimore,MD,19:04:00
+Hinkley High School,High,2021-11-19,Aurora,CO,13:50:00
+Cleveland School Bus,,2021-11-23,Cleveland,OH,07:30:00
+Thornton Township High School,High,2021-11-24,Harvey,IL,15:00:00
+Westmount High School,High,2021-11-26,San Jose,CA,21:00:00
+Cesar Chavez High School,High,2021-11-29,Phoenix,AZ,15:00:00
+West Middle School,Middle,2021-11-29,Rockford,IL,16:00:00
+Humboldt High School,High,2021-11-30,Humboldt,TN,20:30:00
+Los Angeles School Bus,,2021-11-30,Los Angeles,CA,17:30:00
+Oxford High School,High,2021-11-30,Oxford,MI,12:51:00
+Whitehall Yearling High School,High,2021-11-30,Whitehall,OH,18:00:00
+Sam Rayburn High School,High,2021-12-01,Pasadena,TX,11:00:00
+Garfield High School,High,2021-12-02,Seattle,WA,16:30:00
+Blytheville High School,High,2021-12-03,Blytheville,AR,21:15:00
+Susan E. Wagner High School,High,2021-12-06,Staten Island,NY,15:00:00
+Wilmington Park Elementary School,Elementary,2021-12-06,Wilmington,CA,16:46:00
+Haines Elementary School,Elementary,2021-12-07,Chicago,IL,12:30:00
+Ewing Marion Kauffman School,High,2021-12-08,Kansas City,MO,20:30:00
+St. Matthews Elementary School,Elementary,2021-12-08,Louisville,KY,21:30:00
+Greater Oaks Charter School,Elementary,2021-12-09,New York,NY,09:30:00
+Jesse C. Carson High,High,2021-12-09,China Grove,NC,14:00:00
+Canal Winchester High School,High,2021-12-10,Canal Winchester,OH,05:50:00
+Edward A. Upthegrove Elementary School,Elementary,2021-12-11,LaBelle,FL,14:00:00
+Jones County High School,High,2021-12-11,Gray,GA,20:15:00
+School No. 17,K-8,2021-12-12,Rochester,NY,18:30:00
+East River High School,High,2021-12-13,Orlando,FL,15:00:00
+West Charlotte High School,High,2021-12-13,Charlotte,NC,14:16:00
+Menchville High School,High,2021-12-14,Newport News,VA,20:40:00
+South Division High School,High,2021-12-14,Milwaukee,WI,11:30:00
+Eau Claire High School,High,2021-12-16,Columbia,SC,15:00:00
+P.S. 026 Jesse Owens,Elementary,2021-12-16,Brooklyn,NY,08:55:00
+Woodrow Wilson Junior High,High,2021-12-17,Dayton,TX,15:00:00
+Catawba College (high school tournament),High,2021-12-29,Salisbury,NC,20:15:00
+Childpeace Montessori School,K-8,2022-01-03,Portland,OR,13:00:00
+Columbus School Bus,,2022-01-03,Columbus,OH,05:40:00
+Auburn High School,High,2022-01-04,Rockford,IL,13:50:00
+Florin High School,High,2022-01-06,Sacramento,CA,15:40:00
+Valley High School,High,2022-01-11,Albuquerque,NM,19:40:00
+Gaithersburg High School,High,2022-01-14,Gaithersburg,MD,06:50:00
+Pyburn Elementary School,Elementary,2022-01-17,Houston,TX,11:20:00
+Anacostia High School,High,2022-01-19,Washington,DC,16:00:00
+Manor High School,High,2022-01-19,Portsmouth,VA,15:00:00
+Pittsburgh Oliver Citywide Academy,K-12,2022-01-19,Pittsburgh,PA,14:00:00
+Seminole High School,High,2022-01-19,Sanford,FL,23:57:00
+Magruder High School,High,2022-01-21,Rockville,MD,12:53:00
+McNair High School,High,2022-01-21,Atlanta,GA,14:30:00
+Sunrise Mountain High School,High,2022-01-24,Las Vegas,NV,12:30:00
+Bartram High School,High,2022-01-26,Philadelphia,PA,14:54:00
+Montgomery Elementary School,Elementary,2022-01-27,Houston,TX,22:00:00
+Carroll High School,High,2022-01-28,Monroe,LA,19:00:00
+Beloit Memorial High School,High,2022-01-29,Beloit,WI,20:55:00
+Academy Park High School,High,2022-02-01,Sharon Hill,PA,15:20:00
+Alessandro Volta Elementary School,Elementary,2022-02-01,Chicago,IL,10:00:00
+Rufus King High School,High,2022-02-01,Milwaukee,WI,19:45:00
+South Education Center,K-12,2022-02-01,Richfield,MN,12:04:00
+Logan County Community Technology Center,High,2022-02-02,Russellville,KY,08:15:00
+Speight Middle School,Middle,2022-02-03,Stantonsburg,NC,16:40:00
+Southwest DeKalb High School,High,2022-02-04,Decatur,GA,14:00:00
+Wenonah High School,High,2022-02-04,Birmingham,AL,21:15:00
+Catonsville High School,High,2022-02-08,Catonsville,MD,15:00:00
+Mount Vernon High School,High,2022-02-08,Mount Vernon,NY,14:30:00
+McKinley High School,High,2022-02-09,Buffalo,NY,15:45:00
+Minneapolis School Bus,Elementary,2022-02-09,Minneapolis,MN,14:15:00
+Eagle Academy,K-8,2022-02-11,Washington,DC,14:00:00
+Lake City Middle School,Middle,2022-02-14,Lake City,FL,15:00:00
+McClure Elementary School,Elementary,2022-02-17,Grandview,WA,17:00:00
+Tewksbury High School,High,2022-02-18,Tewksbury,MA,20:10:00
+Camelot Elementary School,Elementary,2022-02-19,Chesapeake,VA,13:07:00
+McColm High School,High,2022-02-20,McColm,MS,16:50:00
+Wilson Middle School,Middle,2022-02-20,Wilson,OK,03:30:00
+John Carroll Elementary School,Elementary,2022-02-21,Hyattsville,MD,17:20:00
+Alief ISD Center for Advanced Careers,High,2022-02-22,Houston,TX,16:30:00
+Liberty Point International Middle School,Middle,2022-02-22,Pueblo,CO,15:20:00
+Woodbridge High School,High,2022-02-23,Woodbridge,VA,20:10:00
+Sonnie Hereford Elementary,Elementary,2022-02-25,Huntsville,AL,10:30:00
+West Mesa High School,High,2022-02-25,Albuquerque,NM,08:00:00
+Dunbar High School,High,2022-02-27,Washington,DC,05:10:00
+Boys and Girls High School,High,2022-02-28,Brooklyn,NY,14:50:00
+JW Sexton High School,High,2022-03-03,Lansing,MI,13:15:00
+Olathe East High School,High,2022-03-04,Olathe,KS,10:30:00
+East High School,High,2022-03-07,Des Moines,IA,02:50:00
+Espanola Valley High School,High,2022-03-09,Espanola,NM,21:00:00
+Kimball High School,High,2022-03-09,Houston,TX,19:00:00
+North Gardens High School,High,2022-03-09,Miami Gardens,FL,13:30:00
+Cora L. Rice Elementary School,Elementary,2022-03-10,Landover,MD,02:15:00
+Hamilton Middle School,K-8,2022-03-10,Memphis,TN,08:00:00
+Rock Canyon High School,High,2022-03-10,Highlands Ranch,CO,09:22:00
+De Anza High School,High,2022-03-11,Richmond,CA,15:00:00
+Fairland Middle School,Middle,2022-03-11,Proctorville,OH,12:00:00
+Jerstad-Agerholm Elementary School,Elementary,2022-03-11,Racine,WI,
+New Foundations Charter School,K-8,2022-03-13,Philadelphia,PA,
+Kraemer Middle School,Middle,2022-03-14,Placentia,CA,09:00:00
+Eisenhower High School,High,2022-03-15,Yakima,WA,15:00:00
+Forest Park Middle School,Middle,2022-03-15,Forest Park,GA,
+Paul Lawrence Dunbar High School,High,2022-03-15,Baltimore,MD,15:20:00
+Tech Academy Boston,High,2022-03-15,Boston,MA,17:40:00
+Loma Vista Middle School,Middle,2022-03-16,Riverside,CA,17:00:00
+Redington Jr/Sr High School,6-12,2022-03-17,Wasilla,AK,14:30:00
+Barrington High School,High,2022-03-18,Barrington,IL,08:00:00
+Madison High School,High,2022-03-18,Mansfield,OH,10:00:00
+,High,2022-03-18,Providence,RI,14:50:00
+Central Baldwin Middle School,Middle,2022-03-19,Loxley,AL,13:50:00
+Desert Canyon Middle School,Middle,2022-03-21,Scottsdale,AZ,11:15:00
+Leap of Faith Middle School,Middle,2022-03-21,Pascagoula,MS,13:00:00
+Mahone Middle School,Middle,2022-03-21,Kenosha,WI,03:25:00
+James Madison Middle School,Middle,2022-03-22,Roanoke,VA,16:00:00
+New Smyrna Beach High School,High,2022-03-22,New Smyrna Beach,FL,15:20:00
+Woodrow Wilson High School,High,2022-03-22,Dallas,TX,15:00:00
+Rippon Middle School,Middle,2022-03-24,Woodbridge,VA,11:11:00
+Brighton High School,High,2022-03-25,Memphis,TN,
+Highland High School,High,2022-03-25,Salt Lake City,UT,12:00:00
+Royse City High School,High,2022-03-25,Royse City,TX,08:15:00
+North Crowley High School,High,2022-03-28,Fort Worth,TX,16:30:00
+Oakdale Elementary School,Elementary,2022-03-28,Charlotte,NC,11:30:00
+Lucy Addison Middle School,Middle,2022-03-29,Roanoke,VA,14:15:00
+Western High School,High,2022-03-29,Las Vegas,NV,14:15:00
+Booker T Washington High School,High,2022-03-30,Atlanta,GA,14:30:00
+Kingman High School,High,2022-03-30,Kingman,AZ,15:00:00
+ West Philadelphia Achievement Charter Elementary School,Elementary,2022-03-31,Philadelphia,PA,08:45:00
+Tanglewood Middle School,Middle,2022-03-31,Greenville,SC,12:30:00
+Bloomington High School South,High,2022-04-03,Bloomington,IN,19:10:00
+Erie High School,High,2022-04-05,Erie,PA,09:40:00
+Ripley Middle School,Middle,2022-04-06,Ripley,WV,08:00:00
+Roosevelt High School,High,2022-04-06,Portland,OR,21:30:00
+St. Monica Catholic School,Elementary,2022-04-06,Mercer Island,WA,13:30:00
+Lynn English High School,High,2022-04-10,Lynn,MA,01:00:00
+Pine Bluff High School,High,2022-04-11,Pine Bluff,AR,14:45:00
+Shelters Elementary School,Elementary,2022-04-13,Southgate,MI,13:00:00
+Neshoba Central High School,High,2022-04-14,Philadelphia,MS,12:15:00
+Gar-Field High School,High,2022-04-15,Woodbridge,VA,21:30:00
+Meredith Middle School,Middle,2022-04-16,Des Moines,IA,18:50:00
+Mott-Regent High School,K-12,2022-04-21,Mott,ND,14:58:00
+Edmund Burke School,6-12,2022-04-22,Washington,DC,15:20:00
+Houck Middle School,Middle,2022-04-22,Salem,OR,23:55:00
+Mountain View Middle School,Middle,2022-04-22,Redding,CA,18:00:00
+Hazelwood Central High School,High,2022-04-24,Florissant,MO,06:00:00
+Marietta City Schools Bus Yard,Other,2022-04-25,Marietta,GA,21:00:00
+Wisconsin Conservatory of Lifelong Learning,6-12,2022-04-25,Milwaukee,WI,15:00:00
+Aspen Ridge School,K-8,2022-04-26,Ishpeming Township,MI,12:30:00
+Southwest High School,High,2022-04-26,Macon,GA,22:30:00
+Coquillard Elementary School,Elementary,2022-04-27,South Bend,IN,16:00:00
+Morrill Elementary School,Elementary,2022-04-27,San Antonio,TX,20:18:00
+McKee Middle School (McKee Stadium),Middle,2022-04-30,Jeannette City,PA,10:15:00
+Hamilton Stem Academy,Elementary,2022-05-01,Columbus,OH,13:30:00
+Louise A. Benton Middle School,Middle,2022-05-01,Manassas,VA,10:15:00
+Arrowview Middle School,Middle,2022-05-03,San Bernardino,CA,05:45:00
+Dothan City School Bus,K-12,2022-05-05,Dothan,AL,15:00:00
+Lowellville K-12 School,K-12,2022-05-05,Lowellville,OH,10:30:00
+Eden Ii Institute,Other,2022-05-09,Staten Island,NY,15:15:00
+Riverside Elementary School,Elementary,2022-05-09,Suwanee,GA,07:15:00
+Andrew Jackson High School,High,2022-05-11,Jacksonville,FL,15:00:00
+Heights High School,High,2022-05-12,Houston,TX,13:15:00
+Hot Springs High School,High,2022-05-12,Hot Springs,AR,19:00:00
+Alexander W. Dreyfoos School of the Arts,High,2022-05-13,West Palm Beach,FL,12:00:00
+Southwest High School,High,2022-05-13,Macon,GA,19:49:00
+Belmont Elementary School,Elementary,2022-05-15,Belmont,NH,10:00:00
+Meadow View Elementary School,Elementary,2022-05-15,Plainfield,IL,19:30:00
+Mexia High School,High,2022-05-16,Mexia,TX,11:20:00
+School Bus,Other,2022-05-17,San Francisco,CA,09:00:00
+Walt Disney Magnet School,K-8,2022-05-17,Chicago,IL,10:00:00
+Palmetto High School,High,2022-05-18,Palmetto,FL,21:30:00
+Riverdale High School,High,2022-05-18,Murfreesboro,TN,21:30:00
+East Kentwood High School,High,2022-05-19,Kentwood,MI,19:30:00
+George Wythe High School,High,2022-05-19,Richmond,VA,14:13:00
+Hammond High Magnet School,High,2022-05-19,Hammond,LA,20:00:00
+Canal Winchester High School,High,2022-05-20,Canal Winchester,OH,15:00:00
+East Lake Elementary School,Elementary,2022-05-20,Chattanooga,TN,05:00:00
+Mary W Burroughs Elementary School,Elementary,2022-05-20,Theodore,AL,13:30:00
+Potomac High School,High,2022-05-20,Dumfries,VA,08:19:00
+South Elementary School,Elementary,2022-05-20,Pittsfield,IL,07:28:00
+Simon Gratz High School,High,2022-05-23,Philadelphia,PA,14:45:00
+Powell Elementary School,Elementary,2022-05-24,Washington,DC,16:15:00
+Riverside University High School,High,2022-05-24,Milwaukee,WI,12:30:00
+Robb Elementary School,Elementary,2022-05-24,Uvalde,TX,11:30:00
+St. Margaret of Scotland School,K-12,2022-05-25,Chicago,IL,
+Duff Elementary School,Elementary,2022-05-26,Arlington,TX,11:45:00
+Mevers School of Excellence,K-8,2022-05-26,Goose Creek,SC,00:05:00
+Daniel Webster Public School,Elementary,2022-05-29,Chicago,IL,01:30:00
+Helix High School,High,2022-05-30,La Mesa,CA,18:20:00
+Morris Jeff High School,High,2022-05-31,New Orleans,LA,11:45:00
+Ulysses S. Grant Senior High School,High,2022-06-01,Los Angeles,CA,15:25:00
+West Side Leadership Academy,High,2022-06-05,Gary,IN,18:13:00
+Pershing High School,High,2022-06-07,Detroit,MI,16:00:00
+Little Rock School District Bus,Other,2022-06-08,Little Rock,AR,16:01:00
+Walnut Park Elementary School,Elementary,2022-06-09,Gadsden,AL,09:30:00
+Byhalia High School,High,2022-06-10,Byhalia,MS,10:30:00
+Mariner High School,High,2022-06-13,Everett,WA,15:10:00
+Gresham School of Excellence,Elementary,2022-06-20,Chicago,IL,01:00:00
