@@ -73,17 +73,19 @@ b. To take abbreviations of states for the shd_df and converting them into the f
 ## Displaying our Findings Visually:
 To observe annual and monthly trends of school shootings:
 - We created a bar chart that reveals overall shooting trends by month and year
+- Bar chart for seasonal incidents, and quarter incidents
 
 To observe regions and states affected by shooting incidents:
 - We created a geomap of the US displaying the prevalence
+- We created a bar chart to display the top five schools
 
 To analyze patterns based on school type, time of day, and location:
 - We created bar charts to visualize incident patterns by school type (elementary, high school) and time of day (morning vs. afternoon).
 - We created a pie chart to show the distribution of weapon types used.
 
 To analyze perpetrator demographics:
-- We created pie charts to represent the age groups, gender distribution, and background data of perpetrators.
-- We analyzed traits and warning signs/risk factors of perpetrators, including age, gender, background, and mental health.
+- We created pie charts to represent the gender distribution and common weapon usage
+- Bar chart was created to display the count of ages amongst shooters
 
 
 ## Final Analysis folder tour:
