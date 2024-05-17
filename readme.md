@@ -95,7 +95,7 @@ In the "Resources" folder, the orginal csv files utilized are stored:
 - SHD.csv
 
 Master jupyter notebook:
-- Final_Data.ipynb
+- Final_Notebook.ipynb
 
 The final, clean and merged dataframe exported from "Final_Data.ipynb" notebook:
-- Final_Data .csv
+- clean_final_merge.csv
