@@ -28,8 +28,15 @@ https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-da
 ##
 # Final Analysis:
 Based on our data visualization plots, we can observe that:
-- From the year range of 1999-2023, the states with the highest incidences was ___, and the state with the lowest incidence rate was ___.
-- 
+- From the year range of 1999-2023, the states with the highest incidences were California and Texas while the lowest was New Hampshire and North Dakota
+- In the past 25 years, the number of school shootings has been slightly increasing
+- The type of school that have the highest amount of incidents are High Schools
+- Shooters are most likely to start an incident during the mornings and afternoons and during the Fall and Winter
+- Shooters are predominately male and a lot of them do not have a history of bullying or domestic violence
+- The most common choice of weapon among shooters is a pistol 
+- Most shooting incidents are not planned
+- The mean of shooters age is 16 with an outlier of 72 years old
+
 
 ##
 # Project Details:
@@ -79,12 +86,6 @@ To analyze perpetrator demographics:
 - We analyzed traits and warning signs/risk factors of perpetrators, including age, gender, background, and mental health.
 
 
-
-
-
-
-
-
 ## Final Analysis folder tour:
 In the "Resources" folder, the orginal csv files utilized are stored:
 - Kaggle1DS.csv
@@ -96,6 +97,3 @@ Master jupyter notebook:
 
 The final, clean and merged dataframe exported from "Final_Data.ipynb" notebook:
 - Final_Data .csv
-
-This readme file:
-- readme.md
