@@ -97,5 +97,6 @@ In the "Resources" folder, the orginal csv files utilized are stored:
 Master jupyter notebook:
 - Final_Notebook.ipynb
 
-The final, clean and merged dataframe exported from "Final_Data.ipynb" notebook:
-- clean_final_merge.csv
+Outputs such as CSV files and PNG files found in "Outputs" folder
+
+
