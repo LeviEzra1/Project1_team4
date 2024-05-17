@@ -27,13 +27,9 @@ https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-da
 
 ##
 # Final Analysis:
-At a glance at our merged, cleaned data, we can observe that:
-- this
-- that
-
 Based on our data visualization plots, we can observe that:
-- this 
-- that
+- From the year range of 1999-2023, the states with the highest incidences was ___, and the state with the lowest incidence rate was ___.
+- 
 
 ##
 # Project Details:
@@ -62,9 +58,10 @@ b. To take abbreviations of states for the shd_df and converting them into the f
 11. Exporting the final clean dataframe into a new csv file for later use and manipulation
 
 ## Filling Missing Latitudes and Longitudes:
-1. 
-2. 
-3. 
+1. Load csv files, drop Latitude and Longitude to make way for new coordinates
+2. Define a function utilizing the geoapify url to pull coordinates appropiately 
+3. Create a loop to begin the search and load new found coordinates into designated columns
+4. Output updated csv's for later use for geomap
 
 ## Displaying our Findings Visually:
 To observe annual and monthly trends of school shootings:
