@@ -1,0 +1,181 @@
+School,Type,Year,Date,Time,City,State,City Type,Race,Killed,Injured,Victims,Longitude,Latitude
+William Penn High School,High School,2009,01/08/2009,8:30Pm,New Castle,Delaware,Suburbtown,Black,0,1,1,-75.5849,39.6681
+Dunbar Vocational Career Academy,High School,2009,01/09/2009,8:00Pm,Chicago,Illinois,Urban,Black,0,5,5,-87.6175,41.8399
+Cahokia High School,High School,2009,01/23/2009,7:20Pm,Cahokia,Illinois,Suburbtown,Black,1,0,1,-90.1651,38.5657
+Zebulon Middle School,Middle School,2009,02/11/2009,6:00Am,Zebulon,North Carolina,Suburbtown,Black,0,1,1,-78.3118,35.8315
+Central High School,High School,2009,02/17/2009,2:20Pm,Detroit,Michigan,Urban,Unknown,0,1,1,-83.1139767,42.383593
+Westover High School,High School,2009,03/06/2009,10:00Pm,Fayetteville,North Carolina,Urban,Black,0,1,1,-78.9917,35.0843
+Chimborazo Elementary School,Elementary School,2009,05/13/2009,7:40Pm,Richmond,Virginia,Urban,Black,1,0,1,-77.413,37.5302
+Leestown Middle School,Middle School,2009,06/09/2009,8:02Am,Lexington,Kentucky,Urban,Black,1,0,1,-84.5348,38.0705
+Aplington-Parkersburg High School,High School,2009,06/24/2009,8:00Am,Parkersburg,Iowa,Rural,White,1,0,1,-92.8847,42.5803
+Mattituck High School,High School,2009,10/08/2009,1:50Pm,Mattituck,New York,Suburbtown,White,0,1,1,-72.529205,40.996241
+Wilson High School,High School,2009,10/30/2009,10:00Pm,Long Beach,California,Urban,Hisp,1,2,3,-118.141537,33.778933
+Brockton High School,High School,2009,12/02/2009,4:48Pm,Brockton,Massachusetts,Suburbtown,Black,0,1,1,-71.0436,42.0672
+Booker T. Washington High School,High School,2009,12/11/2009,8:20Am,Shreveport,Louisiana,Urban,Black,0,1,1,-93.77398,32.503605
+Livingston High School,High School,2010,01/20/2010,3:00Pm,Livingston,Alabama,Rural,Black,1,0,1,-88.1881261,32.5866695
+Discovery Middle School,Middle School,2010,02/05/2010,1:45Pm,Madison,Alabama,Suburbtown,White,1,0,1,-86.741148,34.740322
+Inskip Elementary School,Elementary School,2010,02/10/2010,1:00Pm,Knoxville,Tennessee,Urban,White,0,2,2,-83.959204,36.011183
+Deer Creek Middle School,Elementary School,2010,02/23/2010,3:00Pm,Littleton,Colorado,Suburbtown,White,0,2,2,-105.102,39.5869
+Birney Elementary School,Elementary School,2010,02/26/2010,7:30Am,Tacoma,Washington,Urban,White,1,0,1,-122.451219,47.187336
+South Gate High School,High School,2010,05/18/2010,7:50Am,South Gate,California,Suburbtown,Hisp,0,1,1,-118.209757,33.954604
+Alisal High School,High School,2010,10/01/2010,8:00Am,Salinas,California,Urban,Hisp,1,0,1,-121.595961,36.686184
+Kelly Elementary School,Elementary School,2010,10/08/2010,12:00Pm,Carlsbad,California,Urban,White,0,2,2,-117.311227,33.14836
+Millard South High School,High School,2011,01/05/2011,12:50Pm,Omaha,Nebraska,Urban,White,1,1,2,-96.146049,41.203481
+Gardena High School,High School,2011,01/18/2011,10:40Am,Gardena,California,Urban,Hisp,0,2,2,-118.296334,33.866372
+Louisiana Schnell Elementary School,Elementary School,2011,02/02/2011,10:40Am,Placerville,California,Suburbtown,White,1,0,1,-120.779419,38.735106
+Martinsville West Middle School,Middle School,2011,03/25/2011,7:00Am,Martinsville,Indiana,Suburbtown,White,0,1,1,-86.429335,39.4191001
+Worthing High School,High School,2011,03/31/2011,6:30Pm,Houston,Texas,Urban,Black,1,5,6,-95.368037,29.65721
+Sheeler Charter High School,High School,2011,04/13/2011,12:00Pm,Apopka,Florida,Suburbtown,Black,0,1,1,-81.494124,28.673157
+Ross Elementary School,Elementary School,2011,04/19/2011,10:35Am,Houston,Texas,Urban,Black,0,2,2,-95.341835,29.800326
+Highlands Intermediate School,Middle School,2011,05/23/2011,6:30Am,Pearl City,Hawaii,Suburbtown,Asian,0,1,1,-157.961977,21.400303
+Horizon Elementary School,Elementary School,2011,05/27/2011,6:30Pm,Everett,Washington,Urban,Hisp,0,1,1,-122.236522,47.921823
+Chandler Park Academy,High School,2011,08/26/2011,Unknown,Harper Woods,Michigan,Suburbtown,Black,0,1,1,-82.943715,42.445366
+Cape Fear High School,High School,2011,10/24/2011,1:00Pm,Fayetteville,North Carolina,Rural,White,0,1,1,-78.762384,35.034044
+Harwell Middle School,Middle School,2011,12/09/2011,4:45Pm,Edinburg,Texas,Rural,Hisp,0,2,2,-98.08764,26.38677
+North Forest High School,High School,2012,01/10/2012,12:30Pm,Houston,Texas,Urban,Black,0,1,1,-95.26259,29.868788
+Armin Jahr Elementary,Elementary School,2012,02/22/2012,1:30Pm,Bremerton,Washington,Urban,White,0,1,1,-122.63622,47.593761
+Chardon High School,High School,2012,02/27/2012,7:30Am,Chardon,Ohio,Suburbtown,White,3,3,6,-81.199958,41.591297
+Episcopal School Of Jacksonville,High School,2012,03/06/2012,1:30Pm,Jacksonville,Florida,Urban,White,1,0,1,-81.624244,30.3101978
+Mary Scroggs Elementary School,Elementary School,2012,05/25/2012,2:00Pm,Chapel Hill,North Carolina,Urban,White,1,0,1,-79.068506,35.879122
+Perry Hall High School,High School,2012,08/27/2012,10:45Am,Baltimore,Maryland,Suburbtown,White,0,1,1,-76.466091,39.39186
+Sandy Hook Elementary,Elementary School,2012,12/14/2012,9:30Am,Newtown,Connecticut,Suburbtown,White,26,2,28,-73.277751,41.41978
+Taft High School,High School,2013,01/10/2013,9:00Am,Taft,California,Suburbtown,White,0,2,2,-119.460383,35.146256
+Price Middle School,Middle School,2013,01/31/2013,1:50Pm,Atlanta,Georgia,Urban,Black,0,1,1,-84.387442,33.708772
+Hillside Elementary School,Elementary School,2013,02/13/2013,8:45Pm,San Leandro,California,Suburbtown,Hisp,1,0,1,-122.116352,37.702038
+Redland Middle School,Middle School,2013,05/24/2013,Unknown,Homestead,Florida,Rural,Hisp,0,1,1,-80.453001,25.5369
+Alexander W. Dreyfoos School Of The Arts,High School,2013,06/20/2013,Unknown,West Palm Beach,Florida,Urban,White,2,0,2,-80.059801,26.70861
+North Panola High,High School,2013,08/23/2013,10:30Pm,Sardis,Mississippi,Rural,Black,1,0,1,-89.9247,34.4429
+Agape Christian Academy,Prek-12,2013,10/04/2013,2:00Pm,Pine Hills,Florida,Suburbtown,Black,0,2,2,-81.477878,28.5756506
+Sparks Middle School,Middle School,2013,10/21/2013,7:00Am,Sparks,Nevada,Suburbtown,Hisp,1,2,3,-119.7694,39.5517
+Stephenson High School,High School,2013,11/03/2013,Unknown,Stone Mountain,Georgia,Suburbtown,Black,0,1,1,-84.1246,33.7736
+West Orange High School,High School,2013,12/04/2013,1:15Pm,Winter Garden,Florida,Suburbtown,White,0,1,1,-81.5673,28.5428
+Arapahoe High School,High School,2013,12/13/2013,12:33Pm,Centennial,Colorado,Suburbtown,White,1,0,1,-104.9628,39.5817
+Edison High School,High School,2013,12/19/2013,7:00Pm,Fresno,California,Urban,Hisp,0,1,1,-119.8058,36.7199
+Liberty Technology Magnet High School,High School,2014,01/09/2014,2:20Pm,Jackson,Tennessee,Rural,Black,0,1,1,-88.7593,35.675
+Berrendo Middle School,Middle School,2014,01/14/2014,8:11Am,Roswell,New Mexico,Rural,White,0,2,2,-104.5115,33.4736
+Valley Charter High School,High School,2014,01/17/2014,3:30Pm,Philadelphia,Pennsylvania,Urban,Black,0,2,2,-75.1446,40.0331
+North High School,High School,2014,01/31/2014,10:51Pm,Des Moines,Iowa,Urban,White,0,1,1,-93.6223,41.6177
+Salisbury High School,High School,2014,02/10/2014,3:00Pm,Salisbury,North Carolina,Suburbtown,Black,0,1,1,-80.4849,35.6648
+Raytown Success Academy,K-12,2014,02/20/2014,10:30Am,Raytown,Missouri,Urban,Unknown,1,0,1,-94.5688,39.094
+Madison Parish High School,High School,2014,03/07/2014,11:15Pm,Tallulah,Louisiana,Suburbtown,Black,0,1,1,-91.1992,32.4157
+East English Village Preparatory Academy,High School,2014,04/11/2014,9:30Pm,Detroit,Michigan,Urban,Black,1,0,1,-82.9296,42.4092
+St. Mary Catholic School,Prek-8,2014,04/21/2014,4:30Pm,Griffith,Indiana,Suburbtown,Hisp,1,0,1,-87.42937,41.5306881
+Paul Robeson High School,High School,2014,04/24/2014,3:53Pm,Chicago,Illinois,Urban,Black,0,1,1,-87.6366,41.77
+Horizon Elementary School,Elementary School,2014,05/03/2014,6:30Pm,Everett,Washington,Urban,Hisp,0,1,1,-122.237,47.9207
+Clarke Street Elementary School,Elementary School,2014,05/21/2014,7:00Pm,Milwaukee,Wisconsin,Urban,Black,1,0,1,-87.9493,43.0663
+Reynolds High School,High School,2014,06/10/2014,8:00Am,Troutdale,Oregon,Suburbtown,White,1,1,2,-122.4026,45.5285
+Kelly High School,High School,2014,06/23/2014,8:15Pm,Benton,Missouri,Rural,White,1,0,1,-89.4719,37.0444
+Stellar Leadership Academy,High School,2014,09/09/2014,12:51Pm,Miami,Florida,Suburbtown,Black,0,1,1,-80.243461,25.84814
+Fern Creek High School,High School,2014,09/30/2014,1:00Pm,Louisville,Kentucky,Urban,White,0,1,1,-85.592357,38.156605
+Albemarle High School,High School,2014,09/30/2014,7:40Am,Albermarle,North Carolina,Suburbtown,White,0,1,1,-80.193152,35.371268
+Langston Hughes High School,High School,2014,10/03/2014,10:00Pm,Fairburn,Georgia,Rural,Black,1,0,1,-84.635695,33.623799
+Marysville-Pilchuck High School,High School,2014,10/24/2014,10:40Am,Marysville,Washington,Suburbtown,White,4,1,5,-122.154021,48.09582
+Miami Carol City High School,High School,2014,11/20/2014,4:00Pm,Miami Gardens,Florida,Suburbtown,Black,1,1,2,-80.257121,25.94237
+Kinston High School,High School,2015,01/15/2015,2:45Pm,Kinston,North Carolina,Suburbtown,Black,0,1,1,-77.575265,35.295853
+Wisconsin Lutheran High School,High School,2015,01/15/2015,7:30Pm,Milwaukee,Wisconsin,Urban,White,0,2,2,-88.017855,43.0343762
+Williamson High School,High School,2015,01/16/2015,Unknown,Mobile,Alabama,Urban,Black,0,1,1,-88.073954,30.66984
+Vanguard High School,High School,2015,01/16/2015,9:35Pm,Ocala,Florida,Urban,White,0,1,1,-82.136578,29.216463
+Norris Middle School,Middle School,2015,01/27/2015,9:00Am,Omaha,Nebraska,Urban,Hisp,0,1,1,-95.979673,41.236217
+Frederick High School,High School,2015,02/04/2015,10:15Pm,Frederick,Maryland,Urban,White,0,2,2,-77.426081,39.416659
+Tenaya Middle School,Middle School,2015,02/15/2015,6:55Pm,Merced,California,Urban,Hisp,1,0,1,-120.492768,37.292219
+Judson High School,High School,2015,03/05/2015,10:00Am,Converse,Texas,Suburbtown,Hisp,0,3,3,-98.306675,29.509676
+Duval County School Bus,K-12,2015,05/14/2015,4:20Pm,Jacksonville,Florida,Unknown,Unknown,0,2,2,Unknown,Unknown
+Elolf Elementary School,Elementary School,2015,07/24/2015,1:00Pm,Converse,Texas,Suburbtown,Hisp,1,0,1,-98.317584,29.486244
+W.S. Hornsby K-8 School,Elementary School,2015,08/25/2015,10:45Am,Augusta,Georgia,Urban,Black,0,1,1,-81.937661,33.46025
+Dulaney High School,High School,2015,09/04/2015,3:00Pm,Lutherville Timonium,Maryland,Suburbtown,White,0,2,2,-76.612039,39.460917
+Northside High School,High School,2015,09/11/2015,9:55Pm,Lafayette,Louisiana,Urban,Black,0,1,1,-92.002677,30.251159
+Central Elementary School,Elementary School,2015,09/22/2015,3:00Pm,Statesville,North Carolina,Rural,White,1,0,1,-80.95894,35.92732
+Harrisburg High School,High School,2015,09/30/2015,10:00Am,Harrisburg,South Dakota,Rural,White,0,1,1,-96.69975,43.43212
+Excel Southwest High School,High School,2015,11/06/2015,12:45Pm,Chicago,Illinois,Urban,Black,0,3,3,-87.69065,41.76607
+Sulphur Rock Stem Magnet Elementary School,Elementary School,2015,11/11/2015,7:00Am,Sulphur Rock,Arkansas,Rural,White,0,1,1,-91.498672,35.754102
+Harmony Grove High School,High School,2016,01/13/2016,3:00Pm,Camden,Arkansas,Rural,White,0,1,1,-92.779558,33.651403
+Lawrence Central High School,High School,2016,01/22/2016,9:30Pm,Indianapolis,Indiana,Suburbtown,Black,0,1,1,-86.039537,39.85598
+Whites Creek High School,High School,2016,01/29/2016,8:10Pm,Whites Creek,Tennessee,Rural,Black,1,0,1,-86.819019,36.276643
+Muskegon Heights High School,High School,2016,02/09/2016,9:30Pm,Muskegon (Muskegon Heights),Michigan,Suburbtown,Black,0,3,3,-86.245874,43.207974
+Independence High School,High School,2016,02/12/2016,8:00Am,Glendale,Arizona,Suburbtown,Hisp,1,0,1,-112.221045,33.53216
+Faribault Middle School,Middle School,2016,02/23/2016,12:44Pm,Faribault,Minnesota,Suburbtown,White,0,1,1,-93.278556,44.270615
+Madison Jr/Sr High School,Grades 7-12,2016,02/29/2016,11:15Am,Middletown,Ohio,Rural,White,0,2,2,-84.443334,39.533851
+Huffman High School,High School,2016,03/15/2016,2:25Pm,Birmingham,Alabama,Urban,Black,0,1,1,-86.681986,33.612911
+East High School,High School,2016,05/04/2016,3:00Pm,Pueblo,Colorado,Urban,Hisp,0,1,1,-104.57715,38.289379
+High Point High School,High School,2016,05/05/2016,5:00Pm,Beltsville,Maryland,Suburbtown,Hisp,1,1,2,-76.943553,39.042517
+Southside High School,High School,2016,05/13/2016,8:30Am,Greenville,South Carolina,Suburbtown,Black,0,1,1,-82.396129,34.796705
+Augusta High School,High School,2016,05/15/2016,2:00Pm,Augusta,Kansas,Suburbtown,White,0,2,2,-96.969605,37.696642
+Thompson K-8 International Academy,K-8,2016,05/21/2016,10:50Pm,Southfield,Michigan,Urban,Black,0,2,2,-83.210071,42.48272
+Technical High School,High School,2016,05/24/2016,9:00Am,Saint Cloud,Minnesota,Urban,White,0,1,1,-94.16553,45.554372
+Woodrow Wilson Junior High School,Grades 7-8,2016,06/30/2016,7:35Pm,Hanford,California,Urban,Hisp,0,1,1,-119.654333,36.334295
+Sandusky High School,High School,2016,06/30/2016,12:00Am,Sandusky,Ohio,Suburbtown,Black,0,1,1,-82.712893,41.434663
+Chaffey High School,High School,2016,07/21/2016,9:33Pm,Ontario,California,Urban,Hisp,0,1,1,-117.652782,34.078992
+Ava High School,High School,2016,07/25/2016,1:45Am,Ava,Missouri,Suburbtown,White,0,1,1,-92.658542,36.95865
+Wedgewood Middle School,Middle School,2016,08/17/2016,8:10Pm,Columbus,Ohio,Urban,White,0,2,2,-83.099323,39.936638
+Mclain High School,High School,2016,09/02/2016,9:15Pm,Tulsa,Oklahoma,Urban,Black,0,1,1,-95.974188,36.225223
+Alpine High School,High School,2016,09/08/2016,9:00Am,Alpine,Texas,Suburbtown,White,0,1,1,-103.665798,30.371983
+Kearns High School,High School,2016,09/08/2016,9:20Pm,Salt Lake City (Kearns),Utah,Suburbtown,White,0,1,1,-112.004332,40.649954
+Smalls Athletic Field,High School,2016,09/09/2016,9:30Pm,York,Pennsylvania,Unknown,Unknown,0,2,2,Unknown,Unknown
+T.A. Wilson Academy,High School,2016,09/26/2016,2:30Pm,Jackson,Michigan,Urban,Black,0,1,1,-84.412684,42.240483
+Elder High School,High School,2016,09/27/2016,9:45Pm,Cincinnati,Ohio,Urban,White,0,3,3,-84.572063,39.121525
+Townville Elementary,Elementary School,2016,09/28/2016,1:45Pm,Townville,South Carolina,Rural,White,1,2,3,-82.903356,34.563258
+Vigor High School,High School,2016,10/11/2016,3:45Pm,Prichard,Alabama,Suburbtown,Black,0,1,1,-88.080692,30.743233
+Linden-Mckinley Stem Academy,Grades 7-12,2016,10/13/2016,2:40Pm,Columbus,Ohio,Urban,Black,0,2,2,-82.973741,40.00914
+Benjamin E. Mays High School,High School,2016,10/15/2016,11:27Pm,Atlanta,Georgia,Urban,Black,0,1,1,-84.50383,33.733869
+June Jordan School For Equity,High School,2016,10/18/2016,3:17Pm,San Francisco,California,Urban,Hisp,0,3,3,-122.425241,37.719558
+Mott Hall Charter School,Elementary School,2016,10/19/2016,2:00Pm,Bronx,New York,Urban,Hisp,0,1,1,-73.902119,40.831004
+Union Middle School,Middle School,2016,10/25/2016,3:00Pm,Sandy,Utah,Suburbtown,White,0,1,1,-111.873061,40.60715
+Houston Can Academy,High School,2016,11/07/2016,12:35Pm,Houston,Texas,Urban,Unknown,1,1,2,-95.549249,29.674479
+Savannah High School,High School,2016,11/09/2016,9:00Pm,Savannah,Georgia,Urban,Black,0,1,1,-81.056241,32.06271
+Bayless High School,High School,2016,12/09/2016,7:15Pm,Saint Louis,Missouri,Suburbtown,White,0,1,1,-90.30145,38.552048
+West Liberty-Salem High School,High School,2017,01/20/2017,7:35Am,West Liberty,Ohio,Rural,White,0,2,2,-83.754234,40.215565
+Mark Twain Elementary School,Elementary School,2017,01/25/2017,7:50Am,Detroit,Michigan,Urban,Black,1,0,1,-83.162521,42.26986
+Scullen Middle School,Elementary School,2017,01/27/2017,7:30Pm,Naperville,Illinois,Urban,White,1,0,1,-88.210347,41.69644
+South Aiken High School,High School,2017,01/27/2017,9:00Pm,Aiken,South Carolina,Suburbtown,White,0,3,3,-81.71303,33.521766
+Palmer Pillans Middle School,Middle School,2017,01/30/2017,6:20Pm,Mobile,Alabama,Urban,Black,0,1,1,-88.08544,30.628471
+Lee High School,High School,2017,03/16/2017,3:00Pm,Montgomery,Alabama,Urban,Black,0,1,1,-86.271513,32.377915
+King City High School,High School,2017,03/21/2017,11:01Am,King City,California,Suburbtown,Hisp,0,1,1,-121.133205,36.209676
+Linton Middle School,Middle School,2017,03/28/2017,4:30Pm,Pittsburgh (Penn Hills),Pennsylvania,Suburbtown,Black,1,0,1,-79.813136,40.48121
+North Park Elementary School,Elementary School,2017,04/10/2017,10:27Am,San Bernardino,California,Urban,Hisp,2,1,3,-117.301345,34.179349
+Booker T. Washington High School,High School,2017,04/15/2017,9:05Am,Tulsa,Oklahoma,Urban,White,0,1,1,-95.970804,36.187999
+Moss Bluff Elementary,Elementary School,2017,05/15/2017,8:00Am,Lake Charles (Moss Bluff),Louisiana,Rural,White,0,1,1,-93.202819,30.29956
+Mclain High School,High School,2017,05/26/2017,Unknown,Tulsa,Oklahoma,Urban,Black,0,1,1,-95.974188,36.225223
+Warren Elementary School,Elementary School,2017,06/16/2017,1:45Pm,Chicago,Illinois,Urban,Black,0,2,2,-87.574964,41.727731
+Jfk Stadium,High School,2017,06/22/2017,6:45Pm,Springfield,Missouri,Unknown,Unknown,0,1,1,Unknown,Unknown
+North Little Rock High School,High School,2017,09/08/2017,9:30Pm,North Little Rock,Arkansas,Urban,Black,0,1,1,-92.268121,34.77634
+Freeman High School,High School,2017,09/13/2017,10:00Am,Rockford,Washington,Rural,White,1,3,4,-117.19638,47.519667
+Mattoon High School,High School,2017,09/20/2017,11:30Am,Mattoon,Illinois,Suburbtown,White,0,1,1,-88.386955,39.474405
+Callaway High School,High School,2017,09/20/2017,8:15Pm,Jackson,Mississippi,Urban,Black,0,1,1,-90.171424,32.384835
+Southern Middle School,Middle School,2017,09/28/2017,7:30Pm,Lexington,Kentucky,Urban,White,0,1,1,-84.511854,37.979064
+Rocky Mount High School,High School,2017,10/19/2017,4:00Pm,Rocky Mount,North Carolina,Urban,Black,0,1,1,-77.834874,35.939076
+Pattengill Academy,Middle School,2017,11/03/2017,4:30Pm,Lansing,Michigan,Urban,Black,0,1,1,-84.524561,42.739616
+Banneker High School,High School,2017,11/09/2017,3:30Pm,Atlanta,Georgia,Suburbtown,Black,0,2,2,-84.516471,33.59134
+Rancho Tehama Elementary School,Elementary School,2017,11/14/2017,8:00Am,Corning,California,Rural,Hisp,0,1,1,-122.398455,40.015716
+Aztec High School,High School,2017,12/07/2017,8:04Am,Aztec,New Mexico,Suburbtown,White,2,0,2,-107.990243,36.820718
+Champaign Central High School,High School,2017,12/08/2017,9:20Pm,Champaign,Illinois,Urban,White,0,3,3,-88.252835,40.116662
+Roosevelt Elementary,Elementary School,2017,12/11/2017,3:30Pm,Hanford,California,Urban,Hisp,0,1,1,-119.658392,36.31874
+Beecher High School,High School,2017,12/19/2017,9:15Pm,Mount Morris,Michigan,Suburbtown,Unknown,0,1,1,-83.715607,43.098421
+Italy High School,High School,2018,01/22/2018,7:50Am,Italy,Texas,Rural,White,0,1,1,-96.878968,32.181129
+Marshall County High School,High School,2018,01/23/2018,8:57Am,Benton,Kentucky,Rural,White,2,14,16,-88.332917,36.912835
+Lincoln High School,High School,2018,01/31/2018,3:51Pm,Philadelphia,Pennsylvania,Urban,Black,1,0,1,-75.043126,40.042773
+Sal Castro Middle School,Middle School,2018,02/01/2018,8:55Am,Los Angeles,California,Urban,Hisp,0,2,2,-118.262999,34.061886
+Oxon Hill High School,High School,2018,02/05/2018,5:15Pm,Oxon Hill,Maryland,Suburbtown,Black,0,1,1,-76.992311,38.797563
+Pearl-Cohn Entertainment Magnet High School,High School,2018,02/09/2018,2:30Pm,Nashville,Tennessee,Urban,Black,0,1,1,-86.814874,36.164123
+Marjory Stoneman Douglas High School,High School,2018,02/14/2018,2:20Pm,Parkland,Florida,Suburbtown,White,17,14,31,-80.268717,26.304429
+Huffman High School,High School,2018,03/07/2018,3:45Pm,Birmingham,Alabama,Urban,Black,1,1,2,-86.681986,33.612911
+Great Mills High School,High School,2018,03/20/2018,7:55Am,Great Mills,Maryland,Suburbtown,White,1,1,2,-76.487496,38.247434
+Gloversville Middle School,Middle School,2018,04/09/2018,11:00Am,Gloversville,New York,Suburbtown,White,0,1,1,-74.364074,43.052839
+Raytown South Middle School,Middle School,2018,04/12/2018,5:30Pm,Raytown,Missouri,Suburbtown,Black,0,1,1,-94.449085,38.972618
+Forest High School,High School,2018,04/20/2018,8:39Am,Ocala,Florida,Suburbtown,White,0,1,1,-82.066682,29.14362
+Highland High School,High School,2018,05/11/2018,7:00Am,Palmdale,California,Suburbtown,Hisp,0,1,1,-118.175852,34.592148
+Mount Zion High School,High School,2018,05/18/2018,8:00Pm,Jonesboro,Georgia,Suburbtown,Black,1,1,2,-84.310484,33.554474
+Santa Fe High School,High School,2018,05/18/2018,7:30Am,Santa Fe,Texas,Suburbtown,White,10,13,23,-95.141171,29.392106
+Noblesville West Middle School,Middle School,2018,05/25/2018,9:00Am,Noblesville,Indiana,Suburbtown,White,0,2,2,-86.031354,40.077165
+Skyline High School,High School,2018,06/21/2018,5:00Am,Dallas,Texas,Urban,Hisp,0,1,1,-96.689761,32.779362
+Edgewood High School,High School,2018,08/03/2018,9:15Pm,Edgewood,Maryland,Suburbtown,Black,0,1,1,-76.286196,39.423364
+Lakeside Middle School,Middle School,2018,08/09/2018,8:15Pm,Millville,New Jersey,Suburbtown,White,1,0,1,-75.04217,39.417662
+Antioch High School,High School,2018,08/11/2018,6:00Pm,Antioch,Tennessee,Urban,Black,0,1,1,-86.598953,36.047367
+Palm Beach Central High School,High School,2018,08/17/2018,9:15Pm,Wellington,Florida,Suburbtown,White,0,2,2,-80.179645,26.652514
+Raines High School,High School,2018,08/24/2018,10:00Pm,Jacksonville,Florida,Urban,Black,1,2,3,-81.709708,30.382218
+Canyon Springs High School,High School,2018,09/11/2018,2:40Pm,Las Vegas,Nevada,Suburbtown,Hisp,1,0,1,-115.135695,36.233566
+Hebron High School,High School,2018,09/27/2018,8:38Pm,Carrollton,Texas,Suburbtown,White,0,1,1,-96.858636,33.035521
+Denali Elementary School,Elementary School,2018,10/03/2018,9:30Am,Anchorage,Alaska,Urban,White,0,1,1,-149.881113,61.213281
+Varina High School,High School,2018,10/07/2018,9:30Pm,Henrico,Virginia,Rural,Black,0,1,1,-77.378427,37.471892
+Butler High School,High School,2018,10/29/2018,7:15Am,Matthews,North Carolina,Suburbtown,White,1,0,1,-80.691593,35.120282
+Simonsdale Elementary School,Elementary School,2018,11/20/2018,4:00Pm,Portsmouth,Virginia,Urban,White,0,1,1,-76.382449,36.826811
+Cawood Elementary School,Elementary School,2018,12/11/2018,9:00Pm,Cawood,Kentucky,Rural,White,0,2,2,-83.229837,36.784261
